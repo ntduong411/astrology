@@ -19,6 +19,68 @@ NEG_LV_3 = -60
 NEG_LV_4 = -36
 NEG_LV_5 = -8
 
+SUN = 0
+MOON = 1
+MERCURY = 2
+VENUS = 3
+MARS = 4
+JUPITER = 5
+SATURN = 6
+URANUS = 7
+NEPTUNE = 8
+PLUTO = 9
+
+FIRST_HOUSE = 0
+SECOND_HOUSE = 1
+THIRD_HOUSE = 2
+FORTH_HOUSE = 3
+FIFTH_HOUSE = 4
+SIXTH_HOUSE = 5
+SEVENTH_HOUSE = 6
+EIGHTH_HOUSE = 7
+NINTH_HOUSE = 8
+TENTH_HOUSE = 9
+ELEVENTH_HOUSE = 10
+TWELFTH_HOUSE = 11
+
+def check_planet_in_house(first, second, planet, house, is_asc = False):
+    first_planets = first.planets_degrees_ut
+    second_houses = second.houses_degree_ut
+
+    if is_asc:
+        planet_point = first.houses_degree_ut[0]
+    else:
+        planet_point = first_planets[planet]
+    house_range = [second_houses[divmod(house, 12)[1]], second_houses[divmod(house + 1, 12)[1]]]
+    
+    if house_range[1] < house_range[0]:
+        return planet_point >= house_range[0] or planet_point <= house_range[1]
+    else:
+        return house_range[0] <= planet_point <= house_range[1]
+
+def score_houses(first, second):
+    # planet of first mapping to house of second
+    score = check_planet_in_house(first, second, SUN, FIRST_HOUSE)         * 3 + \
+            check_planet_in_house(first, second, SUN, SEVENTH_HOUSE)       * 4 + \
+            check_planet_in_house(first, second, MOON, FIRST_HOUSE)        * 3 + \
+            check_planet_in_house(first, second, MOON, SEVENTH_HOUSE)      * 3 + \
+            check_planet_in_house(first, second, VENUS, FIRST_HOUSE)       * 2 + \
+            check_planet_in_house(first, second, VENUS, SEVENTH_HOUSE)     * 3 + \
+            check_planet_in_house(first, second, JUPITER, SEVENTH_HOUSE)   * 2 + \
+            check_planet_in_house(first, second, SUN, SEVENTH_HOUSE, True) * 3
+
+    # planet of second mapping to house of first
+    score += check_planet_in_house(second, first, SUN, FIRST_HOUSE)         * 3 + \
+             check_planet_in_house(second, first, SUN, SEVENTH_HOUSE)       * 4 + \
+             check_planet_in_house(second, first, MOON, FIRST_HOUSE)        * 3 + \
+             check_planet_in_house(second, first, MOON, SEVENTH_HOUSE)      * 3 + \
+             check_planet_in_house(second, first, VENUS, FIRST_HOUSE)       * 2 + \
+             check_planet_in_house(second, first, VENUS, SEVENTH_HOUSE)     * 3 + \
+             check_planet_in_house(second, first, JUPITER, SEVENTH_HOUSE)   * 2 + \
+             check_planet_in_house(second, first, SUN, SEVENTH_HOUSE, True) * 3
+
+    return score
+
 def cal_matching_percent(pos_score, neg_score):
     result = 0
     if   pos_score <= POS_LV_1  and neg_score <= NEG_LV_1:     result = 1
@@ -123,7 +185,7 @@ with open('samples.csv', mode='r') as csv_file:
                     #     pos_scores.append(rc["score"]) 
                     # if rc["score"] < 0:
                     #     neg_scores.append(rc["score"]) 
-        pos_sum = num_score_types[1] + num_score_types[2] * 2 + num_score_types[3] * 3 + num_score_types[4] * 4
+        pos_sum = num_score_types[1] + num_score_types[2] * 2 + num_score_types[3] * 3 + num_score_types[4] * 4 + score_houses(first, second)
         neg_sum = num_score_types[-1] + num_score_types[-2] * 2 + num_score_types[-3] * 3 + num_score_types[-4] * 4
         results.append([
             first["name"], second["name"], 
