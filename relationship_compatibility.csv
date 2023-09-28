@@ -461,7 +461,7 @@ Pluto,60,Jupiter,1
 Pluto,90,Jupiter,-1
 Pluto,120,Jupiter,1
 Pluto,180,Jupiter,-1
-Pluto,180,Ascendant,1
+Pluto,180,Ascendant,-1
 Ascendant,0,Sun,3
 Ascendant,60,Sun,2
 Ascendant,90,Sun,-2
@@ -500,7 +500,7 @@ Ascendant,180,Saturn,-2
 Ascendant,180,Uranus,-3
 Ascendant,0,Neptune,-2
 Ascendant,180,Neptune,-2
-Ascendant,180,Pluto,1
+Ascendant,180,Pluto,-1
 Ascendant,0,Ascendant,1
 Ascendant,60,Ascendant,2
 Ascendant,90,Ascendant,-2
