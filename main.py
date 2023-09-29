@@ -17,15 +17,15 @@ POS_LV_8 = 70
 POS_LV_9 = 115
 POS_LV_10 = 116
 
-NEG_LV_1 = -120
-NEG_LV_2 = -56
-NEG_LV_3 = -46
-NEG_LV_4 = -35
-NEG_LV_5 = -29
-NEG_LV_6 = -23
-NEG_LV_7 = -17
-NEG_LV_8 = -11
-NEG_LV_9 = -5
+NEG_LV_1 = -116
+NEG_LV_2 = -61
+NEG_LV_3 = -51
+NEG_LV_4 = -41
+NEG_LV_5 = -34
+NEG_LV_6 = -27
+NEG_LV_7 = -20
+NEG_LV_8 = -13
+NEG_LV_9 = -6
 
 SUN = 0
 MOON = 1
@@ -96,10 +96,10 @@ def cal_matching_percent(num_score_types):
     result = 0
     if   pos_score <= POS_LV_1  and neg_score <= NEG_LV_1:     result = 1
     elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_2:     result = 2
-    elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_3:     result = 18
-    elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_4:     result = 19
-    elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_5:     result = 23
-    elif pos_score <= POS_LV_1  and neg_score >  NEG_LV_6:     result = 32
+    elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_3:     result = 9
+    elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_4:     result = 18
+    elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_5:     result = 19
+    elif pos_score <= POS_LV_1  and neg_score >  NEG_LV_6:     result = 23
     elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_7:     result = 34
     elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_8:     result = 40
     elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_9:     result = 41
@@ -107,7 +107,7 @@ def cal_matching_percent(num_score_types):
    
     elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_1:     result = 3
     elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_2:     result = 4
-    elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_3:     result = 20
+    elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_3:     result = 14
     elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_4:     result = 24
     elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_5:     result = 33
     elif pos_score <= POS_LV_2  and neg_score <= NEG_LV_6:     result = 36
@@ -117,7 +117,7 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_2  and neg_score >  NEG_LV_9:     result = 61
 
     elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_1:     result = 5
-    elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_2:     result = 7
+    elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_2:     result = 10
     elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_3:     result = 21
     elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_4:     result = 26
     elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_5:     result = 35
@@ -128,7 +128,7 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_3  and neg_score >  NEG_LV_9:     result = 65
 
     elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_1:     result = 6
-    elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_2:     result = 8
+    elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_2:     result = 11
     elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_3:     result = 22
     elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_4:     result = 27
     elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_5:     result = 37
@@ -138,8 +138,8 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_4  and neg_score <= NEG_LV_9:     result = 66
     elif pos_score <= POS_LV_4  and neg_score >  NEG_LV_9:     result = 74
 
-    elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_1:     result = 9
-    elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_2:     result = 10
+    elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_1:     result = 7
+    elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_2:     result = 12
     elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_3:     result = 25
     elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_4:     result = 42
     elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_5:     result = 46  
@@ -149,8 +149,8 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_5  and neg_score <= NEG_LV_9:     result = 77
     elif pos_score <= POS_LV_5  and neg_score >  NEG_LV_9:     result = 80
 
-    elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_1:     result = 11
-    elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_2:     result = 12
+    elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_1:     result = 8
+    elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_2:     result = 13
     elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_3:     result = 28
     elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_4:     result = 48
     elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_5:     result = 52
@@ -160,8 +160,8 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_6  and neg_score <= NEG_LV_9:     result = 82
     elif pos_score <= POS_LV_6  and neg_score >  NEG_LV_9:     result = 87
 
-    elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_1:     result = 13
-    elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_2:     result = 14
+    elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_1:     result = 15
+    elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_2:     result = 16
     elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_3:     result = 31
     elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_4:     result = 49
     elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_5:     result = 67
@@ -171,8 +171,8 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_7  and neg_score <= NEG_LV_9:     result = 89
     elif pos_score <= POS_LV_7  and neg_score >  NEG_LV_9:     result = 92
 
-    elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_1:     result = 15
-    elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_2:     result = 16
+    elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_1:     result = 17
+    elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_2:     result = 29
     elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_3:     result = 45
     elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_4:     result = 56
     elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_5:     result = 72
@@ -182,8 +182,8 @@ def cal_matching_percent(num_score_types):
     elif pos_score <= POS_LV_8  and neg_score <= NEG_LV_9:     result = 94
     elif pos_score <= POS_LV_8  and neg_score >  NEG_LV_9:     result = 96
 
-    elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_1:     result = 17
-    elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_2:     result = 29
+    elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_1:     result = 20
+    elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_2:     result = 32
     elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_3:     result = 57
     elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_4:     result = 69
     elif pos_score <= POS_LV_9  and neg_score <= NEG_LV_5:     result = 79
