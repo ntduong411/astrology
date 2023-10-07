@@ -1,0 +1,2378 @@
+[
+    {
+        "first_person": "Duong",
+        "second_person": "Minh",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                8
+            ],
+            [
+                "Mutual Understanding",
+                5
+            ],
+            [
+                "Trust",
+                4
+            ],
+            [
+                "Physical Intimacy",
+                3
+            ],
+            [
+                "Mutual Support",
+                3
+            ],
+            [
+                "Personal Growth",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 15,
+            "Commitment": 12,
+            "Communication": 11,
+            "Intellectual": 8,
+            "Emotional": 3,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Conflict Resolution",
+                5
+            ],
+            [
+                "Competitiveness",
+                4
+            ],
+            [
+                "Disagreements",
+                4
+            ],
+            [
+                "Possessiveness",
+                4
+            ],
+            [
+                "Toxic Behaviors",
+                4
+            ],
+            [
+                "Emotional Connection",
+                3
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 14,
+            "Intellectual": 11,
+            "Emotional": 8,
+            "Commitment": 5,
+            "Lifestyle": 1,
+            "Physical": 1
+        }
+    },
+    {
+        "first_person": "Jack",
+        "second_person": "Jane",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                9
+            ],
+            [
+                "Mutual Understanding",
+                6
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Chemistry",
+                4
+            ],
+            [
+                "Communication",
+                3
+            ],
+            [
+                "Encouragement",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 18,
+            "Communication": 15,
+            "Intellectual": 13,
+            "Emotional": 11,
+            "Commitment": 8,
+            "Lifestyle": 5
+        },
+        "challenges": [
+            [
+                "Possessiveness",
+                3
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Power Imbalance",
+                2
+            ],
+            [
+                "Toxic Behaviors",
+                2
+            ],
+            [
+                "Conflict Resolution",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                1
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 7,
+            "Commitment": 6,
+            "Communication": 5,
+            "Intellectual": 4,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "TA",
+        "second_person": "Thanh",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Emotional Bond",
+                5
+            ],
+            [
+                "Mutual Understanding",
+                5
+            ],
+            [
+                "Mutual Respect",
+                5
+            ],
+            [
+                "Mutual Support",
+                3
+            ],
+            [
+                "Affection",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 14,
+            "Emotional": 14,
+            "Physical": 12,
+            "Intellectual": 11,
+            "Commitment": 10,
+            "Lifestyle": 1
+        },
+        "challenges": [
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Miscommunication",
+                2
+            ],
+            [
+                "Power Imbalance",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 5,
+            "Emotional": 5,
+            "Intellectual": 5,
+            "Commitment": 4,
+            "Physical": 2,
+            "Lifestyle": 1
+        }
+    },
+    {
+        "first_person": "LA",
+        "second_person": "Kiki",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                9
+            ],
+            [
+                "Mutual Understanding",
+                7
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Emotional Bond",
+                4
+            ],
+            [
+                "Emotional Security",
+                3
+            ],
+            [
+                "Shared Interests",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 18,
+            "Emotional": 13,
+            "Communication": 11,
+            "Intellectual": 10,
+            "Commitment": 5,
+            "Lifestyle": 4
+        },
+        "challenges": [
+            [
+                "Lack of Understanding",
+                4
+            ],
+            [
+                "Points of view",
+                2
+            ],
+            [
+                "Indifference",
+                2
+            ],
+            [
+                "Lifestyle",
+                2
+            ],
+            [
+                "Conflict Resolution",
+                2
+            ],
+            [
+                "Toxic Behaviors",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 8,
+            "Commitment": 6,
+            "Emotional": 6,
+            "Intellectual": 5,
+            "Lifestyle": 4,
+            "Physical": 2
+        }
+    },
+    {
+        "first_person": "Nu",
+        "second_person": "Linh",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                6
+            ],
+            [
+                "Points of view",
+                4
+            ],
+            [
+                "Shared Values",
+                4
+            ],
+            [
+                "Adaptability",
+                4
+            ],
+            [
+                "Commitment",
+                4
+            ],
+            [
+                "Communication",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 15,
+            "Commitment": 14,
+            "Intellectual": 14,
+            "Emotional": 5,
+            "Physical": 5,
+            "Lifestyle": 1
+        },
+        "challenges": [
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Miscommunication",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ],
+            [
+                "Criticism",
+                2
+            ],
+            [
+                "Personal Growth",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 6,
+            "Commitment": 5,
+            "Intellectual": 4,
+            "Emotional": 3,
+            "Lifestyle": 3,
+            "Physical": 3
+        }
+    },
+    {
+        "first_person": "Kate",
+        "second_person": "Cucai",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                6
+            ],
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Personal Growth",
+                6
+            ],
+            [
+                "Physical Intimacy",
+                4
+            ],
+            [
+                "Mutual Respect",
+                4
+            ],
+            [
+                "Points of view",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Intellectual": 16,
+            "Physical": 15,
+            "Communication": 13,
+            "Commitment": 9,
+            "Emotional": 6,
+            "Lifestyle": 5
+        },
+        "challenges": [
+            [
+                "Toxic Behaviors",
+                4
+            ],
+            [
+                "Criticism",
+                3
+            ],
+            [
+                "Disagreements",
+                3
+            ],
+            [
+                "Ego Clash",
+                2
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Conflict Resolution",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 11,
+            "Emotional": 9,
+            "Intellectual": 8,
+            "Commitment": 6,
+            "Lifestyle": 3,
+            "Physical": 3
+        }
+    },
+    {
+        "first_person": "Thuy",
+        "second_person": "Cbd",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                5
+            ],
+            [
+                "Physical Intimacy",
+                4
+            ],
+            [
+                "Points of view",
+                3
+            ],
+            [
+                "Personal Growth",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                2
+            ],
+            [
+                "Trust",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 13,
+            "Intellectual": 11,
+            "Communication": 7,
+            "Commitment": 4,
+            "Lifestyle": 4,
+            "Emotional": 1
+        },
+        "challenges": [
+            [
+                "Lack of Understanding",
+                4
+            ],
+            [
+                "Possessiveness",
+                3
+            ],
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Miscommunication",
+                2
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 10,
+            "Emotional": 9,
+            "Commitment": 7,
+            "Physical": 3,
+            "Intellectual": 2,
+            "Lifestyle": 1
+        }
+    },
+    {
+        "first_person": "Dazit",
+        "second_person": "my",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Emotional Bond",
+                3
+            ],
+            [
+                "Commitment",
+                3
+            ],
+            [
+                "Sexual Needs",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 12,
+            "Intellectual": 9,
+            "Commitment": 8,
+            "Communication": 8,
+            "Emotional": 6,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Criticism",
+                4
+            ],
+            [
+                "Possessiveness",
+                4
+            ],
+            [
+                "Emotional Insecurity",
+                3
+            ],
+            [
+                "Deception",
+                3
+            ],
+            [
+                "Intimacy Issues",
+                3
+            ],
+            [
+                "Personal Growth",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Commitment": 11,
+            "Emotional": 11,
+            "Communication": 9,
+            "Intellectual": 8,
+            "Physical": 7,
+            "Lifestyle": 5
+        }
+    },
+    {
+        "first_person": "Thai",
+        "second_person": "Nhu",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                5
+            ],
+            [
+                "Mutual Support",
+                4
+            ],
+            [
+                "Emotional Bond",
+                4
+            ],
+            [
+                "Trust",
+                4
+            ],
+            [
+                "Physical Attraction",
+                4
+            ],
+            [
+                "Openness",
+                4
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 15,
+            "Intellectual": 14,
+            "Commitment": 12,
+            "Physical": 10,
+            "Emotional": 7,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Ego Clash",
+                2
+            ],
+            [
+                "Competitiveness",
+                1
+            ],
+            [
+                "Disagreements",
+                1
+            ],
+            [
+                "Conflict Resolution",
+                1
+            ],
+            [
+                "Points of view",
+                1
+            ],
+            [
+                "Missed Expectations",
+                1
+            ]
+        ],
+        "incompatibilities": {
+            "Intellectual": 4,
+            "Commitment": 2,
+            "Communication": 2,
+            "Emotional": 1,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "Lan1",
+        "second_person": "Lan2",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                7
+            ],
+            [
+                "Communication",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ],
+            [
+                "Shared Interests",
+                2
+            ],
+            [
+                "Emotional Bond",
+                2
+            ],
+            [
+                "Chemistry",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 15,
+            "Communication": 7,
+            "Intellectual": 7,
+            "Commitment": 6,
+            "Emotional": 6,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Missed Expectations",
+                5
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ],
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Deception",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Commitment": 10,
+            "Communication": 10,
+            "Emotional": 9,
+            "Intellectual": 3,
+            "Lifestyle": 1,
+            "Physical": 1
+        }
+    },
+    {
+        "first_person": "Ca",
+        "second_person": "Ne",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Physical Intimacy",
+                6
+            ],
+            [
+                "Mutual Understanding",
+                4
+            ],
+            [
+                "Personal Growth",
+                4
+            ],
+            [
+                "Communication",
+                3
+            ],
+            [
+                "Points of view",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 18,
+            "Intellectual": 12,
+            "Communication": 11,
+            "Commitment": 9,
+            "Emotional": 8,
+            "Lifestyle": 1
+        },
+        "challenges": [
+            [
+                "Emotional Connection",
+                5
+            ],
+            [
+                "Missed Expectations",
+                5
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ],
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Boredom",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 10,
+            "Commitment": 6,
+            "Communication": 6,
+            "Intellectual": 6,
+            "Lifestyle": 1,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "LA",
+        "second_person": "Ne",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                9
+            ],
+            [
+                "Physical Intimacy",
+                4
+            ],
+            [
+                "Affection",
+                3
+            ],
+            [
+                "Sexual Needs",
+                3
+            ],
+            [
+                "Commitment",
+                2
+            ],
+            [
+                "Mutual Understanding",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 21,
+            "Communication": 6,
+            "Commitment": 5,
+            "Intellectual": 5,
+            "Emotional": 4,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Toxic Behaviors",
+                4
+            ],
+            [
+                "Conflict Resolution",
+                3
+            ],
+            [
+                "Disagreements",
+                3
+            ],
+            [
+                "Criticism",
+                3
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Miscommunication",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 12,
+            "Commitment": 8,
+            "Intellectual": 6,
+            "Emotional": 5,
+            "Lifestyle": 3,
+            "Physical": 3
+        }
+    },
+    {
+        "first_person": "MELA",
+        "second_person": "BoLA",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                7
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Commitment",
+                3
+            ],
+            [
+                "Trust",
+                3
+            ],
+            [
+                "Points of view",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 15,
+            "Communication": 11,
+            "Commitment": 10,
+            "Intellectual": 9,
+            "Emotional": 1,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Criticism",
+                5
+            ],
+            [
+                "Lack of Understanding",
+                4
+            ],
+            [
+                "Lifestyle",
+                4
+            ],
+            [
+                "Emotional Insecurity",
+                3
+            ],
+            [
+                "Possessiveness",
+                3
+            ],
+            [
+                "Intimacy Issues",
+                3
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 14,
+            "Emotional": 10,
+            "Lifestyle": 9,
+            "Commitment": 7,
+            "Intellectual": 6,
+            "Physical": 5
+        }
+    },
+    {
+        "first_person": "BaHong",
+        "second_person": "OngNgoc",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                9
+            ],
+            [
+                "Affection",
+                4
+            ],
+            [
+                "Physical Intimacy",
+                4
+            ],
+            [
+                "Sexual Needs",
+                4
+            ],
+            [
+                "Time Together",
+                3
+            ],
+            [
+                "Chemistry",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 22,
+            "Commitment": 9,
+            "Emotional": 9,
+            "Intellectual": 6,
+            "Communication": 5,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Toxic Behaviors",
+                4
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Criticism",
+                2
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Conflict Resolution",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 10,
+            "Intellectual": 6,
+            "Commitment": 5,
+            "Emotional": 5,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "Ca",
+        "second_person": "dobiet",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                4
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ],
+            [
+                "Personal Growth",
+                3
+            ],
+            [
+                "Mutual Support",
+                2
+            ],
+            [
+                "Points of view",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 12,
+            "Physical": 8,
+            "Intellectual": 7,
+            "Commitment": 5,
+            "Lifestyle": 4,
+            "Emotional": 3
+        },
+        "challenges": [
+            [
+                "Emotional Insecurity",
+                3
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Miscommunication",
+                3
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Lack of Affection",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 11,
+            "Communication": 10,
+            "Intellectual": 6,
+            "Commitment": 5,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "BoLy",
+        "second_person": "mely",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                7
+            ],
+            [
+                "Encouragement",
+                5
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Openness",
+                4
+            ],
+            [
+                "Emotional Bond",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 15,
+            "Physical": 15,
+            "Intellectual": 10,
+            "Emotional": 8,
+            "Commitment": 6,
+            "Lifestyle": 1
+        },
+        "challenges": [
+            [
+                "Emotional Connection",
+                4
+            ],
+            [
+                "Toxic Behaviors",
+                3
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Lifestyle",
+                3
+            ],
+            [
+                "Criticism",
+                2
+            ],
+            [
+                "Missed Expectations",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 8,
+            "Emotional": 7,
+            "Lifestyle": 7,
+            "Commitment": 6,
+            "Physical": 3,
+            "Intellectual": 1
+        }
+    },
+    {
+        "first_person": "CTuyn",
+        "second_person": "anhson",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                8
+            ],
+            [
+                "Mutual Respect",
+                6
+            ],
+            [
+                "Physical Intimacy",
+                6
+            ],
+            [
+                "Mutual Understanding",
+                5
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Communication",
+                4
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 19,
+            "Communication": 16,
+            "Intellectual": 16,
+            "Commitment": 11,
+            "Emotional": 8,
+            "Lifestyle": 3
+        },
+        "challenges": [
+            [
+                "Missed Expectations",
+                5
+            ],
+            [
+                "Codependency",
+                2
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ],
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ],
+            [
+                "Deception",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Commitment": 9,
+            "Emotional": 8,
+            "Communication": 7,
+            "Intellectual": 3,
+            "Physical": 2,
+            "Lifestyle": 1
+        }
+    },
+    {
+        "first_person": "chiha",
+        "second_person": "nyc",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                7
+            ],
+            [
+                "Points of view",
+                6
+            ],
+            [
+                "Personal Growth",
+                6
+            ],
+            [
+                "Communication",
+                5
+            ],
+            [
+                "Mutual Respect",
+                5
+            ],
+            [
+                "Trust",
+                5
+            ]
+        ],
+        "compatibilities": {
+            "Intellectual": 20,
+            "Communication": 18,
+            "Commitment": 14,
+            "Physical": 12,
+            "Lifestyle": 5,
+            "Emotional": 4
+        },
+        "challenges": [
+            [
+                "Possessiveness",
+                3
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ],
+            [
+                "Deception",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 8,
+            "Communication": 7,
+            "Intellectual": 5,
+            "Commitment": 4,
+            "Lifestyle": 2,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "chiha",
+        "second_person": "Anne",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                10
+            ],
+            [
+                "Sexual Needs",
+                7
+            ],
+            [
+                "Physical Intimacy",
+                5
+            ],
+            [
+                "Personal Growth",
+                4
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ],
+            [
+                "Trust",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 29,
+            "Communication": 11,
+            "Commitment": 9,
+            "Intellectual": 9,
+            "Emotional": 5,
+            "Lifestyle": 5
+        },
+        "challenges": [
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Ego Clash",
+                1
+            ],
+            [
+                "Commitment",
+                1
+            ],
+            [
+                "Codependency",
+                1
+            ],
+            [
+                "Emotional Connection",
+                1
+            ],
+            [
+                "Criticism",
+                1
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 5,
+            "Commitment": 4,
+            "Communication": 2,
+            "Intellectual": 2,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "MT",
+        "second_person": "TH",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                7
+            ],
+            [
+                "Mutual Understanding",
+                4
+            ],
+            [
+                "Personal Growth",
+                4
+            ],
+            [
+                "Physical Intimacy",
+                4
+            ],
+            [
+                "Communication",
+                3
+            ],
+            [
+                "Sexual Needs",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 15,
+            "Intellectual": 11,
+            "Communication": 9,
+            "Commitment": 6,
+            "Lifestyle": 4,
+            "Emotional": 0
+        },
+        "challenges": [
+            [
+                "Possessiveness",
+                7
+            ],
+            [
+                "Conflict Resolution",
+                5
+            ],
+            [
+                "Lack of Understanding",
+                5
+            ],
+            [
+                "Miscommunication",
+                5
+            ],
+            [
+                "Emotional Connection",
+                4
+            ],
+            [
+                "Criticism",
+                4
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 23,
+            "Emotional": 16,
+            "Intellectual": 12,
+            "Commitment": 8,
+            "Physical": 3,
+            "Lifestyle": 2
+        }
+    },
+    {
+        "first_person": "bidanh",
+        "second_person": "Bidanh2",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Personal Growth",
+                6
+            ],
+            [
+                "Mutual Respect",
+                5
+            ],
+            [
+                "Physical Intimacy",
+                5
+            ],
+            [
+                "Emotional Bond",
+                5
+            ],
+            [
+                "Mutual Understanding",
+                5
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 18,
+            "Intellectual": 15,
+            "Communication": 10,
+            "Emotional": 9,
+            "Commitment": 8,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Miscommunication",
+                4
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Power Imbalance",
+                3
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Criticism",
+                3
+            ],
+            [
+                "Missed Expectations",
+                3
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 14,
+            "Intellectual": 7,
+            "Commitment": 5,
+            "Emotional": 5,
+            "Lifestyle": 1,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "bidanh",
+        "second_person": "Bidanh2",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                6
+            ],
+            [
+                "Emotional Bond",
+                6
+            ],
+            [
+                "Personal Growth",
+                6
+            ],
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Mutual Respect",
+                5
+            ],
+            [
+                "Physical Intimacy",
+                5
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 18,
+            "Intellectual": 15,
+            "Emotional": 12,
+            "Communication": 11,
+            "Commitment": 9,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Miscommunication",
+                4
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Power Imbalance",
+                3
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Criticism",
+                3
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 14,
+            "Intellectual": 7,
+            "Commitment": 5,
+            "Emotional": 5,
+            "Lifestyle": 1,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "Hoanghung",
+        "second_person": "Giang",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Physical Intimacy",
+                5
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Mutual Respect",
+                4
+            ],
+            [
+                "Points of view",
+                3
+            ],
+            [
+                "Chemistry",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 17,
+            "Communication": 12,
+            "Intellectual": 12,
+            "Commitment": 9,
+            "Emotional": 6,
+            "Lifestyle": 5
+        },
+        "challenges": [
+            [
+                "Emotional Connection",
+                4
+            ],
+            [
+                "Lack of Understanding",
+                3
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ],
+            [
+                "Criticism",
+                2
+            ],
+            [
+                "Toxic Behaviors",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 8,
+            "Commitment": 7,
+            "Communication": 7,
+            "Intellectual": 3,
+            "Lifestyle": 2,
+            "Physical": 2
+        }
+    },
+    {
+        "first_person": "annie",
+        "second_person": "Dazit",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                6
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Personal Growth",
+                4
+            ],
+            [
+                "Mutual Support",
+                3
+            ],
+            [
+                "Emotional Bond",
+                3
+            ],
+            [
+                "Physical Attraction",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 16,
+            "Commitment": 12,
+            "Emotional": 12,
+            "Intellectual": 10,
+            "Physical": 9,
+            "Lifestyle": 3
+        },
+        "challenges": [
+            [
+                "Emotional Insecurity",
+                4
+            ],
+            [
+                "Lack of Understanding",
+                4
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Deception",
+                3
+            ],
+            [
+                "Possessiveness",
+                2
+            ],
+            [
+                "Emotional Connection",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 11,
+            "Commitment": 10,
+            "Communication": 7,
+            "Intellectual": 3,
+            "Lifestyle": 2,
+            "Physical": 2
+        }
+    },
+    {
+        "first_person": "Chanh",
+        "second_person": "ngyeuchanh",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                8
+            ],
+            [
+                "Physical Intimacy",
+                5
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Personal Growth",
+                4
+            ],
+            [
+                "Chemistry",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 21,
+            "Communication": 11,
+            "Commitment": 10,
+            "Emotional": 10,
+            "Intellectual": 10,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Emotional Insecurity",
+                3
+            ],
+            [
+                "Lifestyle",
+                2
+            ],
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Lack of Affection",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 10,
+            "Commitment": 7,
+            "Communication": 7,
+            "Intellectual": 5,
+            "Lifestyle": 4,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "mechanh",
+        "second_person": "bochanh",
+        "harmonies": [
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Mutual Respect",
+                4
+            ],
+            [
+                "Physical Intimacy",
+                4
+            ],
+            [
+                "Encouragement",
+                3
+            ],
+            [
+                "Openness",
+                3
+            ],
+            [
+                "Emotional Bond",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 14,
+            "Intellectual": 13,
+            "Communication": 11,
+            "Commitment": 9,
+            "Emotional": 7,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ],
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Deception",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ],
+            [
+                "Lack of Affection",
+                1
+            ]
+        ],
+        "incompatibilities": {
+            "Commitment": 6,
+            "Emotional": 6,
+            "Communication": 3,
+            "Intellectual": 1,
+            "Lifestyle": 1,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "banchanh",
+        "second_person": "ngyeu",
+        "harmonies": [
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Physical Attraction",
+                4
+            ],
+            [
+                "Sexual Needs",
+                4
+            ],
+            [
+                "Openness",
+                3
+            ],
+            [
+                "Mutual Respect",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 12,
+            "Intellectual": 12,
+            "Physical": 12,
+            "Commitment": 5,
+            "Emotional": 2,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Emotional Insecurity",
+                4
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Toxic Behaviors",
+                3
+            ],
+            [
+                "Conflict Resolution",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 9,
+            "Communication": 7,
+            "Commitment": 6,
+            "Intellectual": 6,
+            "Physical": 3,
+            "Lifestyle": 1
+        }
+    },
+    {
+        "first_person": "banchanh2",
+        "second_person": "ngyeu",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Mutual Support",
+                3
+            ],
+            [
+                "Physical Intimacy",
+                3
+            ],
+            [
+                "Sexual Needs",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 14,
+            "Commitment": 9,
+            "Intellectual": 9,
+            "Communication": 5,
+            "Lifestyle": 3,
+            "Emotional": 2
+        },
+        "challenges": [
+            [
+                "Conflict Resolution",
+                4
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Possessiveness",
+                3
+            ],
+            [
+                "Toxic Behaviors",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 9,
+            "Emotional": 9,
+            "Intellectual": 8,
+            "Commitment": 7,
+            "Physical": 2,
+            "Lifestyle": 0
+        }
+    },
+    {
+        "first_person": "me",
+        "second_person": "ngyeu",
+        "harmonies": [
+            [
+                "Mutual Understanding",
+                7
+            ],
+            [
+                "Communication",
+                4
+            ],
+            [
+                "Points of view",
+                4
+            ],
+            [
+                "Shared Values",
+                4
+            ],
+            [
+                "Trust",
+                3
+            ],
+            [
+                "Mutual Support",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Communication": 16,
+            "Intellectual": 13,
+            "Commitment": 12,
+            "Emotional": 5,
+            "Physical": 5,
+            "Lifestyle": 0
+        },
+        "challenges": [
+            [
+                "Missed Expectations",
+                4
+            ],
+            [
+                "Lack of Understanding",
+                4
+            ],
+            [
+                "Emotional Insecurity",
+                3
+            ],
+            [
+                "Miscommunication",
+                2
+            ],
+            [
+                "Emotional Connection",
+                2
+            ],
+            [
+                "Discomfort",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Emotional": 9,
+            "Communication": 8,
+            "Commitment": 7,
+            "Intellectual": 5,
+            "Physical": 5,
+            "Lifestyle": 3
+        }
+    },
+    {
+        "first_person": "banchanh",
+        "second_person": "ngyeuchanh",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                8
+            ],
+            [
+                "Physical Intimacy",
+                6
+            ],
+            [
+                "Mutual Understanding",
+                4
+            ],
+            [
+                "Emotional Bond",
+                3
+            ],
+            [
+                "Chemistry",
+                3
+            ],
+            [
+                "Personal Growth",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 18,
+            "Communication": 11,
+            "Emotional": 10,
+            "Intellectual": 9,
+            "Commitment": 6,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Disagreements",
+                3
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Miscommunication",
+                2
+            ],
+            [
+                "Points of view",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                1
+            ],
+            [
+                "Misalignment",
+                1
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 8,
+            "Emotional": 5,
+            "Intellectual": 5,
+            "Commitment": 3,
+            "Physical": 2,
+            "Lifestyle": 1
+        }
+    },
+    {
+        "first_person": "yen",
+        "second_person": "Duy",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                9
+            ],
+            [
+                "Personal Growth",
+                5
+            ],
+            [
+                "Trust",
+                4
+            ],
+            [
+                "Encouragement",
+                3
+            ],
+            [
+                "Commitment",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 15,
+            "Communication": 12,
+            "Commitment": 11,
+            "Intellectual": 10,
+            "Emotional": 6,
+            "Lifestyle": 4
+        },
+        "challenges": [
+            [
+                "Emotional Insecurity",
+                5
+            ],
+            [
+                "Criticism",
+                4
+            ],
+            [
+                "Competitiveness",
+                2
+            ],
+            [
+                "Personal Growth",
+                2
+            ],
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Lack of Understanding",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 9,
+            "Intellectual": 8,
+            "Emotional": 7,
+            "Commitment": 5,
+            "Physical": 3,
+            "Lifestyle": 2
+        }
+    },
+    {
+        "first_person": "lananh",
+        "second_person": "Minhhung",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                6
+            ],
+            [
+                "Personal Growth",
+                3
+            ],
+            [
+                "Communication",
+                3
+            ],
+            [
+                "Openness",
+                3
+            ],
+            [
+                "Mutual Respect",
+                2
+            ],
+            [
+                "Encouragement",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 10,
+            "Communication": 9,
+            "Intellectual": 8,
+            "Emotional": 4,
+            "Lifestyle": 3,
+            "Commitment": 2
+        },
+        "challenges": [
+            [
+                "Lack of Understanding",
+                4
+            ],
+            [
+                "Emotional Connection",
+                3
+            ],
+            [
+                "Missed Expectations",
+                3
+            ],
+            [
+                "Commitment",
+                2
+            ],
+            [
+                "Indifference",
+                2
+            ],
+            [
+                "Points of view",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 11,
+            "Emotional": 9,
+            "Commitment": 7,
+            "Intellectual": 6,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    },
+    {
+        "first_person": "LA",
+        "second_person": "Hale",
+        "harmonies": [
+            [
+                "Physical Attraction",
+                7
+            ],
+            [
+                "Encouragement",
+                3
+            ],
+            [
+                "Affection",
+                3
+            ],
+            [
+                "Mutual Understanding",
+                3
+            ],
+            [
+                "Sexual Needs",
+                3
+            ],
+            [
+                "Trust",
+                2
+            ]
+        ],
+        "compatibilities": {
+            "Physical": 14,
+            "Communication": 12,
+            "Commitment": 9,
+            "Emotional": 5,
+            "Intellectual": 4,
+            "Lifestyle": 2
+        },
+        "challenges": [
+            [
+                "Miscommunication",
+                3
+            ],
+            [
+                "Missed Expectations",
+                2
+            ],
+            [
+                "Emotional Insecurity",
+                2
+            ],
+            [
+                "Criticism",
+                2
+            ],
+            [
+                "Commitment",
+                2
+            ],
+            [
+                "Conflict Resolution",
+                2
+            ]
+        ],
+        "incompatibilities": {
+            "Communication": 9,
+            "Commitment": 6,
+            "Emotional": 4,
+            "Intellectual": 2,
+            "Lifestyle": 0,
+            "Physical": 0
+        }
+    }
+]

@@ -259,10 +259,6 @@ with open('samples.csv', mode='r') as csv_file:
             for rc in rcs:
                 if at["obj_1"] == rc["obj_1"] and at["obj_2"] == rc["obj_2"] and at["aspect"] == rc["aspect"]:
                     num_score_types[rc["score"]] += 1
-                    # if rc["score"] > 0:
-                    #     pos_scores.append(rc["score"]) 
-                    # if rc["score"] < 0:
-                    #     neg_scores.append(rc["score"]) 
         
         (pos_score, neg_score, matching_score, refined_matching_score) = cal_matching_percent(num_score_types)
         
