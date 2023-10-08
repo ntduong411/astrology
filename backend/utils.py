@@ -44,18 +44,3 @@ NINTH_HOUSE = 8
 TENTH_HOUSE = 9
 ELEVENTH_HOUSE = 10
 TWELFTH_HOUSE = 11
-
-def check_planet_in_house(first, second, planet, house):
-    first_planets = first.planets_degrees_ut
-    second_houses = second.houses_degree_ut
-
-    if planet == ASC:
-        planet_point = first.houses_degree_ut[0]
-    else:
-        planet_point = first_planets[planet]
-    house_range = [second_houses[divmod(house, 12)[1]], second_houses[divmod(house + 1, 12)[1]]]
-    
-    if house_range[1] < house_range[0]:
-        return planet_point >= house_range[0] or planet_point <= house_range[1]
-    else:
-        return house_range[0] <= planet_point <= house_range[1]
