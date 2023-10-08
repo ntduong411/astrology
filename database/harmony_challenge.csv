@@ -1,4 +1,4 @@
-Person1,Aspect,Person2,Score,Harmony,Compatibility,Challenge,Incompatibility
+Person1,Aspect,Person2,Score,Harmonious Keyword,Compatibility Category,Challenges Keyword,Incompatibility Category
 Sun,0,Sun,2,Personality Traits,Lifestyle,,
 Sun,0,Sun,2,Points of view,Intellectual,,
 Sun,0,Sun,2,Life Goals,Lifestyle,,
@@ -1131,6 +1131,21 @@ Saturn,120,Saturn,1,Mutual Support,Commitment,,
 Saturn,120,Saturn,1,,,Criticism,Communication
 Saturn,180,Saturn,-1,,,Criticism,Communication
 Saturn,180,Saturn,-1,,,Life Goals,Lifestyle
+Saturn,0,Uranus,-1,,,Personality Traits,Lifestyle
+Saturn,60,Uranus,1,Mutual Support,Commitment,,
+Saturn,90,Uranus,-1,,,Personality Traits,Lifestyle
+Saturn,120,Uranus,1,Mutual Support,Commitment,,
+Saturn,180,Uranus,-1,,,Personality Traits,Lifestyle
+Saturn,0,Neptune,-1,,,Differing Values,Intellectual
+Saturn,60,Neptune,1,Mutual Support,Commitment,,
+Saturn,90,Neptune,-1,,,Differing Values,Intellectual
+Saturn,120,Neptune,1,Mutual Support,Commitment,,
+Saturn,180,Neptune,-1,,,Differing Values,Intellectual
+Saturn,0,Pluto,-1,,,Competitiveness,Intellectual
+Saturn,60,Pluto,1,Mutual Support,Commitment,,
+Saturn,90,Pluto,-1,,,Competitiveness,Intellectual
+Saturn,120,Pluto,1,Mutual Support,Commitment,,
+Saturn,180,Pluto,-1,,,Competitiveness,Intellectual
 Saturn,0,Ascendant,-2,,,Emotional Connection,Emotional
 Saturn,0,Ascendant,-2,,,Criticism,
 Saturn,0,Ascendant,-2,,,Power Imbalance,Intellectual
@@ -1186,6 +1201,11 @@ Uranus,60,Jupiter,1,Mutual Respect,Intellectual,,
 Uranus,90,Jupiter,1,Mutual Respect,Intellectual,,
 Uranus,120,Jupiter,1,Mutual Respect,Intellectual,,
 Uranus,180,Jupiter,1,Mutual Respect,Intellectual,,
+Uranus,0,Saturn,-1,,,Personality Traits,Lifestyle
+Uranus,60,Saturn,1,Mutual Support,Commitment,,
+Uranus,90,Saturn,-1,,,Personality Traits,Lifestyle
+Uranus,120,Saturn,1,Mutual Support,Commitment,,
+Uranus,180,Saturn,-1,,,Personality Traits,Lifestyle
 Uranus,180,Ascendant,-2,,,Lack of Commiment,Commitment
 Uranus,180,Ascendant,-2,,,Neglect,Commitment
 Uranus,180,Ascendant,-2,,,Indifference,Emotional
@@ -1268,6 +1288,11 @@ Neptune,120,Jupiter,1,Shared Values,Intellectual,,
 Neptune,120,Jupiter,1,Shared Dreams,Intellectual,,
 Neptune,120,Jupiter,1,Personal Growth,Intellectual,,
 Neptune,180,Jupiter,-1,,,Missed Expectations,Commitment
+Neptune,0,Saturn,-1,,,Differing Values,Intellectual
+Neptune,60,Saturn,1,Mutual Support,Commitment,,
+Neptune,90,Saturn,-1,,,Differing Values,Intellectual
+Neptune,120,Saturn,1,Mutual Support,Commitment,,
+Neptune,180,Saturn,-1,,,Differing Values,Intellectual
 Neptune,0,Ascendant,-1,Shared Interests,Lifestyle,,
 Neptune,0,Ascendant,-1,,,Missed Expectations,Commitment
 Neptune,0,Ascendant,-1,,,Deception,Commitment
@@ -1354,6 +1379,11 @@ Pluto,60,Jupiter,1,Personal Growth,Intellectual,,
 Pluto,90,Jupiter,-1,,,Points of view,Intellectual
 Pluto,120,Jupiter,1,Personal Growth,Intellectual,,
 Pluto,180,Jupiter,-1,,,Points of view,Intellectual
+Pluto,0,Saturn,-1,,,Competitiveness,Intellectual
+Pluto,60,Saturn,1,Mutual Support,Commitment,,
+Pluto,90,Saturn,-1,,,Competitiveness,Intellectual
+Pluto,120,Saturn,1,Mutual Support,Commitment,,
+Pluto,180,Saturn,-1,,,Competitiveness,Intellectual
 Pluto,180,Ascendant,-1,,,Possessiveness,Emotional
 Ascendant,0,Sun,3,Physical Attraction,Physical,,
 Ascendant,0,Sun,3,Affection,Emotional,,

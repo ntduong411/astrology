@@ -32,6 +32,8 @@ class Destiny:
         self.house_has_planets = self.get_house_has_planets()
         self.house_scores = self.read_house_score_data()
         self.house_harmony = self.read_house_harmony_data()
+
+        self.msgs = self.read_messages()
         
         
     def get_aspects(self):
@@ -123,6 +125,10 @@ class Destiny:
         report["harmony_challenge"]["house_harmonies"] = self.cal_house_harmony()
         report["harmony_challenge"]["plane_harmonies"] = self.cal_planet_harmony()
         report.update(self.cal_harmony_challenge_score())
+
+        report["message"] = self.cal_message(report)
+        report["compas"] = dict(report["compas"])
+        report["incompas"] = dict(report["incompas"])
         
         return report
 
@@ -253,6 +259,14 @@ class Destiny:
             "compas": compas,
         }
 
+    def cal_message(self, report):
+        destiny_score = round(report["destiny_score"] * 100)
+        major_compa = report["compas"][0][0]
+        
+        for msg in self.msgs:
+            if destiny_score > msg["destiny_score_min"] and destiny_score <= msg["destiny_score_max"] and major_compa == msg["compa"]:
+                return msg["message_en"]
+
     def read_aspect_score_data(self):
         ass = []
         with open('../database/aspect_scores.csv', mode='r') as csv_file:
@@ -325,6 +339,20 @@ class Destiny:
                     "incompa": row["Incompatibility Category"],
                 })
         return hcs
+
+    def read_messages(self):
+        msgs = []
+        with open('../database/message.csv', mode='r') as csv_file:
+            csv_reader = csv.DictReader(csv_file)
+            for row in csv_reader:
+                msgs.append({
+                    "destiny_score_min": int(row["Destiny Score Min"]),
+                    "destiny_score_max": int(row["Destiny Score Max"]),
+                    "compa": row["Compatibility"],
+                    "message_en": row["Message (Eng)"],
+                    "message_vi": row["Message (Viet)"],
+                })
+        return msgs
     
     def cal_harmony_challenge_score(self):
         aspect_data = self.cal_aspect_harmony_challenge()
@@ -353,11 +381,14 @@ class Destiny:
         harmonies = sorted(aspect_data["aspect_harmonies"].items(), key=lambda x:x[1], reverse=True)
         challenges = sorted(aspect_data["aspect_challenges"].items(), key=lambda x:x[1], reverse=True)
 
+        compas = sorted(aspect_data["aspect_compas"].items(), key=lambda x:x[1], reverse=True)
+        incompas = sorted(aspect_data["aspect_incompas"].items(), key=lambda x:x[1], reverse=True)
+
         return {
             "harmonies": harmonies,
             "challenges": challenges,
-            "compas": aspect_data["aspect_compas"],
-            "incompas": aspect_data["aspect_incompas"],
+            "compas": compas,
+            "incompas": incompas,
         }
 
 
