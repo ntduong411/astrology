@@ -13,34 +13,22 @@
       <div class="col-7 me-10">
         <h1>Destiny Score</h1>
         <div class="row">
-          <div class="col-9">
+          <div class="col-7">
             <h2 id="destiny-score">
               <%= results[0]["first_person"] + " and " + results[0]["second_person"] + ": " + Math.round(results[0]["destiny_score"] * 100) %>
             </h3>
           </div>
-          <div class="col-3">
-            <button class="btn btn-primary" id="next-couple" onClick="nextCouple()">Next Couple</button>
-            <div class="dropdown">
-              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dropdown button
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
-              </div>
-              <div class="dropdown">
-                <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Tutorials
-                  <span class="caret"></span></button>
-                <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">HTML</a></li>
-                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
-                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
-                  <li role="presentation" class="divider"></li>
-                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">About Us</a></li>
-                </ul>
-              </div>
-            </div>
+          <div class="col-5">
+            <select class="custom-select custom-select-lg mb-3" id="couple-selection">
+              <option value="0" selected>
+                <%= results[0]["first_person"] + " and " + results[0]["second_person"] %>
+              </option>
+              <% for(var i=1; i<results.length; i++) { %>
+                <option value="<%= i%>">
+                  <%= results[i]["first_person"] + " and " + results[i]["second_person"] %>
+                </option>
+              <% } %>
+            </select>
           </div>
         </div>
         
@@ -128,7 +116,9 @@
   </div>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.0.0-beta/chart.min.js"></script>
 
 <script>
@@ -193,63 +183,43 @@
           color: "lightgrey",
           borderDash: context => context.index == 3 ? [] : [3, 4]
         },
-      }
+      },
     }
   });
 
-  function nextCouple() {
-    index ++;
-    if (index >= results.length) {
-      index = 0
-    }
-
+  $("#couple-selection").on("change", function() {
+    index = $(this).find(':selected').val();
     astro_content(results[index], chart)
-  }
+  });
 
   function astro_content(data, chart) {
-    document.getElementById("destiny-score").innerHTML = 
-      data["first_person"] + " and " + data["second_person"] + ": " + Math.round(data["destiny_score"] * 100);
-
-    document.getElementById("key-sentence").innerHTML = data["message"];
+    $("#destiny-score").html(data["first_person"] + " and " + data["second_person"] + ": " + Math.round(data["destiny_score"] * 100));
+    $("#key-sentence").html(data["message"]);
 
     for (let key in data["aspect"]) {
       if (key === "matching_score")
-        document.getElementById(key).innerHTML = data["aspect"][key] * 100;
+        $("#" + key).html(data["aspect"][key] * 100);
       else
-        document.getElementById(key).innerHTML = data["aspect"][key];
+        $("#" + key).html(data["aspect"][key]);
     }
 
     for (let i=0; i<5; i++) {
-      document.getElementById("h-key-" + i).innerHTML = data["harmonies"][i][0] + " (" + data["harmonies"][i][1] + ")";
-      document.getElementById("c-key-" + i).innerHTML = data["challenges"][i][0] + " (" + data["challenges"][i][1] + ")";
+      $("#h-key-" + i).html(data["harmonies"][i][0] + " (" + data["harmonies"][i][1] + ")");
+      $("#c-key-" + i).html(data["challenges"][i][0] + " (" + data["challenges"][i][1] + ")");
     }
 
+    let parent = $("#full-harmonies");
+    parent.empty();
     data["harmonies"].forEach((item, i) => {
-      let e = document.getElementById("fh-key-" + i)
-      if (e !== null) {
-        e.innerHTML = item[0] + " (" + item[1] + ")";
-      } else {
-        e = document.createElement('li');
-        e.setAttribute('id', "fh-key-" + i);
-        e.textContent = item[0] + " (" + item[1] + ")";
-
-        let parent = document.getElementById("full-harmonies");
-        parent.appendChild(e);
-      }
+      let e = $('<li></li>').text(item[0] + " (" + item[1] + ")").attr("id", "fh-key-" + i);
+      parent.append(e);
     })
 
+    parent = $("#full-challenges");
+    parent.empty();
     data["challenges"].forEach((item, i) => {
-      let e = document.getElementById("fc-key-" + i)
-      if (e !== null) {
-        e.innerHTML = item[0] + " (" + item[1] + ")";
-      } else {
-        e = document.createElement('li');
-        e.setAttribute('id', "fc-key-" + i);
-        e.textContent = item[0] + " (" + item[1] + ")";
-
-        let parent = document.getElementById("full-challenges");
-        parent.appendChild(e);
-      }
+      let e = $('<li></li>').text(item[0] + " (" + item[1] + ")").attr("id", "fc-key-" + i);
+      parent.append(e);
     })
 
 
