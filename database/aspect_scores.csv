@@ -18,7 +18,7 @@ Sun,0,Venus,3
 Sun,60,Venus,2
 Sun,90,Venus,-1
 Sun,120,Venus,3
-Sun,180,Venus,-1
+Sun,180,Venus,-2
 Sun,0,Mars,2
 Sun,60,Mars,3
 Sun,90,Mars,-2
@@ -168,7 +168,7 @@ Venus,0,Sun,3
 Venus,60,Sun,2
 Venus,90,Sun,-1
 Venus,120,Sun,3
-Venus,180,Sun,-1
+Venus,180,Sun,-2
 Venus,0,Moon,3
 Venus,60,Moon,3
 Venus,90,Moon,-1

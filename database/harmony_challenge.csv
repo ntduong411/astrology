@@ -66,9 +66,9 @@ Sun,120,Venus,3,Shared Interests,Lifestyle,,
 Sun,120,Venus,3,Chemistry,Physical,,
 Sun,120,Venus,3,Affection,Emotional,,
 Sun,120,Venus,3,Physical Intimacy,Physical,,
-Sun,180,Venus,-1,Shared Interests,Lifestyle,,
-Sun,180,Venus,-1,,,Missed Expectations,Commitment
-Sun,180,Venus,-1,,,Emotional Connection,Emotional
+Sun,180,Venus,-2,,,Differing Interests,Lifestyle
+Sun,180,Venus,-2,,,Missed Expectations,Commitment
+Sun,180,Venus,-2,,,Emotional Connection,Emotional
 Sun,0,Mars,2,Physical Attraction,Physical,,
 Sun,0,Mars,2,Chemistry,Physical,,
 Sun,0,Mars,2,Personal Growth,Intellectual,,
@@ -112,6 +112,7 @@ Sun,120,Jupiter,3,Openness,Communication,,
 Sun,120,Jupiter,3,Mutual Respect,Intellectual,,
 Sun,180,Jupiter,1,Trust,Commitment,,
 Sun,180,Jupiter,1,Compromise,Communication,,
+Sun,180,Jupiter,1,,,Misalignment,Lifestyle
 Sun,180,Jupiter,1,,,Missed Expectations,Commitment
 Sun,0,Saturn,-2,Commitment,Commitment,,
 Sun,0,Saturn,-2,,,Emotional Insecurity,Emotional
@@ -549,9 +550,9 @@ Venus,120,Sun,3,Shared Interests,Lifestyle,,
 Venus,120,Sun,3,Chemistry,Physical,,
 Venus,120,Sun,3,Affection,Emotional,,
 Venus,120,Sun,3,Physical Intimacy,Physical,,
-Venus,180,Sun,-1,Shared Interests,Lifestyle,,
-Venus,180,Sun,-1,,,Missed Expectations,Commitment
-Venus,180,Sun,-1,,,Emotional Connection,Emotional
+Venus,180,Sun,-2,,,Differing Interests,Lifestyle
+Venus,180,Sun,-2,,,Missed Expectations,Commitment
+Venus,180,Sun,-2,,,Emotional Connection,Emotional
 Venus,0,Moon,3,Affection,Emotional,,
 Venus,0,Moon,3,Emotional Bond,Emotional,,
 Venus,0,Moon,3,Physical Intimacy,Physical,,
@@ -903,6 +904,7 @@ Jupiter,120,Sun,3,Openness,Communication,,
 Jupiter,120,Sun,3,Mutual Respect,Intellectual,,
 Jupiter,180,Sun,1,Trust,Commitment,,
 Jupiter,180,Sun,1,Compromise,Communication,,
+Jupiter,180,Sun,1,,,Misalignment,Lifestyle
 Jupiter,180,Sun,1,,,Missed Expectations,Commitment
 Jupiter,0,Moon,3,Mutual Support,Commitment,,
 Jupiter,0,Moon,3,Shared Values,Intellectual,,

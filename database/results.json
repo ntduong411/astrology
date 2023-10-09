@@ -2,13 +2,13 @@
   {
     "aspect": {
       "pos_score": 63,
-      "neg_score": -22,
+      "neg_score": -23,
       "num_score_p1": 9,
       "num_score_p2": 11,
       "num_score_p3": 8,
       "num_score_p4": 0,
-      "num_score_n1": 2,
-      "num_score_n2": 5,
+      "num_score_n1": 1,
+      "num_score_n2": 6,
       "num_score_n3": 2,
       "num_score_n4": 1,
       "matching_score": 0.84,
@@ -25,7 +25,6 @@
         "Mutual Understanding": 5,
         "Points of view": 6,
         "Mutual Support": 5,
-        "Shared Interests": 3,
         "Physical Attraction": 9,
         "Trust": 5,
         "Personal Growth": 5,
@@ -39,6 +38,7 @@
         "Commitment": 4,
         "Loyalty": 2,
         "Sense of humor": 1,
+        "Shared Interests": 2,
         "Chemistry": 3,
         "Affection": 2,
         "Physical Intimacy": 3,
@@ -52,6 +52,7 @@
         "Empathy": 1
       },
       "aspect_challenges": {
+        "Differing Interests": 1,
         "Missed Expectations": 2,
         "Emotional Connection": 3,
         "Ego Clash": 2,
@@ -80,7 +81,7 @@
         "Communication": 20,
         "Emotional": 5,
         "Intellectual": 18,
-        "Lifestyle": 6,
+        "Lifestyle": 5,
         "Physical": 19
       },
       "aspect_incompas": {
@@ -88,7 +89,7 @@
         "Communication": 12,
         "Emotional": 6,
         "Intellectual": 6,
-        "Lifestyle": 2,
+        "Lifestyle": 3,
         "Physical": 2
       },
       "house_harmonies": {
@@ -179,10 +180,6 @@
         4
       ],
       [
-        "Shared Interests",
-        3
-      ],
-      [
         "Chemistry",
         3
       ],
@@ -204,6 +201,10 @@
       ],
       [
         "Loyalty",
+        2
+      ],
+      [
+        "Shared Interests",
         2
       ],
       [
@@ -289,6 +290,10 @@
         2
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Boredom",
         1
       ],
@@ -347,14 +352,14 @@
       "Intellectual": 19,
       "Physical": 19,
       "Emotional": 10,
-      "Lifestyle": 6
+      "Lifestyle": 5
     },
     "incompas": {
       "Communication": 12,
       "Commitment": 11,
       "Emotional": 6,
       "Intellectual": 6,
-      "Lifestyle": 2,
+      "Lifestyle": 3,
       "Physical": 2
     },
     "message": "If forever does exist, please let it be you..."
@@ -978,26 +983,25 @@
   {
     "aspect": {
       "pos_score": 42,
-      "neg_score": -12,
+      "neg_score": -13,
       "num_score_p1": 10,
       "num_score_p2": 8,
       "num_score_p3": 5,
       "num_score_p4": 0,
-      "num_score_n1": 4,
-      "num_score_n2": 4,
+      "num_score_n1": 3,
+      "num_score_n2": 5,
       "num_score_n3": 0,
       "num_score_n4": 0,
-      "matching_score": 0.77,
+      "matching_score": 0.68,
       "house_score": 0,
       "planet_score": 1
     },
-    "destiny_score": 0.77,
+    "destiny_score": 0.68,
     "first_person": "TA",
     "second_person": "Thanh",
     "harmony_challenge": {
       "aspect_harmonies": {
         "Chemistry": 2,
-        "Shared Interests": 1,
         "Emotional Bond": 5,
         "Physical Attraction": 6,
         "Emotional Intimacy": 2,
@@ -1027,6 +1031,7 @@
       "aspect_challenges": {
         "Lifestyle": 1,
         "Ego Clash": 1,
+        "Differing Interests": 1,
         "Missed Expectations": 2,
         "Emotional Connection": 2,
         "Commitment": 1,
@@ -1048,7 +1053,7 @@
         "Communication": 14,
         "Emotional": 14,
         "Intellectual": 11,
-        "Lifestyle": 1,
+        "Lifestyle": 0,
         "Physical": 12
       },
       "aspect_incompas": {
@@ -1056,7 +1061,7 @@
         "Communication": 5,
         "Emotional": 5,
         "Intellectual": 6,
-        "Lifestyle": 1,
+        "Lifestyle": 2,
         "Physical": 2
       },
       "house_harmonies": {
@@ -1158,10 +1163,6 @@
         2
       ],
       [
-        "Shared Interests",
-        1
-      ],
-      [
         "Empathy",
         1
       ],
@@ -1228,6 +1229,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Commitment",
         1
       ],
@@ -1270,15 +1275,15 @@
       "Physical": 13,
       "Commitment": 12,
       "Intellectual": 11,
-      "Lifestyle": 1
+      "Lifestyle": 0
     },
     "incompas": {
       "Intellectual": 6,
       "Communication": 5,
       "Emotional": 5,
       "Commitment": 4,
-      "Physical": 2,
-      "Lifestyle": 1
+      "Lifestyle": 2,
+      "Physical": 2
     },
     "message": "I lose all concept of time when I am with you"
   },
@@ -1597,13 +1602,13 @@
   {
     "aspect": {
       "pos_score": 43,
-      "neg_score": -16,
+      "neg_score": -17,
       "num_score_p1": 7,
       "num_score_p2": 4,
       "num_score_p3": 6,
       "num_score_p4": 0,
-      "num_score_n1": 5,
-      "num_score_n2": 4,
+      "num_score_n1": 4,
+      "num_score_n2": 5,
       "num_score_n3": 1,
       "num_score_n4": 0,
       "matching_score": 0.68,
@@ -1618,7 +1623,6 @@
         "Communication": 3,
         "Points of view": 4,
         "Mutual Understanding": 6,
-        "Shared Interests": 1,
         "Trust": 3,
         "Compromise": 3,
         "Emotional Bond": 1,
@@ -1640,6 +1644,7 @@
         "Shared Dreams": 1
       },
       "aspect_challenges": {
+        "Differing Interests": 1,
         "Missed Expectations": 3,
         "Emotional Connection": 2,
         "Miscommunication": 2,
@@ -1664,7 +1669,7 @@
         "Communication": 15,
         "Emotional": 5,
         "Intellectual": 14,
-        "Lifestyle": 1,
+        "Lifestyle": 0,
         "Physical": 5
       },
       "aspect_incompas": {
@@ -1672,7 +1677,7 @@
         "Communication": 6,
         "Emotional": 3,
         "Intellectual": 6,
-        "Lifestyle": 3,
+        "Lifestyle": 4,
         "Physical": 3
       },
       "house_harmonies": {
@@ -1785,10 +1790,6 @@
         2
       ],
       [
-        "Shared Interests",
-        1
-      ],
-      [
         "Encouragement",
         1
       ],
@@ -1837,6 +1838,10 @@
       [
         "Differing Values",
         2
+      ],
+      [
+        "Differing Interests",
+        1
       ],
       [
         "Lifestyle",
@@ -1889,14 +1894,14 @@
       "Intellectual": 14,
       "Emotional": 10,
       "Physical": 6,
-      "Lifestyle": 1
+      "Lifestyle": 0
     },
     "incompas": {
       "Communication": 6,
       "Intellectual": 6,
       "Commitment": 5,
+      "Lifestyle": 4,
       "Emotional": 3,
-      "Lifestyle": 3,
       "Physical": 3
     },
     "message": "If forever does exist, please let it be you..."
@@ -2304,6 +2309,7 @@
         "Shared Dreams": 1
       },
       "aspect_challenges": {
+        "Misalignment": 1,
         "Missed Expectations": 2,
         "Miscommunication": 2,
         "Lack of Understanding": 4,
@@ -2339,7 +2345,7 @@
         "Communication": 10,
         "Emotional": 9,
         "Intellectual": 4,
-        "Lifestyle": 1,
+        "Lifestyle": 2,
         "Physical": 3
       },
       "house_harmonies": {
@@ -2524,6 +2530,10 @@
         2
       ],
       [
+        "Misalignment",
+        1
+      ],
+      [
         "Secrets",
         1
       ],
@@ -2582,7 +2592,7 @@
       "Commitment": 7,
       "Intellectual": 4,
       "Physical": 3,
-      "Lifestyle": 1
+      "Lifestyle": 2
     },
     "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
   },
@@ -3209,13 +3219,13 @@
   {
     "aspect": {
       "pos_score": 30,
-      "neg_score": -20,
+      "neg_score": -22,
       "num_score_p1": 11,
       "num_score_p2": 5,
       "num_score_p3": 2,
       "num_score_p4": 0,
-      "num_score_n1": 6,
-      "num_score_n2": 2,
+      "num_score_n1": 4,
+      "num_score_n2": 4,
       "num_score_n3": 2,
       "num_score_n4": 1,
       "matching_score": 0.5,
@@ -3230,7 +3240,6 @@
         "Communication": 3,
         "Points of view": 1,
         "Mutual Understanding": 3,
-        "Shared Interests": 2,
         "Emotional Bond": 2,
         "Empathy": 1,
         "Emotional Intimacy": 1,
@@ -3254,6 +3263,7 @@
         "Shared Dreams": 1
       },
       "aspect_challenges": {
+        "Differing Interests": 2,
         "Missed Expectations": 5,
         "Emotional Connection": 3,
         "Lack of Affection": 1,
@@ -3281,7 +3291,7 @@
         "Communication": 7,
         "Emotional": 6,
         "Intellectual": 7,
-        "Lifestyle": 2,
+        "Lifestyle": 0,
         "Physical": 15
       },
       "aspect_incompas": {
@@ -3289,7 +3299,7 @@
         "Communication": 10,
         "Emotional": 9,
         "Intellectual": 4,
-        "Lifestyle": 1,
+        "Lifestyle": 3,
         "Physical": 1
       },
       "house_harmonies": {
@@ -3340,10 +3350,6 @@
       ],
       [
         "Points of view",
-        2
-      ],
-      [
-        "Shared Interests",
         2
       ],
       [
@@ -3437,6 +3443,10 @@
         3
       ],
       [
+        "Differing Interests",
+        2
+      ],
+      [
         "Emotional Insecurity",
         2
       ],
@@ -3515,14 +3525,14 @@
       "Communication": 8,
       "Intellectual": 8,
       "Emotional": 6,
-      "Lifestyle": 3
+      "Lifestyle": 1
     },
     "incompas": {
       "Commitment": 10,
       "Communication": 10,
       "Emotional": 9,
       "Intellectual": 4,
-      "Lifestyle": 1,
+      "Lifestyle": 3,
       "Physical": 1
     },
     "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
@@ -3530,20 +3540,20 @@
   {
     "aspect": {
       "pos_score": 40,
-      "neg_score": -19,
+      "neg_score": -20,
       "num_score_p1": 8,
       "num_score_p2": 9,
       "num_score_p3": 4,
       "num_score_p4": 0,
-      "num_score_n1": 10,
-      "num_score_n2": 1,
+      "num_score_n1": 9,
+      "num_score_n2": 2,
       "num_score_n3": 1,
       "num_score_n4": 1,
-      "matching_score": 0.68,
+      "matching_score": 0.62,
       "house_score": 0,
       "planet_score": 2
     },
-    "destiny_score": 0.63,
+    "destiny_score": 0.57,
     "first_person": "Ca",
     "second_person": "Ne",
     "harmony_challenge": {
@@ -3551,7 +3561,6 @@
         "Communication": 3,
         "Points of view": 3,
         "Mutual Understanding": 4,
-        "Shared Interests": 1,
         "Trust": 1,
         "Personal Growth": 4,
         "Encouragement": 2,
@@ -3581,6 +3590,7 @@
         "Lack of Understanding": 2,
         "Power Imbalance": 1,
         "Emotional Connection": 5,
+        "Differing Interests": 1,
         "Missed Expectations": 5,
         "Possessiveness": 2,
         "Lack of Affection": 1,
@@ -3598,7 +3608,7 @@
         "Communication": 11,
         "Emotional": 8,
         "Intellectual": 12,
-        "Lifestyle": 1,
+        "Lifestyle": 0,
         "Physical": 18
       },
       "aspect_incompas": {
@@ -3606,7 +3616,7 @@
         "Communication": 6,
         "Emotional": 10,
         "Intellectual": 6,
-        "Lifestyle": 3,
+        "Lifestyle": 4,
         "Physical": 0
       },
       "house_harmonies": {
@@ -3698,10 +3708,6 @@
         2
       ],
       [
-        "Shared Interests",
-        1
-      ],
-      [
         "Trust",
         1
       ],
@@ -3780,6 +3786,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Lack of Affection",
         1
       ],
@@ -3814,17 +3824,17 @@
       "Commitment": 11,
       "Communication": 11,
       "Emotional": 8,
-      "Lifestyle": 1
+      "Lifestyle": 0
     },
     "incompas": {
       "Emotional": 10,
       "Commitment": 6,
       "Communication": 6,
       "Intellectual": 6,
-      "Lifestyle": 3,
+      "Lifestyle": 4,
       "Physical": 0
     },
-    "message": "Sometimes I just look at you and wonder how I got to be so goddamn lucky"
+    "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
   },
   {
     "aspect": {
@@ -5057,20 +5067,20 @@
   {
     "aspect": {
       "pos_score": 40,
-      "neg_score": -19,
+      "neg_score": -20,
       "num_score_p1": 11,
       "num_score_p2": 6,
       "num_score_p3": 5,
       "num_score_p4": 0,
-      "num_score_n1": 3,
-      "num_score_n2": 3,
+      "num_score_n1": 2,
+      "num_score_n2": 4,
       "num_score_n3": 2,
       "num_score_n4": 1,
-      "matching_score": 0.68,
+      "matching_score": 0.62,
       "house_score": 0,
       "planet_score": 2
     },
-    "destiny_score": 0.63,
+    "destiny_score": 0.57,
     "first_person": "BoLy",
     "second_person": "mely",
     "harmony_challenge": {
@@ -5087,7 +5097,6 @@
         "Personal Growth": 5,
         "Openness": 4,
         "Points of view": 3,
-        "Shared Interests": 1,
         "Time Together": 1,
         "Comfort": 2,
         "Chemistry": 2,
@@ -5108,6 +5117,7 @@
         "Criticism": 2,
         "Disagreements": 1,
         "Boredom": 1,
+        "Differing Interests": 1,
         "Missed Expectations": 2,
         "Lifestyle": 3,
         "Financial Habits": 1,
@@ -5126,7 +5136,7 @@
         "Communication": 15,
         "Emotional": 8,
         "Intellectual": 10,
-        "Lifestyle": 1,
+        "Lifestyle": 0,
         "Physical": 15
       },
       "aspect_incompas": {
@@ -5134,7 +5144,7 @@
         "Communication": 8,
         "Emotional": 7,
         "Intellectual": 1,
-        "Lifestyle": 7,
+        "Lifestyle": 8,
         "Physical": 3
       },
       "house_harmonies": {
@@ -5238,10 +5248,6 @@
         1
       ],
       [
-        "Shared Interests",
-        1
-      ],
-      [
         "Physical Intimacy",
         1
       ],
@@ -5308,6 +5314,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Financial Habits",
         1
       ],
@@ -5346,35 +5356,35 @@
       "Intellectual": 11,
       "Commitment": 9,
       "Emotional": 8,
-      "Lifestyle": 1
+      "Lifestyle": 0
     },
     "incompas": {
       "Communication": 8,
+      "Lifestyle": 8,
       "Emotional": 7,
-      "Lifestyle": 7,
       "Commitment": 6,
       "Physical": 3,
       "Intellectual": 1
     },
-    "message": "I lose all concept of time when I am with you"
+    "message": "I recall the day you came into my life and gave me a reason to smile"
   },
   {
     "aspect": {
       "pos_score": 52,
-      "neg_score": -19,
+      "neg_score": -20,
       "num_score_p1": 12,
       "num_score_p2": 7,
       "num_score_p3": 8,
       "num_score_p4": 0,
-      "num_score_n1": 5,
-      "num_score_n2": 2,
+      "num_score_n1": 4,
+      "num_score_n2": 3,
       "num_score_n3": 2,
       "num_score_n4": 1,
-      "matching_score": 0.85,
+      "matching_score": 0.75,
       "house_score": 2,
       "planet_score": 0
     },
-    "destiny_score": 0.8,
+    "destiny_score": 0.7,
     "first_person": "CTuyn",
     "second_person": "anhson",
     "harmony_challenge": {
@@ -5392,7 +5402,7 @@
         "Emotional Bond": 3,
         "Emotional Intimacy": 1,
         "Sense of humor": 1,
-        "Shared Interests": 2,
+        "Shared Interests": 1,
         "Social Preferences": 1,
         "Conflict Resolution": 1,
         "Openness": 2,
@@ -5419,6 +5429,7 @@
         "Miscommunication": 1,
         "Criticism": 2,
         "Disagreements": 1,
+        "Differing Interests": 1,
         "Emotional Connection": 2,
         "Intimacy Issues": 1,
         "Lifestyle": 1,
@@ -5434,7 +5445,7 @@
         "Communication": 16,
         "Emotional": 8,
         "Intellectual": 16,
-        "Lifestyle": 3,
+        "Lifestyle": 2,
         "Physical": 19
       },
       "aspect_incompas": {
@@ -5442,7 +5453,7 @@
         "Communication": 7,
         "Emotional": 8,
         "Intellectual": 4,
-        "Lifestyle": 1,
+        "Lifestyle": 2,
         "Physical": 2
       },
       "house_harmonies": {
@@ -5520,10 +5531,6 @@
         2
       ],
       [
-        "Shared Interests",
-        2
-      ],
-      [
         "Openness",
         2
       ],
@@ -5557,6 +5564,10 @@
       ],
       [
         "Sense of humor",
+        1
+      ],
+      [
+        "Shared Interests",
         1
       ],
       [
@@ -5630,6 +5641,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Intimacy Issues",
         1
       ],
@@ -5668,15 +5683,15 @@
       "Intellectual": 16,
       "Commitment": 14,
       "Emotional": 8,
-      "Lifestyle": 3
+      "Lifestyle": 2
     },
     "incompas": {
       "Commitment": 9,
       "Emotional": 8,
       "Communication": 7,
       "Intellectual": 4,
-      "Physical": 2,
-      "Lifestyle": 1
+      "Lifestyle": 2,
+      "Physical": 2
     },
     "message": "Sometimes I just look at you and wonder how I got to be so goddamn lucky"
   },
@@ -8447,20 +8462,20 @@
   {
     "aspect": {
       "pos_score": 28,
-      "neg_score": -19,
+      "neg_score": -21,
       "num_score_p1": 6,
       "num_score_p2": 8,
       "num_score_p3": 2,
       "num_score_p4": 0,
-      "num_score_n1": 8,
-      "num_score_n2": 2,
+      "num_score_n1": 6,
+      "num_score_n2": 4,
       "num_score_n3": 1,
       "num_score_n4": 1,
-      "matching_score": 0.54,
+      "matching_score": 0.5,
       "house_score": 0,
       "planet_score": 0
     },
-    "destiny_score": 0.49,
+    "destiny_score": 0.45,
     "first_person": "banchanh",
     "second_person": "ngyeu",
     "harmony_challenge": {
@@ -8468,7 +8483,6 @@
         "Communication": 4,
         "Points of view": 2,
         "Mutual Understanding": 2,
-        "Shared Interests": 2,
         "Trust": 2,
         "Personal Growth": 5,
         "Encouragement": 2,
@@ -8487,6 +8501,7 @@
         "Chemistry": 1
       },
       "aspect_challenges": {
+        "Differing Interests": 2,
         "Missed Expectations": 3,
         "Emotional Connection": 3,
         "Power Imbalance": 1,
@@ -8512,7 +8527,7 @@
         "Communication": 12,
         "Emotional": 2,
         "Intellectual": 12,
-        "Lifestyle": 2,
+        "Lifestyle": 0,
         "Physical": 12
       },
       "aspect_incompas": {
@@ -8520,7 +8535,7 @@
         "Communication": 7,
         "Emotional": 9,
         "Intellectual": 6,
-        "Lifestyle": 1,
+        "Lifestyle": 3,
         "Physical": 3
       },
       "house_harmonies": {
@@ -8577,10 +8592,6 @@
       ],
       [
         "Mutual Understanding",
-        2
-      ],
-      [
-        "Shared Interests",
         2
       ],
       [
@@ -8644,6 +8655,10 @@
       [
         "Toxic Behaviors",
         3
+      ],
+      [
+        "Differing Interests",
+        2
       ],
       [
         "Conflict Resolution",
@@ -8712,28 +8727,28 @@
       "Physical": 12,
       "Commitment": 6,
       "Emotional": 2,
-      "Lifestyle": 2
+      "Lifestyle": 0
     },
     "incompas": {
       "Emotional": 9,
       "Communication": 7,
       "Commitment": 6,
       "Intellectual": 6,
-      "Physical": 3,
-      "Lifestyle": 1
+      "Lifestyle": 3,
+      "Physical": 3
     },
     "message": "I recall the day you came into my life and gave me a reason to smile"
   },
   {
     "aspect": {
       "pos_score": 28,
-      "neg_score": -21,
+      "neg_score": -22,
       "num_score_p1": 11,
       "num_score_p2": 3,
       "num_score_p3": 3,
       "num_score_p4": 0,
-      "num_score_n1": 6,
-      "num_score_n2": 4,
+      "num_score_n1": 5,
+      "num_score_n2": 5,
       "num_score_n3": 1,
       "num_score_n4": 1,
       "matching_score": 0.5,
@@ -8757,7 +8772,6 @@
         "Time Together": 1,
         "Sexual Needs": 3,
         "Communication": 1,
-        "Shared Interests": 1,
         "Chemistry": 2,
         "Personal Growth": 5,
         "Mutual Respect": 1,
@@ -8785,6 +8799,7 @@
         "Miscommunication": 1,
         "Sense of humor": 1,
         "Boredom": 1,
+        "Differing Interests": 1,
         "Discomfort": 1,
         "Possessiveness": 3,
         "Intimacy Issues": 1,
@@ -8798,7 +8813,7 @@
         "Communication": 5,
         "Emotional": 2,
         "Intellectual": 9,
-        "Lifestyle": 3,
+        "Lifestyle": 2,
         "Physical": 14
       },
       "aspect_incompas": {
@@ -8806,7 +8821,7 @@
         "Communication": 9,
         "Emotional": 9,
         "Intellectual": 8,
-        "Lifestyle": 0,
+        "Lifestyle": 1,
         "Physical": 2
       },
       "house_harmonies": {
@@ -8900,10 +8915,6 @@
         1
       ],
       [
-        "Shared Interests",
-        1
-      ],
-      [
         "Mutual Respect",
         1
       ],
@@ -8994,6 +9005,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Discomfort",
         1
       ],
@@ -9023,8 +9038,8 @@
       "Commitment": 9,
       "Intellectual": 9,
       "Communication": 5,
-      "Lifestyle": 3,
-      "Emotional": 2
+      "Emotional": 2,
+      "Lifestyle": 2
     },
     "incompas": {
       "Communication": 9,
@@ -9032,7 +9047,7 @@
       "Intellectual": 8,
       "Commitment": 7,
       "Physical": 2,
-      "Lifestyle": 0
+      "Lifestyle": 1
     },
     "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
   },
@@ -10579,5 +10594,1358 @@
       "Physical": 0
     },
     "message": "If forever does exist, please let it be you..."
+  },
+  {
+    "aspect": {
+      "pos_score": 37,
+      "neg_score": -10,
+      "num_score_p1": 11,
+      "num_score_p2": 5,
+      "num_score_p3": 3,
+      "num_score_p4": 0,
+      "num_score_n1": 6,
+      "num_score_n2": 2,
+      "num_score_n3": 0,
+      "num_score_n4": 0,
+      "matching_score": 0.66,
+      "house_score": 3,
+      "planet_score": 4
+    },
+    "destiny_score": 0.66,
+    "first_person": "hien",
+    "second_person": "abc",
+    "harmony_challenge": {
+      "aspect_harmonies": {
+        "Physical Attraction": 10,
+        "Chemistry": 4,
+        "Personal Growth": 4,
+        "Mutual Respect": 1,
+        "Physical Intimacy": 4,
+        "Encouragement": 1,
+        "Mutual Support": 3,
+        "Shared Values": 3,
+        "Mutual Understanding": 3,
+        "Trust": 1,
+        "Adaptability": 1,
+        "Emotional Bond": 1,
+        "Shared Dreams": 2,
+        "Sexual Needs": 3,
+        "Mutual Consent": 1,
+        "Empathy": 1,
+        "Points of view": 1,
+        "Comfort": 1,
+        "Openness": 1
+      },
+      "aspect_challenges": {
+        "Points of view": 2,
+        "Commitment": 1,
+        "Possessiveness": 2,
+        "Competitiveness": 2,
+        "Emotional Connection": 2,
+        "Power Imbalance": 1,
+        "Emotional Insecurity": 1,
+        "Toxic Behaviors": 1,
+        "Ego Clash": 1,
+        "Disagreements": 1,
+        "Conflict Resolution": 1,
+        "Differing Values": 1
+      },
+      "aspect_compas": {
+        "Commitment": 5,
+        "Communication": 5,
+        "Emotional": 2,
+        "Intellectual": 11,
+        "Lifestyle": 0,
+        "Physical": 23
+      },
+      "aspect_incompas": {
+        "Commitment": 2,
+        "Communication": 2,
+        "Emotional": 5,
+        "Intellectual": 7,
+        "Lifestyle": 0,
+        "Physical": 0
+      },
+      "house_harmonies": {
+        "harmonies": {
+          "Physical Attraction": 1,
+          "Life Goals": 1,
+          "Points of view": 1,
+          "Mutual Understanding": 1,
+          "Mutual Support": 1
+        },
+        "compas": {
+          "Commitment": 1,
+          "Communication": 1,
+          "Emotional": 0,
+          "Intellectual": 1,
+          "Lifestyle": 1,
+          "Physical": 1
+        }
+      },
+      "plane_harmonies": {
+        "harmonies": {
+          "Empathy": 1,
+          "Emotional Security": 1,
+          "Emotional Bond": 1,
+          "Mutual Support": 1,
+          "Adaptability": 1,
+          "Physical Attraction": 1
+        },
+        "compas": {
+          "Commitment": 2,
+          "Communication": 0,
+          "Emotional": 3,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 1
+        }
+      }
+    },
+    "harmonies": [
+      [
+        "Physical Attraction",
+        12
+      ],
+      [
+        "Mutual Support",
+        5
+      ],
+      [
+        "Chemistry",
+        4
+      ],
+      [
+        "Personal Growth",
+        4
+      ],
+      [
+        "Physical Intimacy",
+        4
+      ],
+      [
+        "Mutual Understanding",
+        4
+      ],
+      [
+        "Shared Values",
+        3
+      ],
+      [
+        "Sexual Needs",
+        3
+      ],
+      [
+        "Adaptability",
+        2
+      ],
+      [
+        "Emotional Bond",
+        2
+      ],
+      [
+        "Shared Dreams",
+        2
+      ],
+      [
+        "Empathy",
+        2
+      ],
+      [
+        "Points of view",
+        2
+      ],
+      [
+        "Mutual Respect",
+        1
+      ],
+      [
+        "Encouragement",
+        1
+      ],
+      [
+        "Trust",
+        1
+      ],
+      [
+        "Mutual Consent",
+        1
+      ],
+      [
+        "Comfort",
+        1
+      ],
+      [
+        "Openness",
+        1
+      ]
+    ],
+    "challenges": [
+      [
+        "Points of view",
+        2
+      ],
+      [
+        "Possessiveness",
+        2
+      ],
+      [
+        "Competitiveness",
+        2
+      ],
+      [
+        "Emotional Connection",
+        2
+      ],
+      [
+        "Commitment",
+        1
+      ],
+      [
+        "Power Imbalance",
+        1
+      ],
+      [
+        "Emotional Insecurity",
+        1
+      ],
+      [
+        "Toxic Behaviors",
+        1
+      ],
+      [
+        "Ego Clash",
+        1
+      ],
+      [
+        "Disagreements",
+        1
+      ],
+      [
+        "Conflict Resolution",
+        1
+      ],
+      [
+        "Differing Values",
+        1
+      ]
+    ],
+    "compas": {
+      "Physical": 25,
+      "Intellectual": 12,
+      "Commitment": 8,
+      "Communication": 6,
+      "Emotional": 5,
+      "Lifestyle": 1
+    },
+    "incompas": {
+      "Intellectual": 7,
+      "Emotional": 5,
+      "Commitment": 2,
+      "Communication": 2,
+      "Lifestyle": 0,
+      "Physical": 0
+    },
+    "message": "Sometimes I just look at you and wonder how I got to be so goddamn lucky"
+  },
+  {
+    "aspect": {
+      "pos_score": 33,
+      "neg_score": -31,
+      "num_score_p1": 9,
+      "num_score_p2": 6,
+      "num_score_p3": 3,
+      "num_score_p4": 0,
+      "num_score_n1": 5,
+      "num_score_n2": 8,
+      "num_score_n3": 2,
+      "num_score_n4": 1,
+      "matching_score": 0.43,
+      "house_score": 3,
+      "planet_score": 0
+    },
+    "destiny_score": 0.38,
+    "first_person": "ongchien",
+    "second_person": "baThoa",
+    "harmony_challenge": {
+      "aspect_harmonies": {
+        "Communication": 4,
+        "Points of view": 3,
+        "Mutual Understanding": 3,
+        "Physical Attraction": 7,
+        "Encouragement": 2,
+        "Emotional Security": 1,
+        "Mutual Support": 1,
+        "Shared Values": 2,
+        "Trust": 3,
+        "Adaptability": 1,
+        "Commitment": 3,
+        "Loyalty": 2,
+        "Openness": 2,
+        "Chemistry": 2,
+        "Physical Intimacy": 2,
+        "Sexual Needs": 2,
+        "Mutual Consent": 1,
+        "Personal Growth": 3,
+        "Comfort": 1,
+        "Mutual Respect": 1
+      },
+      "aspect_challenges": {
+        "Lack of Understanding": 4,
+        "Misalignment": 1,
+        "Competitiveness": 2,
+        "Ego Clash": 1,
+        "Toxic Behaviors": 1,
+        "Conflict Resolution": 2,
+        "Commitment": 1,
+        "Criticism": 5,
+        "Points of view": 2,
+        "Disagreements": 1,
+        "Lifestyle": 4,
+        "Financial Habits": 1,
+        "Social Preferences": 2,
+        "Lack of Affection": 1,
+        "Discomfort": 2,
+        "Shared Interests": 1,
+        "Missed Expectations": 2,
+        "Possessiveness": 3,
+        "Intimacy Issues": 3,
+        "Emotional Insecurity": 3,
+        "Deception": 2,
+        "Dishonesty": 1,
+        "Emotional Connection": 2,
+        "Personal Growth": 1,
+        "Miscommunication": 1,
+        "Codependency": 1,
+        "Secrets": 1,
+        "Differing Values": 1
+      },
+      "aspect_compas": {
+        "Commitment": 10,
+        "Communication": 11,
+        "Emotional": 1,
+        "Intellectual": 9,
+        "Lifestyle": 0,
+        "Physical": 15
+      },
+      "aspect_incompas": {
+        "Commitment": 7,
+        "Communication": 14,
+        "Emotional": 10,
+        "Intellectual": 7,
+        "Lifestyle": 9,
+        "Physical": 5
+      },
+      "house_harmonies": {
+        "harmonies": {
+          "Physical Attraction": 1,
+          "Life Goals": 1,
+          "Points of view": 1,
+          "Mutual Understanding": 1,
+          "Mutual Support": 1
+        },
+        "compas": {
+          "Commitment": 1,
+          "Communication": 1,
+          "Emotional": 0,
+          "Intellectual": 1,
+          "Lifestyle": 1,
+          "Physical": 1
+        }
+      },
+      "plane_harmonies": {
+        "harmonies": {},
+        "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        }
+      }
+    },
+    "harmonies": [
+      [
+        "Physical Attraction",
+        8
+      ],
+      [
+        "Communication",
+        4
+      ],
+      [
+        "Points of view",
+        4
+      ],
+      [
+        "Mutual Understanding",
+        4
+      ],
+      [
+        "Trust",
+        3
+      ],
+      [
+        "Commitment",
+        3
+      ],
+      [
+        "Personal Growth",
+        3
+      ],
+      [
+        "Encouragement",
+        2
+      ],
+      [
+        "Mutual Support",
+        2
+      ],
+      [
+        "Shared Values",
+        2
+      ],
+      [
+        "Loyalty",
+        2
+      ],
+      [
+        "Openness",
+        2
+      ],
+      [
+        "Chemistry",
+        2
+      ],
+      [
+        "Physical Intimacy",
+        2
+      ],
+      [
+        "Sexual Needs",
+        2
+      ],
+      [
+        "Emotional Security",
+        1
+      ],
+      [
+        "Adaptability",
+        1
+      ],
+      [
+        "Mutual Consent",
+        1
+      ],
+      [
+        "Comfort",
+        1
+      ],
+      [
+        "Mutual Respect",
+        1
+      ]
+    ],
+    "challenges": [
+      [
+        "Criticism",
+        5
+      ],
+      [
+        "Lack of Understanding",
+        4
+      ],
+      [
+        "Lifestyle",
+        4
+      ],
+      [
+        "Possessiveness",
+        3
+      ],
+      [
+        "Intimacy Issues",
+        3
+      ],
+      [
+        "Emotional Insecurity",
+        3
+      ],
+      [
+        "Competitiveness",
+        2
+      ],
+      [
+        "Conflict Resolution",
+        2
+      ],
+      [
+        "Points of view",
+        2
+      ],
+      [
+        "Social Preferences",
+        2
+      ],
+      [
+        "Discomfort",
+        2
+      ],
+      [
+        "Missed Expectations",
+        2
+      ],
+      [
+        "Deception",
+        2
+      ],
+      [
+        "Emotional Connection",
+        2
+      ],
+      [
+        "Misalignment",
+        1
+      ],
+      [
+        "Ego Clash",
+        1
+      ],
+      [
+        "Toxic Behaviors",
+        1
+      ],
+      [
+        "Commitment",
+        1
+      ],
+      [
+        "Disagreements",
+        1
+      ],
+      [
+        "Financial Habits",
+        1
+      ],
+      [
+        "Lack of Affection",
+        1
+      ],
+      [
+        "Shared Interests",
+        1
+      ],
+      [
+        "Dishonesty",
+        1
+      ],
+      [
+        "Personal Growth",
+        1
+      ],
+      [
+        "Miscommunication",
+        1
+      ],
+      [
+        "Codependency",
+        1
+      ],
+      [
+        "Secrets",
+        1
+      ],
+      [
+        "Differing Values",
+        1
+      ]
+    ],
+    "compas": {
+      "Physical": 16,
+      "Communication": 12,
+      "Commitment": 11,
+      "Intellectual": 10,
+      "Emotional": 1,
+      "Lifestyle": 1
+    },
+    "incompas": {
+      "Communication": 14,
+      "Emotional": 10,
+      "Lifestyle": 9,
+      "Commitment": 7,
+      "Intellectual": 7,
+      "Physical": 5
+    },
+    "message": "I could start fires with what I feel for you"
+  },
+  {
+    "aspect": {
+      "pos_score": 23,
+      "neg_score": -13,
+      "num_score_p1": 10,
+      "num_score_p2": 5,
+      "num_score_p3": 0,
+      "num_score_p4": 0,
+      "num_score_n1": 6,
+      "num_score_n2": 2,
+      "num_score_n3": 1,
+      "num_score_n4": 0,
+      "matching_score": 0.47,
+      "house_score": 3,
+      "planet_score": 0
+    },
+    "destiny_score": 0.47,
+    "first_person": "huybe",
+    "second_person": "ngyeu",
+    "harmony_challenge": {
+      "aspect_harmonies": {
+        "Communication": 2,
+        "Points of view": 1,
+        "Mutual Respect": 3,
+        "Physical Attraction": 11,
+        "Chemistry": 2,
+        "Personal Growth": 2,
+        "Encouragement": 2,
+        "Affection": 2,
+        "Physical Intimacy": 1,
+        "Commitment": 2,
+        "Loyalty": 1,
+        "Trust": 1,
+        "Emotional Bond": 1,
+        "Sexual Needs": 1
+      },
+      "aspect_challenges": {
+        "Commitment": 1,
+        "Possessiveness": 3,
+        "Competitiveness": 3,
+        "Miscommunication": 1,
+        "Lack of Understanding": 1,
+        "Emotional Connection": 2,
+        "Missed Expectations": 1,
+        "Deception": 1,
+        "Codependency": 1,
+        "Secrets": 2,
+        "Criticism": 1,
+        "Personal Growth": 1,
+        "Differing Values": 1,
+        "Personality Traits": 1,
+        "Conflict Resolution": 1,
+        "Toxic Behaviors": 1
+      },
+      "aspect_compas": {
+        "Commitment": 4,
+        "Communication": 4,
+        "Emotional": 3,
+        "Intellectual": 6,
+        "Lifestyle": 0,
+        "Physical": 15
+      },
+      "aspect_incompas": {
+        "Commitment": 4,
+        "Communication": 6,
+        "Emotional": 6,
+        "Intellectual": 5,
+        "Lifestyle": 1,
+        "Physical": 0
+      },
+      "house_harmonies": {
+        "harmonies": {
+          "Empathy": 1,
+          "Emotional Intimacy": 1,
+          "Mutual Support": 1,
+          "Mutual Understanding": 1,
+          "Commitment": 1
+        },
+        "compas": {
+          "Commitment": 2,
+          "Communication": 1,
+          "Emotional": 2,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        }
+      },
+      "plane_harmonies": {
+        "harmonies": {},
+        "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        }
+      }
+    },
+    "harmonies": [
+      [
+        "Physical Attraction",
+        11
+      ],
+      [
+        "Mutual Respect",
+        3
+      ],
+      [
+        "Commitment",
+        3
+      ],
+      [
+        "Communication",
+        2
+      ],
+      [
+        "Chemistry",
+        2
+      ],
+      [
+        "Personal Growth",
+        2
+      ],
+      [
+        "Encouragement",
+        2
+      ],
+      [
+        "Affection",
+        2
+      ],
+      [
+        "Points of view",
+        1
+      ],
+      [
+        "Physical Intimacy",
+        1
+      ],
+      [
+        "Loyalty",
+        1
+      ],
+      [
+        "Trust",
+        1
+      ],
+      [
+        "Emotional Bond",
+        1
+      ],
+      [
+        "Sexual Needs",
+        1
+      ]
+    ],
+    "challenges": [
+      [
+        "Possessiveness",
+        3
+      ],
+      [
+        "Competitiveness",
+        3
+      ],
+      [
+        "Emotional Connection",
+        2
+      ],
+      [
+        "Secrets",
+        2
+      ],
+      [
+        "Commitment",
+        1
+      ],
+      [
+        "Miscommunication",
+        1
+      ],
+      [
+        "Lack of Understanding",
+        1
+      ],
+      [
+        "Missed Expectations",
+        1
+      ],
+      [
+        "Deception",
+        1
+      ],
+      [
+        "Codependency",
+        1
+      ],
+      [
+        "Criticism",
+        1
+      ],
+      [
+        "Personal Growth",
+        1
+      ],
+      [
+        "Differing Values",
+        1
+      ],
+      [
+        "Personality Traits",
+        1
+      ],
+      [
+        "Conflict Resolution",
+        1
+      ],
+      [
+        "Toxic Behaviors",
+        1
+      ]
+    ],
+    "compas": {
+      "Physical": 15,
+      "Commitment": 6,
+      "Intellectual": 6,
+      "Communication": 5,
+      "Emotional": 5,
+      "Lifestyle": 0
+    },
+    "incompas": {
+      "Communication": 6,
+      "Emotional": 6,
+      "Intellectual": 5,
+      "Commitment": 4,
+      "Lifestyle": 1,
+      "Physical": 0
+    },
+    "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
+  },
+  {
+    "aspect": {
+      "pos_score": 38,
+      "neg_score": -14,
+      "num_score_p1": 9,
+      "num_score_p2": 2,
+      "num_score_p3": 5,
+      "num_score_p4": 0,
+      "num_score_n1": 7,
+      "num_score_n2": 2,
+      "num_score_n3": 1,
+      "num_score_n4": 0,
+      "matching_score": 0.63,
+      "house_score": 4,
+      "planet_score": 6
+    },
+    "destiny_score": 0.63,
+    "first_person": "hiep",
+    "second_person": "Ha",
+    "harmony_challenge": {
+      "aspect_harmonies": {
+        "Physical Attraction": 5,
+        "Chemistry": 3,
+        "Personal Growth": 7,
+        "Mutual Respect": 3,
+        "Physical Intimacy": 5,
+        "Trust": 2,
+        "Encouragement": 2,
+        "Openness": 2,
+        "Affection": 2,
+        "Emotional Bond": 3,
+        "Time Together": 3,
+        "Mutual Support": 3,
+        "Sexual Needs": 1,
+        "Communication": 1
+      },
+      "aspect_challenges": {
+        "Miscommunication": 2,
+        "Lack of Understanding": 1,
+        "Emotional Connection": 2,
+        "Power Imbalance": 1,
+        "Toxic Behaviors": 1,
+        "Emotional Insecurity": 3,
+        "Possessiveness": 2,
+        "Conflict Resolution": 1,
+        "Points of view": 1,
+        "Differing Interests": 1,
+        "Missed Expectations": 3,
+        "Commitment": 1,
+        "Secrets": 1
+      },
+      "aspect_compas": {
+        "Commitment": 8,
+        "Communication": 5,
+        "Emotional": 5,
+        "Intellectual": 10,
+        "Lifestyle": 0,
+        "Physical": 14
+      },
+      "aspect_incompas": {
+        "Commitment": 5,
+        "Communication": 5,
+        "Emotional": 7,
+        "Intellectual": 2,
+        "Lifestyle": 1,
+        "Physical": 0
+      },
+      "house_harmonies": {
+        "harmonies": {
+          "Physical Intimacy": 1,
+          "Commitment": 1,
+          "Empathy": 1,
+          "Chemistry": 1,
+          "Time Together": 1,
+          "Affection": 1,
+          "Conflict Resolution": 1
+        },
+        "compas": {
+          "Commitment": 2,
+          "Communication": 1,
+          "Emotional": 2,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 2
+        }
+      },
+      "plane_harmonies": {
+        "harmonies": {
+          "Physical Attraction": 1,
+          "Life Goals": 1,
+          "Points of view": 1,
+          "Mutual Understanding": 1,
+          "Mutual Support": 2,
+          "Empathy": 1,
+          "Emotional Security": 1,
+          "Emotional Bond": 1,
+          "Adaptability": 1
+        },
+        "compas": {
+          "Commitment": 3,
+          "Communication": 1,
+          "Emotional": 3,
+          "Intellectual": 1,
+          "Lifestyle": 1,
+          "Physical": 1
+        }
+      }
+    },
+    "harmonies": [
+      [
+        "Personal Growth",
+        7
+      ],
+      [
+        "Physical Attraction",
+        6
+      ],
+      [
+        "Physical Intimacy",
+        6
+      ],
+      [
+        "Mutual Support",
+        5
+      ],
+      [
+        "Chemistry",
+        4
+      ],
+      [
+        "Emotional Bond",
+        4
+      ],
+      [
+        "Time Together",
+        4
+      ],
+      [
+        "Mutual Respect",
+        3
+      ],
+      [
+        "Affection",
+        3
+      ],
+      [
+        "Trust",
+        2
+      ],
+      [
+        "Encouragement",
+        2
+      ],
+      [
+        "Openness",
+        2
+      ],
+      [
+        "Sexual Needs",
+        1
+      ],
+      [
+        "Communication",
+        1
+      ]
+    ],
+    "challenges": [
+      [
+        "Emotional Insecurity",
+        3
+      ],
+      [
+        "Missed Expectations",
+        3
+      ],
+      [
+        "Miscommunication",
+        2
+      ],
+      [
+        "Emotional Connection",
+        2
+      ],
+      [
+        "Possessiveness",
+        2
+      ],
+      [
+        "Lack of Understanding",
+        1
+      ],
+      [
+        "Power Imbalance",
+        1
+      ],
+      [
+        "Toxic Behaviors",
+        1
+      ],
+      [
+        "Conflict Resolution",
+        1
+      ],
+      [
+        "Points of view",
+        1
+      ],
+      [
+        "Differing Interests",
+        1
+      ],
+      [
+        "Commitment",
+        1
+      ],
+      [
+        "Secrets",
+        1
+      ]
+    ],
+    "compas": {
+      "Physical": 17,
+      "Commitment": 13,
+      "Intellectual": 11,
+      "Emotional": 10,
+      "Communication": 7,
+      "Lifestyle": 1
+    },
+    "incompas": {
+      "Emotional": 7,
+      "Commitment": 5,
+      "Communication": 5,
+      "Intellectual": 2,
+      "Lifestyle": 1,
+      "Physical": 0
+    },
+    "message": "Sometimes I just look at you and wonder how I got to be so goddamn lucky"
+  },
+  {
+    "aspect": {
+      "pos_score": 33,
+      "neg_score": -11,
+      "num_score_p1": 8,
+      "num_score_p2": 5,
+      "num_score_p3": 5,
+      "num_score_p4": 0,
+      "num_score_n1": 6,
+      "num_score_n2": 1,
+      "num_score_n3": 1,
+      "num_score_n4": 0,
+      "matching_score": 0.66,
+      "house_score": 0,
+      "planet_score": 0
+    },
+    "destiny_score": 0.66,
+    "first_person": "tudo",
+    "second_person": "linh",
+    "harmony_challenge": {
+      "aspect_harmonies": {
+        "Personality Traits": 1,
+        "Life Goals": 1,
+        "Mutual Understanding": 3,
+        "Points of view": 3,
+        "Mutual Support": 5,
+        "Trust": 2,
+        "Personal Growth": 2,
+        "Encouragement": 2,
+        "Openness": 2,
+        "Mutual Respect": 2,
+        "Commitment": 1,
+        "Conflict Resolution": 1,
+        "Physical Attraction": 8,
+        "Physical Intimacy": 5,
+        "Sexual Needs": 2,
+        "Sense of humor": 1,
+        "Empathy": 2,
+        "Chemistry": 4,
+        "Mutual Consent": 1,
+        "Communication": 1,
+        "Shared Values": 1,
+        "Shared Dreams": 1,
+        "Emotional Bond": 1,
+        "Emotional Intimacy": 1
+      },
+      "aspect_challenges": {
+        "Criticism": 1,
+        "Points of view": 2,
+        "Disagreements": 1,
+        "Lack of Understanding": 1,
+        "Indifference": 1,
+        "Ego Clash": 1,
+        "Possessiveness": 2,
+        "Miscommunication": 1,
+        "Missed Expectations": 1,
+        "Lack of Affection": 1,
+        "Discomfort": 1,
+        "Shared Interests": 1,
+        "Lifestyle": 1,
+        "Social Preferences": 1,
+        "Emotional Insecurity": 1,
+        "Conflict Resolution": 1,
+        "Power Imbalance": 1
+      },
+      "aspect_compas": {
+        "Commitment": 8,
+        "Communication": 9,
+        "Emotional": 4,
+        "Intellectual": 10,
+        "Lifestyle": 2,
+        "Physical": 20
+      },
+      "aspect_incompas": {
+        "Commitment": 1,
+        "Communication": 5,
+        "Emotional": 5,
+        "Intellectual": 4,
+        "Lifestyle": 3,
+        "Physical": 1
+      },
+      "house_harmonies": {
+        "harmonies": {},
+        "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        }
+      },
+      "plane_harmonies": {
+        "harmonies": {},
+        "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        }
+      }
+    },
+    "harmonies": [
+      [
+        "Physical Attraction",
+        8
+      ],
+      [
+        "Mutual Support",
+        5
+      ],
+      [
+        "Physical Intimacy",
+        5
+      ],
+      [
+        "Chemistry",
+        4
+      ],
+      [
+        "Mutual Understanding",
+        3
+      ],
+      [
+        "Points of view",
+        3
+      ],
+      [
+        "Trust",
+        2
+      ],
+      [
+        "Personal Growth",
+        2
+      ],
+      [
+        "Encouragement",
+        2
+      ],
+      [
+        "Openness",
+        2
+      ],
+      [
+        "Mutual Respect",
+        2
+      ],
+      [
+        "Sexual Needs",
+        2
+      ],
+      [
+        "Empathy",
+        2
+      ],
+      [
+        "Personality Traits",
+        1
+      ],
+      [
+        "Life Goals",
+        1
+      ],
+      [
+        "Commitment",
+        1
+      ],
+      [
+        "Conflict Resolution",
+        1
+      ],
+      [
+        "Sense of humor",
+        1
+      ],
+      [
+        "Mutual Consent",
+        1
+      ],
+      [
+        "Communication",
+        1
+      ],
+      [
+        "Shared Values",
+        1
+      ],
+      [
+        "Shared Dreams",
+        1
+      ],
+      [
+        "Emotional Bond",
+        1
+      ],
+      [
+        "Emotional Intimacy",
+        1
+      ]
+    ],
+    "challenges": [
+      [
+        "Points of view",
+        2
+      ],
+      [
+        "Possessiveness",
+        2
+      ],
+      [
+        "Criticism",
+        1
+      ],
+      [
+        "Disagreements",
+        1
+      ],
+      [
+        "Lack of Understanding",
+        1
+      ],
+      [
+        "Indifference",
+        1
+      ],
+      [
+        "Ego Clash",
+        1
+      ],
+      [
+        "Miscommunication",
+        1
+      ],
+      [
+        "Missed Expectations",
+        1
+      ],
+      [
+        "Lack of Affection",
+        1
+      ],
+      [
+        "Discomfort",
+        1
+      ],
+      [
+        "Shared Interests",
+        1
+      ],
+      [
+        "Lifestyle",
+        1
+      ],
+      [
+        "Social Preferences",
+        1
+      ],
+      [
+        "Emotional Insecurity",
+        1
+      ],
+      [
+        "Conflict Resolution",
+        1
+      ],
+      [
+        "Power Imbalance",
+        1
+      ]
+    ],
+    "compas": {
+      "Physical": 20,
+      "Intellectual": 10,
+      "Communication": 9,
+      "Commitment": 8,
+      "Emotional": 4,
+      "Lifestyle": 2
+    },
+    "incompas": {
+      "Communication": 5,
+      "Emotional": 5,
+      "Intellectual": 4,
+      "Lifestyle": 3,
+      "Commitment": 1,
+      "Physical": 1
+    },
+    "message": "Sometimes I just look at you and wonder how I got to be so goddamn lucky"
   }
 ]
