@@ -14,7 +14,7 @@
         <h1>Destiny Score</h1>
         <div class="row">
           <div class="col-7">
-            <h2 id="destiny-score">
+            <h3 id="destiny-score">
               <%= results[0]["first_person"] + " and " + results[0]["second_person"] + ": " + Math.round(results[0]["destiny_score"] * 100) %>
             </h3>
           </div>
@@ -144,12 +144,12 @@
   ]
 
   var labels = [
-    "Commitment(" + compa_data[0] + ")",
-    "Emotional(" + compa_data[1] + ")", 
-    "Intellectual(" + compa_data[2] + ")", 
-    "Communication(" + compa_data[3] + ")", 
-    "Lifestyle(" + compa_data[4] + ")", 
-    "Physical(" + compa_data[5] + ")",
+    "Commitment(" + compa_data[0] + ")(" + incompa_data[0] + ")",
+    "Emotional(" + compa_data[1] + ")(" + incompa_data[1] + ")", 
+    "Intellectual(" + compa_data[2] + ")(" + incompa_data[2] + ")", 
+    "Communication(" + compa_data[3] + ")(" + incompa_data[3] + ")", 
+    "Lifestyle(" + compa_data[4] + ")(" + incompa_data[4] + ")", 
+    "Physical(" + compa_data[5] + ")(" + incompa_data[5] + ")",
   ]
   
   var chart = new Chart("radar-chart", {
@@ -179,7 +179,7 @@
           stepSize: 10
         },
         gridLines: {
-          lineWidth: 2,
+          lineWidth: 1,
           color: "lightgrey",
           borderDash: context => context.index == 3 ? [] : [3, 4]
         },
@@ -241,12 +241,12 @@
     ]
     
     labels = [
-      "Commitment(" + compa_data[0] + ")",
-      "Emotional(" + compa_data[1] + ")", 
-      "Intellectual(" + compa_data[2] + ")", 
-      "Communication(" + compa_data[3] + ")", 
-      "Lifestyle(" + compa_data[4] + ")", 
-      "Physical(" + compa_data[5] + ")",
+      "Commitment(" + compa_data[0] + ")(" + incompa_data[0] + ")",
+      "Emotional(" + compa_data[1] + ")(" + incompa_data[1] + ")", 
+      "Intellectual(" + compa_data[2] + ")(" + incompa_data[2] + ")", 
+      "Communication(" + compa_data[3] + ")(" + incompa_data[3] + ")", 
+      "Lifestyle(" + compa_data[4] + ")(" + incompa_data[4] + ")", 
+      "Physical(" + compa_data[5] + ")(" + incompa_data[5] + ")",
     ]
 
     chart.data.labels = labels;
