@@ -1,8 +1,9 @@
-from kerykeion import AstrologicalSubject, KerykeionChartSVG
+from kerykeion import AstrologicalSubject, KerykeionChartSVG, SynastryAspects
 import csv
 from pprint import pprint
 from utils import *
 from planet_house_rel import *
+from pathlib import Path
 
 class Aspect:
     def __init__(self, person_1, person_2, aspect):
@@ -37,13 +38,21 @@ class Destiny:
         
         
     def get_aspects(self):
-        aspects = KerykeionChartSVG(
-            first_obj=self.first_person, 
-            chart_type="Synastry", 
-            second_obj=self.second_person)
+        
+        aspects = SynastryAspects(self.first_person, self.second_person, Path("../kr.config.json"))
+        # pprint (aspects.__dict__.keys())
+        # pprint (aspects.new_settings_file)
+        # pprint (aspects.planets_settings)
+        # pprint (aspects.aspects_settings)
+        # pprint (aspects.axes_orbit_settings)
+        # pprint (aspects.first_init_point_list)
+        # pprint (aspects.second_init_point_list)
+
+        # exit()
 
         ats = []
-        for item in aspects.aspects_list:
+        # for item in aspects.aspects_list:
+        for item in aspects.get_relevant_aspects():
             person_1 = item["p1_name"]
             person_2 = item["p2_name"]
             ignore_objs = ["Chiron", "True_Node"]
@@ -117,8 +126,8 @@ class Destiny:
                     num_score_types[a_score["score"]] += 1
         
         report = self.cal_aspect_score()
-        report["first_person"] = self.first_person["name"]
-        report["second_person"] = self.second_person["name"]
+        report["first_person"] = self.first_person.name
+        report["second_person"] = self.second_person.name
         report["aspect"]["house_score"] = self.cal_house_score()
         report["aspect"]["planet_score"] = self.cal_planet_score()
         report["harmony_challenge"] = self.cal_aspect_harmony_challenge()
@@ -413,7 +422,7 @@ class Destiny:
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_5:     result = 19
         elif pos_score <= POS_LV_1  and neg_score >  NEG_LV_6:     result = 23
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_7:     result = 34
-        elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_8:     result = 40
+        elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_8:     result = 39
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_9:     result = 41
         elif pos_score <= POS_LV_1  and neg_score >  NEG_LV_9:     result = 44
     
@@ -433,7 +442,7 @@ class Destiny:
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_3:     result = 21
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_4:     result = 26
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_5:     result = 35
-        elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_6:     result = 39
+        elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_6:     result = 40
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_7:     result = 50
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_8:     result = 54
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_9:     result = 60
