@@ -35,10 +35,10 @@
         "Commitment": 3,
         "Loyalty": 2,
         "Sense of humor": 1,
+        "Shared Interests": 3,
         "Personal Growth": 4,
         "Openness": 3,
         "Encouragement": 3,
-        "Shared Interests": 2,
         "Chemistry": 3,
         "Affection": 2,
         "Physical Intimacy": 3,
@@ -82,7 +82,7 @@
         "Communication": 17,
         "Emotional": 5,
         "Intellectual": 15,
-        "Lifestyle": 6,
+        "Lifestyle": 7,
         "Physical": 12
       },
       "aspect_incompas": {
@@ -169,6 +169,10 @@
         3
       ],
       [
+        "Shared Interests",
+        3
+      ],
+      [
         "Openness",
         3
       ],
@@ -198,10 +202,6 @@
       ],
       [
         "Loyalty",
-        2
-      ],
-      [
-        "Shared Interests",
         2
       ],
       [
@@ -357,7 +357,7 @@
       "Intellectual": 16,
       "Physical": 12,
       "Emotional": 10,
-      "Lifestyle": 6
+      "Lifestyle": 7
     },
     "incompas": {
       "Communication": 11,
@@ -718,6 +718,7 @@
         "Loyalty": 1,
         "Points of view": 1,
         "Sense of humor": 1,
+        "Shared Interests": 1,
         "Personal Growth": 2,
         "Empathy": 1,
         "Physical Attraction": 1
@@ -744,7 +745,7 @@
         "Communication": 9,
         "Emotional": 3,
         "Intellectual": 6,
-        "Lifestyle": 0,
+        "Lifestyle": 1,
         "Physical": 11
       },
       "aspect_incompas": {
@@ -852,6 +853,10 @@
         1
       ],
       [
+        "Shared Interests",
+        1
+      ],
+      [
         "Empathy",
         1
       ],
@@ -928,7 +933,7 @@
       "Communication": 9,
       "Intellectual": 6,
       "Emotional": 3,
-      "Lifestyle": 0
+      "Lifestyle": 1
     },
     "incompas": {
       "Communication": 11,
@@ -1261,6 +1266,7 @@
         "Lack of Understanding": 3,
         "Indifference": 1,
         "Disagreements": 1,
+        "Differing Interests": 1,
         "Lifestyle": 3,
         "Financial Habits": 1,
         "Social Preferences": 2,
@@ -1292,7 +1298,7 @@
         "Communication": 7,
         "Emotional": 2,
         "Intellectual": 5,
-        "Lifestyle": 7,
+        "Lifestyle": 8,
         "Physical": 3
       },
       "house_harmonies": {
@@ -1448,6 +1454,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Financial Habits",
         1
       ],
@@ -1505,8 +1515,8 @@
       "Commitment": 4
     },
     "incompas": {
+      "Lifestyle": 8,
       "Communication": 7,
-      "Lifestyle": 7,
       "Commitment": 6,
       "Intellectual": 5,
       "Physical": 3,
@@ -1842,6 +1852,7 @@
         "Trust": 2,
         "Adaptability": 1,
         "Sense of humor": 1,
+        "Shared Interests": 1,
         "Mutual Respect": 3,
         "Personal Growth": 6,
         "Openness": 2,
@@ -1880,7 +1891,7 @@
         "Communication": 11,
         "Emotional": 4,
         "Intellectual": 15,
-        "Lifestyle": 6,
+        "Lifestyle": 7,
         "Physical": 11
       },
       "aspect_incompas": {
@@ -2010,6 +2021,10 @@
         1
       ],
       [
+        "Shared Interests",
+        1
+      ],
+      [
         "Affection",
         1
       ],
@@ -2110,7 +2125,7 @@
       "Physical": 11,
       "Commitment": 9,
       "Emotional": 7,
-      "Lifestyle": 6
+      "Lifestyle": 7
     },
     "incompas": {
       "Intellectual": 7,
@@ -2152,8 +2167,8 @@
         "Compromise": 1,
         "Sense of humor": 1,
         "Mutual Understanding": 1,
+        "Shared Interests": 2,
         "Physical Attraction": 3,
-        "Shared Interests": 1,
         "Social Preferences": 1,
         "Conflict Resolution": 1,
         "Physical Intimacy": 3,
@@ -2194,7 +2209,7 @@
         "Communication": 6,
         "Emotional": 1,
         "Intellectual": 11,
-        "Lifestyle": 5,
+        "Lifestyle": 6,
         "Physical": 10
       },
       "aspect_incompas": {
@@ -2285,6 +2300,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Conflict Resolution",
         2
       ],
@@ -2322,10 +2341,6 @@
       ],
       [
         "Sense of humor",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -2429,7 +2444,7 @@
       "Intellectual": 11,
       "Communication": 9,
       "Emotional": 7,
-      "Lifestyle": 5
+      "Lifestyle": 6
     },
     "incompas": {
       "Communication": 8,
@@ -2823,7 +2838,7 @@
         "Emotional Bond": 4,
         "Trust": 4,
         "Emotional Intimacy": 2,
-        "Shared Interests": 1,
+        "Shared Interests": 2,
         "Empathy": 1,
         "Sense of humor": 1,
         "Communication": 2,
@@ -2857,7 +2872,7 @@
         "Communication": 13,
         "Emotional": 7,
         "Intellectual": 14,
-        "Lifestyle": 4,
+        "Lifestyle": 5,
         "Physical": 8
       },
       "aspect_incompas": {
@@ -2945,6 +2960,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Empathy",
         2
       ],
@@ -2986,10 +3005,6 @@
       ],
       [
         "Lifestyle",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -3049,7 +3064,7 @@
       "Intellectual": 14,
       "Physical": 10,
       "Emotional": 9,
-      "Lifestyle": 4
+      "Lifestyle": 5
     },
     "incompas": {
       "Commitment": 2,
@@ -3389,6 +3404,7 @@
         "Time Together": 3,
         "Mutual Support": 2,
         "Sense of humor": 1,
+        "Shared Interests": 1,
         "Physical Attraction": 1,
         "Sexual Needs": 3,
         "Shared Values": 1,
@@ -3422,7 +3438,7 @@
         "Communication": 11,
         "Emotional": 8,
         "Intellectual": 11,
-        "Lifestyle": 0,
+        "Lifestyle": 1,
         "Physical": 14
       },
       "aspect_incompas": {
@@ -3534,6 +3550,10 @@
         1
       ],
       [
+        "Shared Interests",
+        1
+      ],
+      [
         "Physical Attraction",
         1
       ],
@@ -3634,7 +3654,7 @@
       "Commitment": 11,
       "Communication": 11,
       "Emotional": 8,
-      "Lifestyle": 0
+      "Lifestyle": 1
     },
     "incompas": {
       "Communication": 5,
@@ -4625,6 +4645,7 @@
         "Lack of Understanding": 1,
         "Conflict Resolution": 2,
         "Sense of humor": 1,
+        "Differing Interests": 1,
         "Toxic Behaviors": 1,
         "Missed Expectations": 1,
         "Criticism": 1,
@@ -4645,7 +4666,7 @@
         "Communication": 9,
         "Emotional": 7,
         "Intellectual": 5,
-        "Lifestyle": 2,
+        "Lifestyle": 3,
         "Physical": 0
       },
       "house_harmonies": {
@@ -4827,6 +4848,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Toxic Behaviors",
         1
       ],
@@ -4864,7 +4889,7 @@
       "Emotional": 7,
       "Intellectual": 5,
       "Commitment": 4,
-      "Lifestyle": 2,
+      "Lifestyle": 3,
       "Physical": 0
     },
     "message": "I recall the day you came into my life and gave me a reason to smile"
@@ -5192,7 +5217,7 @@
         "Emotional Bond": 3,
         "Emotional Intimacy": 1,
         "Sense of humor": 1,
-        "Shared Interests": 1,
+        "Shared Interests": 2,
         "Social Preferences": 1,
         "Conflict Resolution": 1,
         "Openness": 2,
@@ -5236,7 +5261,7 @@
         "Communication": 15,
         "Emotional": 8,
         "Intellectual": 16,
-        "Lifestyle": 2,
+        "Lifestyle": 3,
         "Physical": 14
       },
       "aspect_incompas": {
@@ -5322,6 +5347,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Openness",
         2
       ],
@@ -5355,10 +5384,6 @@
       ],
       [
         "Sense of humor",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -5478,7 +5503,7 @@
       "Physical": 15,
       "Commitment": 14,
       "Emotional": 8,
-      "Lifestyle": 2
+      "Lifestyle": 3
     },
     "incompas": {
       "Commitment": 8,
@@ -5528,7 +5553,7 @@
         "Openness": 3,
         "Emotional Bond": 1,
         "Emotional Intimacy": 1,
-        "Shared Interests": 1,
+        "Shared Interests": 2,
         "Sexual Needs": 2,
         "Shared Values": 1,
         "Adaptability": 1,
@@ -5564,7 +5589,7 @@
         "Communication": 15,
         "Emotional": 3,
         "Intellectual": 18,
-        "Lifestyle": 7,
+        "Lifestyle": 8,
         "Physical": 7
       },
       "aspect_incompas": {
@@ -5664,6 +5689,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Sexual Needs",
         2
       ],
@@ -5681,10 +5710,6 @@
       ],
       [
         "Emotional Intimacy",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -5794,8 +5819,8 @@
       "Intellectual": 18,
       "Commitment": 17,
       "Communication": 17,
+      "Lifestyle": 8,
       "Physical": 8,
-      "Lifestyle": 7,
       "Emotional": 4
     },
     "incompas": {
@@ -6165,7 +6190,7 @@
         "Codependency": 1,
         "Emotional Connection": 3,
         "Lifestyle": 1,
-        "Differing Interests": 1,
+        "Differing Interests": 2,
         "Lack of Understanding": 4,
         "Differing Values": 1,
         "Miscommunication": 2,
@@ -6198,7 +6223,7 @@
         "Communication": 16,
         "Emotional": 12,
         "Intellectual": 10,
-        "Lifestyle": 2,
+        "Lifestyle": 3,
         "Physical": 4
       },
       "house_harmonies": {
@@ -6346,6 +6371,10 @@
         3
       ],
       [
+        "Differing Interests",
+        2
+      ],
+      [
         "Miscommunication",
         2
       ],
@@ -6383,10 +6412,6 @@
       ],
       [
         "Lifestyle",
-        1
-      ],
-      [
-        "Differing Interests",
         1
       ],
       [
@@ -6440,7 +6465,7 @@
       "Intellectual": 10,
       "Commitment": 6,
       "Physical": 4,
-      "Lifestyle": 2
+      "Lifestyle": 3
     },
     "message": "Try to love my soul, don't just love my body"
   },
@@ -7342,7 +7367,7 @@
         "Emotional Security": 1,
         "Mutual Understanding": 5,
         "Emotional Bond": 3,
-        "Shared Interests": 1,
+        "Shared Interests": 2,
         "Communication": 3,
         "Points of view": 2,
         "Openness": 3,
@@ -7391,7 +7416,7 @@
         "Communication": 13,
         "Emotional": 11,
         "Intellectual": 10,
-        "Lifestyle": 4,
+        "Lifestyle": 5,
         "Physical": 5
       },
       "aspect_incompas": {
@@ -7477,6 +7502,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Encouragement",
         2
       ],
@@ -7494,10 +7523,6 @@
       ],
       [
         "Emotional Security",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -7624,8 +7649,8 @@
       "Commitment": 13,
       "Emotional": 11,
       "Intellectual": 11,
-      "Physical": 6,
-      "Lifestyle": 5
+      "Lifestyle": 6,
+      "Physical": 6
     },
     "incompas": {
       "Emotional": 10,
@@ -7981,6 +8006,7 @@
         "Time Together": 2,
         "Points of view": 2,
         "Sense of humor": 1,
+        "Shared Interests": 1,
         "Sexual Needs": 2,
         "Chemistry": 2,
         "Physical Attraction": 1,
@@ -8011,7 +8037,7 @@
         "Communication": 11,
         "Emotional": 7,
         "Intellectual": 13,
-        "Lifestyle": 0,
+        "Lifestyle": 1,
         "Physical": 12
       },
       "aspect_incompas": {
@@ -8119,6 +8145,10 @@
         1
       ],
       [
+        "Shared Interests",
+        1
+      ],
+      [
         "Physical Attraction",
         1
       ],
@@ -8207,7 +8237,7 @@
       "Communication": 11,
       "Commitment": 8,
       "Emotional": 7,
-      "Lifestyle": 0
+      "Lifestyle": 1
     },
     "incompas": {
       "Commitment": 7,
@@ -8546,6 +8576,7 @@
         "Miscommunication": 1,
         "Lack of Understanding": 1,
         "Sense of humor": 1,
+        "Differing Interests": 1,
         "Boredom": 1,
         "Discomfort": 1,
         "Possessiveness": 2,
@@ -8568,7 +8599,7 @@
         "Communication": 8,
         "Emotional": 7,
         "Intellectual": 7,
-        "Lifestyle": 0,
+        "Lifestyle": 1,
         "Physical": 3
       },
       "house_harmonies": {
@@ -8744,6 +8775,10 @@
         1
       ],
       [
+        "Differing Interests",
+        1
+      ],
+      [
         "Boredom",
         1
       ],
@@ -8782,7 +8817,7 @@
       "Intellectual": 7,
       "Commitment": 4,
       "Physical": 3,
-      "Lifestyle": 0
+      "Lifestyle": 1
     },
     "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
   },
@@ -11361,6 +11396,7 @@
         "Sexual Needs": 1,
         "Sense of humor": 1,
         "Mutual Understanding": 1,
+        "Shared Interests": 1,
         "Empathy": 2,
         "Chemistry": 3,
         "Communication": 1,
@@ -11390,7 +11426,7 @@
         "Communication": 7,
         "Emotional": 4,
         "Intellectual": 8,
-        "Lifestyle": 3,
+        "Lifestyle": 4,
         "Physical": 9
       },
       "aspect_incompas": {
@@ -11502,6 +11538,10 @@
         1
       ],
       [
+        "Shared Interests",
+        1
+      ],
+      [
         "Communication",
         1
       ],
@@ -11586,7 +11626,7 @@
       "Intellectual": 8,
       "Communication": 7,
       "Emotional": 4,
-      "Lifestyle": 3
+      "Lifestyle": 4
     },
     "incompas": {
       "Communication": 5,
@@ -11661,7 +11701,7 @@
         "Disagreements": 4,
         "Conflict Resolution": 1,
         "Sense of humor": 1,
-        "Differing Interests": 1,
+        "Differing Interests": 2,
         "Differing Values": 2,
         "Discomfort": 1,
         "Personality Traits": 1,
@@ -11681,7 +11721,7 @@
         "Communication": 14,
         "Emotional": 4,
         "Intellectual": 6,
-        "Lifestyle": 3,
+        "Lifestyle": 4,
         "Physical": 1
       },
       "house_harmonies": {
@@ -11837,6 +11877,10 @@
         3
       ],
       [
+        "Differing Interests",
+        2
+      ],
+      [
         "Differing Values",
         2
       ],
@@ -11877,10 +11921,6 @@
         1
       ],
       [
-        "Differing Interests",
-        1
-      ],
-      [
         "Discomfort",
         1
       ],
@@ -11910,7 +11950,7 @@
       "Intellectual": 6,
       "Commitment": 4,
       "Emotional": 4,
-      "Lifestyle": 3,
+      "Lifestyle": 4,
       "Physical": 1
     },
     "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
@@ -11941,7 +11981,7 @@
         "Emotional Security": 2,
         "Mutual Understanding": 6,
         "Emotional Bond": 3,
-        "Shared Interests": 2,
+        "Shared Interests": 3,
         "Trust": 1,
         "Compromise": 2,
         "Communication": 1,
@@ -11986,7 +12026,7 @@
         "Communication": 10,
         "Emotional": 9,
         "Intellectual": 5,
-        "Lifestyle": 2,
+        "Lifestyle": 3,
         "Physical": 9
       },
       "aspect_incompas": {
@@ -12051,6 +12091,10 @@
         4
       ],
       [
+        "Shared Interests",
+        3
+      ],
+      [
         "Compromise",
         3
       ],
@@ -12072,10 +12116,6 @@
       ],
       [
         "Emotional Security",
-        2
-      ],
-      [
-        "Shared Interests",
         2
       ],
       [
@@ -12211,7 +12251,7 @@
       "Emotional": 12,
       "Commitment": 10,
       "Intellectual": 5,
-      "Lifestyle": 2
+      "Lifestyle": 3
     },
     "incompas": {
       "Communication": 7,
@@ -14465,7 +14505,7 @@
         "Personality Traits": 2,
         "Power Imbalance": 3,
         "Emotional Connection": 2,
-        "Differing Interests": 1,
+        "Differing Interests": 2,
         "Emotional Insecurity": 1,
         "Criticism": 3,
         "Lifestyle": 2,
@@ -14492,7 +14532,7 @@
         "Communication": 17,
         "Emotional": 3,
         "Intellectual": 13,
-        "Lifestyle": 8,
+        "Lifestyle": 9,
         "Physical": 1
       },
       "house_harmonies": {
@@ -14668,6 +14708,10 @@
         2
       ],
       [
+        "Differing Interests",
+        2
+      ],
+      [
         "Lifestyle",
         2
       ],
@@ -14681,10 +14725,6 @@
       ],
       [
         "Ego Clash",
-        1
-      ],
-      [
-        "Differing Interests",
         1
       ],
       [
@@ -14723,7 +14763,7 @@
     "incompas": {
       "Communication": 17,
       "Intellectual": 13,
-      "Lifestyle": 8,
+      "Lifestyle": 9,
       "Emotional": 3,
       "Commitment": 2,
       "Physical": 1
@@ -15334,7 +15374,7 @@
         "Emotional Security": 1,
         "Points of view": 1,
         "Sense of humor": 1,
-        "Shared Interests": 1,
+        "Shared Interests": 2,
         "Social Preferences": 2,
         "Conflict Resolution": 2,
         "Emotional Bond": 1,
@@ -15376,7 +15416,7 @@
         "Communication": 10,
         "Emotional": 8,
         "Intellectual": 10,
-        "Lifestyle": 5,
+        "Lifestyle": 6,
         "Physical": 13
       },
       "aspect_incompas": {
@@ -15456,6 +15496,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Social Preferences",
         2
       ],
@@ -15497,10 +15541,6 @@
       ],
       [
         "Sense of humor",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -15608,7 +15648,7 @@
       "Communication": 10,
       "Intellectual": 10,
       "Emotional": 8,
-      "Lifestyle": 5
+      "Lifestyle": 6
     },
     "incompas": {
       "Communication": 11,
@@ -15670,7 +15710,7 @@
         "Lack of Understanding": 2,
         "Power Imbalance": 1,
         "Emotional Connection": 1,
-        "Differing Interests": 1,
+        "Differing Interests": 2,
         "Emotional Insecurity": 1,
         "Criticism": 2,
         "Lifestyle": 1,
@@ -15698,7 +15738,7 @@
         "Communication": 11,
         "Emotional": 3,
         "Intellectual": 6,
-        "Lifestyle": 3,
+        "Lifestyle": 4,
         "Physical": 1
       },
       "house_harmonies": {
@@ -15842,6 +15882,10 @@
         2
       ],
       [
+        "Differing Interests",
+        2
+      ],
+      [
         "Criticism",
         2
       ],
@@ -15871,10 +15915,6 @@
       ],
       [
         "Emotional Connection",
-        1
-      ],
-      [
-        "Differing Interests",
         1
       ],
       [
@@ -15918,8 +15958,8 @@
       "Communication": 11,
       "Intellectual": 6,
       "Commitment": 4,
+      "Lifestyle": 4,
       "Emotional": 3,
-      "Lifestyle": 3,
       "Physical": 1
     },
     "message": "The first time ever I saw your face, I thought the sun rose in your eyes"
@@ -15957,11 +15997,11 @@
         "Emotional Security": 1,
         "Points of view": 2,
         "Sense of humor": 1,
+        "Shared Interests": 2,
         "Personal Growth": 4,
         "Openness": 2,
         "Encouragement": 2,
         "Physical Attraction": 2,
-        "Shared Interests": 1,
         "Chemistry": 2,
         "Affection": 1,
         "Physical Intimacy": 2,
@@ -15995,7 +16035,7 @@
         "Communication": 10,
         "Emotional": 4,
         "Intellectual": 10,
-        "Lifestyle": 1,
+        "Lifestyle": 2,
         "Physical": 8
       },
       "aspect_incompas": {
@@ -16065,6 +16105,10 @@
         2
       ],
       [
+        "Shared Interests",
+        2
+      ],
+      [
         "Openness",
         2
       ],
@@ -16102,10 +16146,6 @@
       ],
       [
         "Sense of humor",
-        1
-      ],
-      [
-        "Shared Interests",
         1
       ],
       [
@@ -16209,7 +16249,7 @@
       "Physical": 10,
       "Commitment": 7,
       "Emotional": 4,
-      "Lifestyle": 1
+      "Lifestyle": 2
     },
     "incompas": {
       "Emotional": 12,

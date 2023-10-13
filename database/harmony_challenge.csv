@@ -440,21 +440,26 @@ Mercury,180,Moon,-2,,,Emotional Connection,Emotional
 Mercury,0,Mercury,2,Points of view,Intellectual,,
 Mercury,0,Mercury,2,Sense of humor,Intellectual,,
 Mercury,0,Mercury,2,Mutual Understanding,Communication,,
+Mercury,0,Mercury,2,Shared Interests,Lifestyle,,
 Mercury,60,Mercury,2,Points of view,Intellectual,,
 Mercury,60,Mercury,2,Sense of humor,Intellectual,,
 Mercury,60,Mercury,2,Mutual Understanding,Communication,,
+Mercury,60,Mercury,2,Shared Interests,Lifestyle,,
 Mercury,90,Mercury,-4,,,Points of view,Intellectual
 Mercury,90,Mercury,-4,,,Disagreements,Communication
 Mercury,90,Mercury,-4,,,Miscommunication,Communication
 Mercury,90,Mercury,-4,,,Lack of Understanding,Communication
 Mercury,90,Mercury,-4,,,Conflict Resolution,Communication
 Mercury,90,Mercury,-4,,,Sense of humor,Intellectual
+Mercury,90,Mercury,-4,,,Differing Interests,Lifestyle
 Mercury,120,Mercury,2,Points of view,Intellectual,,
 Mercury,120,Mercury,2,Sense of humor,Intellectual,,
 Mercury,120,Mercury,2,Mutual Understanding,Communication,,
+Mercury,120,Mercury,2,Shared Interests,Lifestyle,,
 Mercury,180,Mercury,-2,,,Points of view,Intellectual
 Mercury,180,Mercury,-2,,,Disagreements,Communication
 Mercury,180,Mercury,-2,,,Lack of Understanding,Communication
+Mercury,180,Mercury,-2,,,Differing Interests,Lifestyle
 Mercury,0,Venus,2,Shared Interests,Lifestyle,,
 Mercury,0,Venus,2,Social Preferences,Lifestyle,,
 Mercury,0,Venus,2,Conflict Resolution,Communication,,
