@@ -11,7 +11,7 @@ results = []
 
 # Read samples
 samples = []
-with open('../database/full_samples.csv', mode='r') as csv_file:
+with open('../database/test_samples.csv', mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     for row in csv_reader:
         first = AstrologicalSubject(row["name_1"], int(row["year_1"]), int(row["month_1"]), int(row["day_1"]), int(row["hour_1"]), int(row["minute_1"]), row["place_1"])
