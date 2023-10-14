@@ -1,21 +1,21 @@
 [
   {
     "aspect": {
-      "pos_score": 36,
+      "pos_score": 43,
       "neg_score": -16,
       "num_score_p1": 14,
       "num_score_p2": 8,
-      "num_score_p3": 2,
-      "num_score_p4": 0,
+      "num_score_p3": 3,
+      "num_score_p4": 1,
       "num_score_n1": 6,
       "num_score_n2": 2,
       "num_score_n3": 2,
       "num_score_n4": 0,
-      "matching_score": 0.63,
+      "matching_score": 0.68,
       "house_score": 0,
       "planet_score": 0
     },
-    "destiny_score": 0.63,
+    "destiny_score": 0.68,
     "first_person": "Duong",
     "second_person": "Minh",
     "harmony_challenge": {

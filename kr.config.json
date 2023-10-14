@@ -38,7 +38,8 @@
           "Ic": "Ic",
           "True_Node": "North Node",
           "Mean_Node": "Mean Node",
-          "Chiron": "Chiron"
+          "Chiron": "Chiron",
+          "Midpoint": "Midpoint"
         }
       },
       "FR": {
@@ -79,7 +80,8 @@
           "Ic": "Ic",
           "True_Node": "Noeud Nord",
           "Mean_Node": "Noeud Moyen",
-          "Chiron": "Chiron"
+          "Chiron": "Chiron",
+          "Midpoint": "Midpoint"
         }
       },
       "PT": {
@@ -120,7 +122,8 @@
           "Ic": "Ic",
           "True_Node": "Nodo Norte",
           "Mean_Node": "Nodo Médio",
-          "Chiron": "Quíron"
+          "Chiron": "Quíron",
+          "Midpoint": "Midpoint"
         }
       },
       "IT": {
@@ -161,7 +164,8 @@
           "Ic": "Ic",
           "True_Node": "Nodo Nord",
           "Mean_Node": "Nodo Medio",
-          "Chiron": "Chirone"
+          "Chiron": "Chirone",
+          "Midpoint": "Midpoint"
         }
       },
       "CN": {
@@ -202,7 +206,8 @@
           "Ic": "下中天",
           "True_Node": "北交點",
           "Mean_Node": "平交點",
-          "Chiron": "凱龍星"
+          "Chiron": "凱龍星",
+          "Midpoint": "Midpoint"
         }
       }
     },
@@ -467,10 +472,19 @@
         "id": 16,
         "name": "Fourth_House",
         "color": "#000000",
-        "is_active": false,
+        "is_active": true,
         "element_points": 0,
         "related_zodiac_signs": [],
         "label": "Ic"
+      },
+      {
+        "id": 17,
+        "name": "Midpoint",
+        "color": "#4c1541",
+        "is_active": true,
+        "element_points": 20,
+        "related_zodiac_signs": [],
+        "label": "Midpoint"
       }
     ],
     "chart_colors": {
