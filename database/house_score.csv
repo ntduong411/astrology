@@ -6,5 +6,5 @@ House,Planet,Score
 1st house,Venus,2
 7th house,Venus,4
 7th house,Jupiter,2
-7th house,Ascendant,1
-1st house,Ascendant,1
+7th house,First_House,1
+1st house,First_House,1

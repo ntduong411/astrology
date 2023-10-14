@@ -514,7 +514,7 @@
       "lunar_phase_2": "#CCCCCC"
     },
     "general_settings": {
-      "axes_orbit": 1,
+      "axes_orbit": 10,
       "planet_in_zodiac_extra_points": 10,
       "language": "EN"
     },

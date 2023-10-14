@@ -40,16 +40,7 @@ class Destiny:
     def get_aspects(self):
         
         aspects = SynastryAspects(self.first_person, self.second_person, Path("../kr.config.json"))
-        # pprint (aspects.__dict__.keys())
-        # pprint (aspects.new_settings_file)
-        # pprint (aspects.planets_settings)
-        # pprint (aspects.aspects_settings)
-        # pprint (aspects.axes_orbit_settings)
-        # pprint (aspects.first_init_point_list)
-        # pprint (aspects.second_init_point_list)
-
-        # exit()
-
+        
         ats = []
         # for item in aspects.aspects_list:
         for item in aspects.get_relevant_aspects():
@@ -59,6 +50,7 @@ class Destiny:
             if person_1 in ignore_objs or person_2 in ignore_objs: continue
 
             ats.append(Aspect(person_1, person_2, int(item["aspect_degrees"])))
+            
         return ats
 
     def get_planet_in_houses(self):
