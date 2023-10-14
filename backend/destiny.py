@@ -50,8 +50,8 @@ class Destiny:
             if person_1 in ignore_objs or person_2 in ignore_objs: continue
 
             ats.append(Aspect(person_1, person_2, int(item["aspect_degrees"])))
-            
-            print (f'{item["p1_name"]}, {item["p2_name"]}, {round(item["aspect_degrees"], 2)}, {round(item["p1_abs_pos"], 2)}, {round(item["p2_abs_pos"], 2)}, {round(item["diff"], 2)}, {round(item["orbit"], 2)} ')
+
+            # print (f'{item["p1_name"]}, {item["p2_name"]}, {round(item["aspect_degrees"], 2)}, {round(item["p1_abs_pos"], 2)}, {round(item["p2_abs_pos"], 2)}, {round(item["diff"], 2)}, {round(item["orbit"], 2)} ')
             
         return ats
 
