@@ -1507,3 +1507,73 @@ MC,0,Mercury,2,Communication,Communication,,
 MC,0,Mercury,2,Personal Growth,Intellectual,,
 MC,0,Mercury,2,Points of view,Intellectual,,
 MC,0,Venus,1,Mutual Respect,Intellectual,,
+Sun,0,IC,1,Emotional Security,Emotional,,
+Moon,0,IC,1,Interdependence,Emotional,,
+Venus,0,IC,1,Affection,Emotional,,
+IC,0,Sun,1,Emotional Security,Emotional,,
+IC,0,Moon,1,Interdependence,Emotional,,
+IC,0,Venus,1,Affection,Emotional,,
+Sun,0,Midpoint,2,Personality Traits,Lifestyle,,
+Sun,0,Midpoint,2,Communication,Communication,,
+Sun,0,Midpoint,2,Life Goals,Lifestyle,,
+Sun,0,Midpoint,2,Mutual Support,Commitment,,
+Sun,0,Midpoint,2,Trust,Commitment,,
+Sun,0,Midpoint,2,Encouragement,Communication,,
+Sun,90,Midpoint,2,Adaptability,Commitment,,
+Sun,90,Midpoint,2,Mutual Understanding,Communication,,
+Sun,90,Midpoint,2,,,Disagreements,Communication
+Sun,90,Midpoint,2,,,Differing Dreams,Intellectual
+Sun,90,Midpoint,2,,,Lifestyle,Lifestyle
+Sun,90,Midpoint,2,,,Personality Traits,Lifestyle
+Sun,180,Midpoint,-1,,,Lifestyle,Lifestyle
+Sun,180,Midpoint,-1,,,Differing Values,Intellectual
+Sun,180,Midpoint,-1,,,Differing Dreams,Intellectual
+Sun,180,Midpoint,-1,,,Personality Traits,Lifestyle
+Sun,180,Midpoint,-1,,,Ego Clash,Intellectual
+Sun,180,Midpoint,-1,Personal Growth,Intellectual,,
+Sun,180,Midpoint,-1,Openness,Communication,,
+Moon,0,Midpoint,2,Emotional Intimacy,Emotional,,
+Moon,0,Midpoint,2,Empathy,Emotional,,
+Moon,0,Midpoint,2,Affection,Emotional,,
+Moon,90,Midpoint,1,Emotional Bond,Emotional,,
+Moon,180,Midpoint,-1,,,Emotional Connection,Emotional
+Venus,0,Midpoint,1,Social Preferences,Lifestyle,,
+Venus,0,Midpoint,1,Financial Habits,Lifestyle,,
+Mars,0,Midpoint,1,Mutual Consent,Physical,,
+Mars,90,Midpoint,1,Mutual Consent,Physical,,
+Mars,180,Midpoint,1,Mutual Consent,Physical,,
+Ascendant,0,Midpoint,1,Points of view,Intellectual,,
+Ascendant,90,Midpoint,-1,,,Differing Values,Intellectual
+Ascendant,180,Midpoint,-1,,,Differing Values,Intellectual
+Midpoint,0,Sun,2,Personality Traits,Lifestyle,,
+Midpoint,0,Sun,2,Communication,Communication,,
+Midpoint,0,Sun,2,Life Goals,Lifestyle,,
+Midpoint,0,Sun,2,Mutual Support,Commitment,,
+Midpoint,0,Sun,2,Trust,Commitment,,
+Midpoint,0,Sun,2,Encouragement,Communication,,
+Midpoint,90,Sun,2,Adaptability,Commitment,,
+Midpoint,90,Sun,2,Mutual Understanding,Communication,,
+Midpoint,90,Sun,2,,,Disagreements,Communication
+Midpoint,90,Sun,2,,,Differing Dreams,Intellectual
+Midpoint,90,Sun,2,,,Lifestyle,Lifestyle
+Midpoint,90,Sun,2,,,Personality Traits,Lifestyle
+Midpoint,180,Sun,-1,,,Lifestyle,Lifestyle
+Midpoint,180,Sun,-1,,,Differing Values,Intellectual
+Midpoint,180,Sun,-1,,,Differing Dreams,Intellectual
+Midpoint,180,Sun,-1,,,Personality Traits,Lifestyle
+Midpoint,180,Sun,-1,,,Ego Clash,Intellectual
+Midpoint,180,Sun,-1,Personal Growth,Intellectual,,
+Midpoint,180,Sun,-1,Openness,Communication,,
+Midpoint,0,Moon,2,Emotional Intimacy,Emotional,,
+Midpoint,0,Moon,2,Empathy,Emotional,,
+Midpoint,0,Moon,2,Affection,Emotional,,
+Midpoint,90,Moon,1,Emotional Bond,Emotional,,
+Midpoint,180,Moon,-1,,,Emotional Connection,Emotional
+Midpoint,0,Venus,1,Social Preferences,Lifestyle,,
+Midpoint,0,Venus,1,Financial Habits,Lifestyle,,
+Midpoint,0,Mars,1,Mutual Consent,Physical,,
+Midpoint,90,Mars,1,Mutual Consent,Physical,,
+Midpoint,180,Mars,1,Mutual Consent,Physical,,
+Midpoint,0,Ascendant,1,Points of view,Intellectual,,
+Midpoint,90,Ascendant,-1,,,Differing Values,Intellectual
+Midpoint,180,Ascendant,-1,,,Differing Values,Intellectual
