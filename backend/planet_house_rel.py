@@ -41,7 +41,7 @@ class Planet_House_Rel:
             elif self.planet == "Uranus": self.planet = URANUS
             elif self.planet == "Neptune": self.planet = NEPTUNE
             elif self.planet == "Pluto": self.planet = PLUTO
-            elif self.planet == "Ascendant": self.planet = ASC
+            elif self.planet == "First_House": self.planet = ASC
 
     def adapt_house(self):
         if isinstance(self.house, str):
