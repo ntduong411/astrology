@@ -414,9 +414,9 @@ class Destiny:
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_3:     result = 9
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_4:     result = 18
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_5:     result = 19
-        elif pos_score <= POS_LV_1  and neg_score >  NEG_LV_6:     result = 23
+        elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_6:     result = 23
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_7:     result = 34
-        elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_8:     result = 39
+        elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_8:     result = 40
         elif pos_score <= POS_LV_1  and neg_score <= NEG_LV_9:     result = 41
         elif pos_score <= POS_LV_1  and neg_score >  NEG_LV_9:     result = 44
     
@@ -436,7 +436,7 @@ class Destiny:
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_3:     result = 21
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_4:     result = 26
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_5:     result = 35
-        elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_6:     result = 40
+        elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_6:     result = 39
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_7:     result = 50
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_8:     result = 54
         elif pos_score <= POS_LV_3  and neg_score <= NEG_LV_9:     result = 60
