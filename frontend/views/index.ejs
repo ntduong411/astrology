@@ -11,7 +11,7 @@
   <div class="container">
     <div class="row">
       <div class="col-7 me-10">
-        <h1>Destiny Score</h1>
+        <h1>Friendship Score</h1>
         <div class="row">
           <div class="col-7">
             <h3 id="destiny-score">
@@ -96,7 +96,7 @@
 
         <h4>Fate Score Interpretation</h4>
         <h5>Harmony</h5>
-        <ul>
+        <ul id="fate-harmonies">
           <% for(var i=0; i<5; i++) { %>
             <li id="h-key-<%= i%>">
               <%= results[0]["harmonies"][i][0] + " (" + results[0]["harmonies"][i][1] + ")" %>
@@ -104,7 +104,7 @@
           <% } %>
         </ul>
         <h5>Challenges</h5>
-        <ul>
+        <ul id="fate-challenges">
           <% for(var i=0; i<5; i++) { %>
             <li id="c-key-<%= i%>">
               <%= results[0]["challenges"][i][0] + " (" + results[0]["challenges"][i][1] + ")" %>
@@ -125,31 +125,32 @@
   var index = 0;
   var chart = null
   var results = <%- JSON.stringify(results) %>;
+  console.log(results)
 
   var compa_data = [
     results[0]["compas"]["Commitment"],
-    results[0]["compas"]["Emotional"],
-    results[0]["compas"]["Intellectual"],
-    results[0]["compas"]["Communication"],
-    results[0]["compas"]["Lifestyle"],
-    results[0]["compas"]["Physical"],
+    results[0]["compas"]["Emotional_Connection"],
+    results[0]["compas"]["Intellectual_Connection"],
+    results[0]["compas"]["Interaction"],
+    results[0]["compas"]["Respect"],
+    results[0]["compas"]["Sincerity"],
   ]
   var incompa_data = [
     results[0]["incompas"]["Commitment"],
-    results[0]["incompas"]["Emotional"],
-    results[0]["incompas"]["Intellectual"],
-    results[0]["incompas"]["Communication"],
-    results[0]["incompas"]["Lifestyle"],
-    results[0]["incompas"]["Physical"],
+    results[0]["incompas"]["Emotional_Connection"],
+    results[0]["incompas"]["Intellectual_Connection"],
+    results[0]["incompas"]["Interaction"],
+    results[0]["incompas"]["Respect"],
+    results[0]["incompas"]["Sincerity"],
   ]
 
   var labels = [
     "Commitment(" + compa_data[0] + ")(" + incompa_data[0] + ")",
-    "Emotional(" + compa_data[1] + ")(" + incompa_data[1] + ")", 
-    "Intellectual(" + compa_data[2] + ")(" + incompa_data[2] + ")", 
-    "Communication(" + compa_data[3] + ")(" + incompa_data[3] + ")", 
-    "Lifestyle(" + compa_data[4] + ")(" + incompa_data[4] + ")", 
-    "Physical(" + compa_data[5] + ")(" + incompa_data[5] + ")",
+    "Emotional_Connection(" + compa_data[1] + ")(" + incompa_data[1] + ")", 
+    "Intellectual_Connection(" + compa_data[2] + ")(" + incompa_data[2] + ")", 
+    "Interaction(" + compa_data[3] + ")(" + incompa_data[3] + ")", 
+    "Respect(" + compa_data[4] + ")(" + incompa_data[4] + ")", 
+    "Sincerity(" + compa_data[5] + ")(" + incompa_data[5] + ")",
   ]
   
   var chart = new Chart("radar-chart", {
@@ -203,12 +204,23 @@
         $("#" + key).html(data["aspect"][key]);
     }
 
-    for (let i=0; i<5; i++) {
-      $("#h-key-" + i).html(data["harmonies"][i][0] + " (" + data["harmonies"][i][1] + ")");
-      $("#c-key-" + i).html(data["challenges"][i][0] + " (" + data["challenges"][i][1] + ")");
+    let parent = $("#fate-harmonies");
+    parent.empty();
+    for (let i=0; i<Math.min(5, data["harmonies"].length); i++) {
+      let item = data["harmonies"][i];
+      let e = $('<li></li>').text(item[0] + " (" + item[1] + ")").attr("id", "h-key-" + i);
+      parent.append(e);
     }
 
-    let parent = $("#full-harmonies");
+    parent = $("#fate-challenges");
+    parent.empty();
+    for (let i=0; i<Math.min(5, data["challenges"].length); i++) {
+      let item = data["challenges"][i];
+      let e = $('<li></li>').text(item[0] + " (" + item[1] + ")").attr("id", "c-key-" + i);
+      parent.append(e);
+    }
+
+    parent = $("#full-harmonies");
     parent.empty();
     data["harmonies"].forEach((item, i) => {
       let e = $('<li></li>').text(item[0] + " (" + item[1] + ")").attr("id", "fh-key-" + i);
@@ -225,28 +237,28 @@
 
     compa_data = [
       data["compas"]["Commitment"],
-      data["compas"]["Emotional"],
-      data["compas"]["Intellectual"],
-      data["compas"]["Communication"],
-      data["compas"]["Lifestyle"],
-      data["compas"]["Physical"],
+      data["compas"]["Emotional_Connection"],
+      data["compas"]["Intellectual_Connection"],
+      data["compas"]["Interaction"],
+      data["compas"]["Respect"],
+      data["compas"]["Sincerity"],
     ]
     incompa_data = [
       data["incompas"]["Commitment"],
-      data["incompas"]["Emotional"],
-      data["incompas"]["Intellectual"],
-      data["incompas"]["Communication"],
-      data["incompas"]["Lifestyle"],
-      data["incompas"]["Physical"],
+      data["incompas"]["Emotional_Connection"],
+      data["incompas"]["Intellectual_Connection"],
+      data["incompas"]["Interaction"],
+      data["incompas"]["Respect"],
+      data["incompas"]["Sincerity"],
     ]
     
     labels = [
       "Commitment(" + compa_data[0] + ")(" + incompa_data[0] + ")",
-      "Emotional(" + compa_data[1] + ")(" + incompa_data[1] + ")", 
-      "Intellectual(" + compa_data[2] + ")(" + incompa_data[2] + ")", 
-      "Communication(" + compa_data[3] + ")(" + incompa_data[3] + ")", 
-      "Lifestyle(" + compa_data[4] + ")(" + incompa_data[4] + ")", 
-      "Physical(" + compa_data[5] + ")(" + incompa_data[5] + ")",
+      "Emotional_Connection(" + compa_data[1] + ")(" + incompa_data[1] + ")", 
+      "Intellectual_Connection(" + compa_data[2] + ")(" + incompa_data[2] + ")", 
+      "Interaction(" + compa_data[3] + ")(" + incompa_data[3] + ")", 
+      "Respect(" + compa_data[4] + ")(" + incompa_data[4] + ")", 
+      "Sincerity(" + compa_data[5] + ")(" + incompa_data[5] + ")",
     ]
 
     chart.data.labels = labels;

@@ -1,35 +1,40 @@
-House,Planet,Score,Harmonious Keyword,Compatibility Category
-1st house,Sun,3,Physical Attraction,Physical
-1st house,Sun,3,Life Goals,Lifestyle
-1st house,Sun,3,Points of view,Intellectual
-1st house,Sun,3,Mutual Understanding,Communication
-1st house,Sun,3,Mutual Support,Commitment
-7th house,Sun,4,Commitment,Commitment
-7th house,Sun,4,Physical Attraction,Physical
-7th house,Sun,4,Compromise,Communication
-7th house,Sun,4,Emotional Bond,Emotional
-7th house,Sun,4,Mutual Understanding,Communication
-7th house,Sun,4,Time Together,Commitment
-7th house,Sun,4,Trust,Commitment
-1st house,Moon,3,Empathy,Emotional
-1st house,Moon,3,Emotional Security,Emotional
-1st house,Moon,3,Emotional Bond,Emotional
-1st house,Moon,3,Mutual Support,Commitment
-1st house,Moon,3,Adaptability,Commitment
-7th house,Moon,3,Empathy,Emotional
-7th house,Moon,3,Emotional Intimacy,Emotional
-7th house,Moon,3,Mutual Support,Commitment
-7th house,Moon,3,Mutual Understanding,Communication
-7th house,Moon,3,Commitment,Commitment
-1st house,Venus,2,Physical Attraction,Physical
-7th house,Venus,4,Physical Intimacy,Physical
-7th house,Venus,4,Commitment,Commitment
-7th house,Venus,4,Empathy,Emotional
-7th house,Venus,4,Chemistry,Physical
-7th house,Venus,4,Time Together,Commitment
-7th house,Venus,4,Affection,Emotional
-7th house,Venus,4,Conflict Resolution,Communication
-7th house,Jupiter,2,Commitment,Commitment
-7th house,Jupiter,2,Time Together,Commitment
-7th house,Jupiter,2,Personal Growth,Intellectual
-7th house,Ascendant,1,Physical Attraction,Physical
+House,Planet,Score,Harmonious Keyword,Compatibility Category,Challenges Keyword,Incompatibility Category
+1st house,Sun,1,Personality Traits,Interaction,,
+4th house,Sun,1,Shared Values,Intellectual Connection,,
+5th house,Sun,1,Sense of Humor,Intellectual Connection,,
+5th house,Sun,1,Time Together,Commitment,,
+7th house,Sun,2,Gratitude,Sincerity,,
+7th house,Sun,2,Chemistry,Emotional_Connection,,
+7th house,Sun,2,Acceptance,Respect,,
+7th house,Sun,2,,,Codependency,Emotional_Connection
+8th house,Sun,-1,,,Jealousy and Competition,Sincerity
+11th house,Sun,2,Mutual Support,Emotional_Connection,,
+11th house,Sun,2,Time Together,Commitment,,
+12th house,Sun,-1,Empathy,Emotional_Connection,,
+12th house,Sun,-1,,,Betrayals,Sincerity
+1st house,Moon,1,Trust,Commitment,,
+1st house,Moon,1,,,Codependency,Emotional_Connection
+4th house,Moon,1,Effective Communication,Interaction,,
+4th house,Moon,1,Empathy,Emotional_Connection,,
+5th house,Moon,1,Time Together,Commitment,,
+7th house,Moon,2,Empathy,Emotional_Connection,,
+7th house,Moon,2,Forgiveness,Respect,,
+7th house,Moon,2,Engaging Conversations,Interaction,,
+11th house,Moon,2,Time Together,Commitment,,
+12th house,Moon,-1,,,Neglect,Commitment
+7th house,Mercury,2,Effective Communication,Interaction,,
+7th house,Mercury,2,Engaging Conversations,Interaction,,
+7th house,Mercury,2,Time Together,Commitment,,
+11th house,Mercury,1,Openness,Interaction,,
+11th house,Mercury,1,Effective Communication,Interaction,,
+5th house,Venus,1,Sense of Humor,Intellectual Connection,,
+5th house,Venus,1,Engaging Conversations,Interaction,,
+5th house,Venus,1,Shared Interests,Intellectual Connection,,
+7th house,Venus,3,Chemistry,Emotional_Connection,,
+7th house,Venus,3,Acceptance,Respect,,
+8th house,Venus,-1,,,Manipulation and Control,Sincerity
+8th house,Venus,-1,,,Jealousy and Competition,Sincerity
+11th house,Venus,2,Engaging Conversations,Interaction,,
+11th house,Venus,2,Mutual Support,Emotional_Connection,,
+11th house,Venus,2,Effective Communication,Interaction,,
+12th house,Venus,-1,,,Dishonesty,Sincerity

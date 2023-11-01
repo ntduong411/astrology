@@ -126,7 +126,7 @@ class Destiny:
         report["aspect"]["planet_score"] = self.cal_planet_score()
         report["harmony_challenge"] = self.cal_aspect_harmony_challenge()
         report["harmony_challenge"]["house_harmonies"] = self.cal_house_harmony()
-        report["harmony_challenge"]["plane_harmonies"] = self.cal_planet_harmony()
+        report["harmony_challenge"]["planet_harmonies"] = self.cal_planet_harmony()
         report.update(self.cal_harmony_challenge_score())
 
         report["message"] = self.cal_message(report)
@@ -166,11 +166,11 @@ class Destiny:
         harmonies = {}
         compas = {
             "Commitment": 0,
-            "Communication": 0,
-            "Emotional": 0,
-            "Intellectual": 0,
-            "Lifestyle": 0,
-            "Physical": 0,
+            "Emotional_Connection": 0,
+            "Intellectual_Connection": 0,
+            "Interaction": 0,
+            "Respect": 0,
+            "Sincerity": 0,
         }
         challenges = {}
         incompas = compas.copy()
