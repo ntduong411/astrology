@@ -5,6 +5,7 @@ from utils import *
 from planet_house_rel import *
 from pathlib import Path
 from typing import Union
+from swisseph import difdeg2n
 
 class Aspect:
     def __init__(self, person_1, person_2, aspect):
@@ -29,90 +30,120 @@ class CustomNatalAspects(NatalAspects):
         distance = abs(difdeg2n(point_one, point_two))
         diff = abs(point_one - point_two)
 
-        if distance <= self.aspects_settings[0]['orb']:
-            name = self.aspects_settings[0]['name']
-            aspect_degrees = self.aspects_settings[0]['degree']
-            color = self.colors_settings['aspect_0']
+        if distance <= self.aspects_settings[0]["orb"]:
+            name = self.aspects_settings[0]["name"]
+            aspect_degrees = self.aspects_settings[0]["degree"]
+            color = self.aspects_settings[0]["color"]
             verdict = True
             aid = 0
 
-        elif (self.aspects_settings[1]['degree'] - self.aspects_settings[1]['orb']) <= distance <= (
-                self.aspects_settings[1]['degree'] + self.aspects_settings[1]['orb']):
-            name = self.aspects_settings[1]['name']
-            aspect_degrees = self.aspects_settings[1]['degree']
-            color = self.colors_settings['aspect_30']
+        elif (
+            (self.aspects_settings[1]["degree"] - self.aspects_settings[1]["orb"])
+            <= distance
+            <= (self.aspects_settings[1]["degree"] + self.aspects_settings[1]["orb"])
+        ):
+            name = self.aspects_settings[1]["name"]
+            aspect_degrees = self.aspects_settings[1]["degree"]
+            color = self.aspects_settings[1]["color"]
             verdict = True
             aid = 1
 
-        elif (self.aspects_settings[2]['degree'] - self.aspects_settings[2]['orb']) <= distance <= (
-                self.aspects_settings[2]['degree'] + self.aspects_settings[2]['orb']):
-            name = self.aspects_settings[2]['name']
-            aspect_degrees = self.aspects_settings[2]['degree']
-            color = self.colors_settings['aspect_45']
+        elif (
+            (self.aspects_settings[2]["degree"] - self.aspects_settings[2]["orb"])
+            <= distance
+            <= (self.aspects_settings[2]["degree"] + self.aspects_settings[2]["orb"])
+        ):
+            name = self.aspects_settings[2]["name"]
+            aspect_degrees = self.aspects_settings[2]["degree"]
+            color = self.aspects_settings[2]["color"]
             verdict = True
             aid = 2
 
-        elif (self.aspects_settings[3]['degree'] - self.aspects_settings[3]['orb']) <= distance <= (
-                self.aspects_settings[3]['degree'] + self.aspects_settings[3]['orb']):
-            name = self.aspects_settings[3]['name']
-            aspect_degrees = self.aspects_settings[3]['degree']
-            color = self.colors_settings['aspect_60']
+        elif (
+            (self.aspects_settings[3]["degree"] - self.aspects_settings[3]["orb"])
+            <= distance
+            <= (self.aspects_settings[3]["degree"] + self.aspects_settings[3]["orb"])
+        ):
+            name = self.aspects_settings[3]["name"]
+            aspect_degrees = self.aspects_settings[3]["degree"]
+            color = self.aspects_settings[3]["color"]
             verdict = True
             aid = 3
 
-        elif (self.aspects_settings[4]['degree'] - self.aspects_settings[4]['orb']) <= distance <= (
-                self.aspects_settings[4]['degree'] + self.aspects_settings[4]['orb']):
-            name = self.aspects_settings[4]['name']
-            aspect_degrees = self.aspects_settings[4]['degree']
-            color = self.colors_settings['aspect_72']
+        elif (
+            (self.aspects_settings[4]["degree"] - self.aspects_settings[4]["orb"])
+            <= distance
+            <= (self.aspects_settings[4]["degree"] + self.aspects_settings[4]["orb"])
+        ):
+            name = self.aspects_settings[4]["name"]
+            aspect_degrees = self.aspects_settings[4]["degree"]
+            color = self.aspects_settings[4]["color"]
             verdict = True
             aid = 4
 
-        elif (self.aspects_settings[5]['degree'] - self.aspects_settings[5]['orb']) <= distance <= (
-                self.aspects_settings[5]['degree'] + self.aspects_settings[5]['orb']):
-            name = self.aspects_settings[5]['name']
-            aspect_degrees = self.aspects_settings[5]['degree']
-            color = self.colors_settings['aspect_90']
+        elif (
+            (self.aspects_settings[5]["degree"] - self.aspects_settings[5]["orb"])
+            <= distance
+            <= (self.aspects_settings[5]["degree"] + self.aspects_settings[5]["orb"])
+        ):
+            name = self.aspects_settings[5]["name"]
+            aspect_degrees = self.aspects_settings[5]["degree"]
+            color = self.aspects_settings[5]["color"]
             verdict = True
             aid = 5
 
-        elif (self.aspects_settings[6]['degree'] - self.aspects_settings[6]['orb']) <= distance <= (
-                self.aspects_settings[6]['degree'] + self.aspects_settings[6]['orb']):
-            name = self.aspects_settings[6]['name']
-            aspect_degrees = self.aspects_settings[6]['degree']
-            color = self.colors_settings['aspect_120']
+        elif (
+            (self.aspects_settings[6]["degree"] - self.aspects_settings[6]["orb"])
+            <= distance
+            <= (self.aspects_settings[6]["degree"] + self.aspects_settings[6]["orb"])
+        ):
+            name = self.aspects_settings[6]["name"]
+            aspect_degrees = self.aspects_settings[6]["degree"]
+            color = self.aspects_settings[6]["color"]
             verdict = True
             aid = 6
 
-        elif (self.aspects_settings[7]['degree'] - self.aspects_settings[7]['orb']) <= distance <= (
-                self.aspects_settings[7]['degree'] + self.aspects_settings[7]['orb']):
-            name = self.aspects_settings[7]['name']
-            aspect_degrees = self.aspects_settings[7]['degree']
-            color = self.colors_settings['aspect_135']
+        elif (
+            (self.aspects_settings[7]["degree"] - self.aspects_settings[7]["orb"])
+            <= distance
+            <= (self.aspects_settings[7]["degree"] + self.aspects_settings[7]["orb"])
+        ):
+            name = self.aspects_settings[7]["name"]
+            aspect_degrees = self.aspects_settings[7]["degree"]
+            color = self.aspects_settings[7]["color"]
             verdict = True
             aid = 7
 
-        elif (self.aspects_settings[8]['degree'] - self.aspects_settings[8]['orb']) <= distance <= (
-                self.aspects_settings[8]['degree'] + self.aspects_settings[8]['orb']):
-            name = self.aspects_settings[8]['name']
-            aspect_degrees = self.aspects_settings[8]['degree']
-            color = self.colors_settings['aspect_144']
+        elif (
+            (self.aspects_settings[8]["degree"] - self.aspects_settings[8]["orb"])
+            <= distance
+            <= (self.aspects_settings[8]["degree"] + self.aspects_settings[8]["orb"])
+        ):
+            name = self.aspects_settings[8]["name"]
+            aspect_degrees = self.aspects_settings[8]["degree"]
+            color = self.aspects_settings[8]["color"]
             verdict = True
             aid = 8
 
-        elif (self.aspects_settings[9]['degree'] - self.aspects_settings[9]['orb']) <= distance <= (
-                self.aspects_settings[9]['degree'] + self.aspects_settings[9]['orb']):
-            name = self.aspects_settings[9]['name']
-            aspect_degrees = self.aspects_settings[9]['degree']
-            color = self.colors_settings['aspect_150']
+        elif (
+            (self.aspects_settings[9]["degree"] - self.aspects_settings[9]["orb"])
+            <= distance
+            <= (self.aspects_settings[9]["degree"] + self.aspects_settings[9]["orb"])
+        ):
+            name = self.aspects_settings[9]["name"]
+            aspect_degrees = self.aspects_settings[9]["degree"]
+            color = self.aspects_settings[9]["color"]
             verdict = True
             aid = 9
 
-        elif (self.aspects_settings[10]['degree'] - self.aspects_settings[10]['orb']) <= distance <= (
-                self.aspects_settings[10]['degree'] + self.aspects_settings[10]['orb']):
-            name = self.aspects_settings[10]['name']
-            aspect_degrees = self.aspects_settings[10]['degree']
-            color = self.colors_settings['aspect_180']
+        elif (
+            (self.aspects_settings[10]["degree"] - self.aspects_settings[10]["orb"])
+            <= distance
+            <= (self.aspects_settings[10]["degree"] + self.aspects_settings[10]["orb"])
+        ):
+            name = self.aspects_settings[10]["name"]
+            aspect_degrees = self.aspects_settings[10]["degree"]
+            color = self.aspects_settings[10]["color"]
             verdict = True
             aid = 10
 
@@ -124,9 +155,17 @@ class CustomNatalAspects(NatalAspects):
             color = None
             aid = None
 
-        return verdict, name, distance - aspect_degrees, aspect_degrees, color, aid, diff
+        return (
+            verdict,
+            name,
+            distance - aspect_degrees,
+            aspect_degrees,
+            color,
+            aid,
+            diff,
+        )
 
-class CustomSynastryAspects(SynastryAspects):
+class CustomSynastryAspects(CustomNatalAspects):
     """
     Generates an object with all the aspects between two persons.
     """
