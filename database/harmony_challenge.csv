@@ -1,42 +1,39 @@
 Person1,Aspect,Person2,Score,Harmonious Keyword,Compatibility Category,Challenges Keyword,Incompatibility Category
-First_House,0,First_House,1,Personality Traits,Interaction,,
-First_House,0,First_House,1,Shared Goals,Intellectual_Connection,,
-First_House,60,First_House,2,Personality Traits,Interaction,,
-First_House,60,First_House,2,Shared Goals,Intellectual_Connection,,
-First_House,60,First_House,2,Effective Communication,Interaction,,
+First_House,0,First_House,2,Personality Traits,Interaction,,
+First_House,0,First_House,2,Effective Communication,Interaction,,
+First_House,0,First_House,2,Openness,Interaction,,
+First_House,60,First_House,1,Personality Traits,Interaction,,
+First_House,60,First_House,1,Acceptance,Respect,,
 First_House,90,First_House,-2,,,Ego Clash,Interaction
 First_House,90,First_House,-2,,,Differing Goals,Intellectual_Connection
 First_House,90,First_House,-2,,,Frequent Disagreements,Interaction
 First_House,90,First_House,-2,,,Lack of Chemistry,Emotional_Connection
 First_House,120,First_House,2,Personality Traits,Interaction,,
-First_House,120,First_House,2,Shared Goals,Intellectual_Connection,,
+First_House,120,First_House,2,Acceptance,Respect,,
 First_House,120,First_House,2,Effective Communication,Interaction,,
 First_House,180,First_House,3,Time Together,Commitment,,
 First_House,180,First_House,3,Personality Traits,Interaction,,
+First_House,180,First_House,3,Engaging Conversations,Interaction,,
+First_House,180,First_House,3,Openness,Interaction,,
 First_House,0,Sun,3,Acceptance,Respect,,
 First_House,0,Sun,3,Mutual Respect,Respect,,
-First_House,0,Sun,3,Resilience,Commitment,,
-First_House,0,Sun,3,Loyalty,Sincerity,,
 First_House,0,Sun,3,Honesty,Sincerity,,
 First_House,0,Sun,3,Personality Traits,Interaction,,
-First_House,60,Sun,3,Effective Communication,Interaction,,
-First_House,60,Sun,3,Shared Values,Intellectual_Connection,,
-First_House,60,Sun,3,Boundaries,Respect,,
-First_House,60,Sun,3,,,Lack for Consideration,Respect
-First_House,90,Sun,-3,,,Unwillingness to Change,Commitment
-First_House,90,Sun,-3,,,Ego Clash,Interaction
-First_House,90,Sun,-3,,,Differing Interests,Intellectual_Connection
-First_House,90,Sun,-3,,,Differing Goals,Intellectual_Connection
-First_House,90,Sun,-3,,,Differing Values,Intellectual_Connection
-First_House,90,Sun,-3,,,Frequent Disagreements,Interaction
-First_House,90,Sun,-3,Independence,Emotional_Connection,,
+First_House,60,Sun,2,Effective Communication,Interaction,,
+First_House,60,Sun,2,Shared Values,Intellectual_Connection,,
+First_House,90,Sun,-2,,,Unwillingness to Change,Commitment
+First_House,90,Sun,-2,,,Ego Clash,Interaction
+First_House,90,Sun,-2,,,Differing Interests,Intellectual_Connection
+First_House,90,Sun,-2,,,Differing Goals,Intellectual_Connection
+First_House,90,Sun,-2,,,Differing Values,Intellectual_Connection
+First_House,90,Sun,-2,,,Frequent Disagreements,Interaction
+First_House,90,Sun,-2,Independence,Emotional_Connection,,
 First_House,120,Sun,3,Time Together,Commitment,,
 First_House,120,Sun,3,Mutual Respect,Respect,,
 First_House,120,Sun,3,Gratitude,Sincerity,,
 First_House,120,Sun,3,Personality Traits,Interaction,,
 First_House,120,Sun,3,Trust,Commitment,,
 First_House,120,Sun,3,Shared Values,Intellectual_Connection,,
-First_House,120,Sun,3,,,Disregard for Boundaries,Respect
 First_House,180,Sun,4,Forgiveness,Respect,,
 First_House,180,Sun,4,Acceptance,Respect,,
 First_House,180,Sun,4,Time Together,Commitment,,
@@ -44,7 +41,6 @@ First_House,180,Sun,4,Chemistry,Emotional_Connection,,
 First_House,180,Sun,4,Shared Goals,Intellectual_Connection,,
 First_House,180,Sun,4,Boundaries,Respect,,
 First_House,180,Sun,4,Loyalty,Sincerity,,
-First_House,0,Moon,4,Engaging Conversations,Interaction,,
 First_House,0,Moon,4,Loyalty,Sincerity,,
 First_House,0,Moon,4,Gratitude,Sincerity,,
 First_House,0,Moon,4,Empathy,Emotional_Connection,,
@@ -53,48 +49,42 @@ First_House,0,Moon,4,Acceptance,Respect,,
 First_House,0,Moon,4,Mutual Support,Emotional_Connection,,
 First_House,60,Moon,2,Trust,Commitment,,
 First_House,60,Moon,2,Forgiveness,Respect,,
-First_House,60,Moon,2,,,Codependency,Emotional_Connection
-First_House,90,Moon,-3,,,Codependency,Emotional_Connection
-First_House,90,Moon,-3,,,Differing Values,Intellectual_Connection
-First_House,90,Moon,-3,,,Frequent Disagreements,Interaction
-First_House,90,Moon,-3,,,Indifference,Emotional_Connection
-First_House,90,Moon,-3,,,Fragility,Commitment
-First_House,90,Moon,-3,,,Reserved,Interaction
-First_House,90,Moon,-3,Chemistry,Emotional_Connection,,
+First_House,90,Moon,-1,,,Codependency,Emotional_Connection
+First_House,90,Moon,-1,,,Lack of Chemistry,Emotional_Connection
+First_House,90,Moon,-1,,,Indifference,Emotional_Connection
+First_House,90,Moon,-1,,,Fragility,Commitment
+First_House,90,Moon,-1,,,Reserved,Interaction
 First_House,120,Moon,3,Time Together,Commitment,,
 First_House,120,Moon,3,Trust,Commitment,,
 First_House,120,Moon,3,Forgiveness,Respect,,
+First_House,120,Moon,3,Chemistry,Emotional_Connection,,
 First_House,120,Moon,3,,,Codependency,Emotional_Connection
 First_House,180,Moon,4,Time Together,Commitment,,
 First_House,180,Moon,4,Loyalty,Sincerity,,
 First_House,180,Moon,4,Honesty,Sincerity,,
 First_House,180,Moon,4,Gratitude,Sincerity,,
 First_House,180,Moon,4,Chemistry,Emotional_Connection,,
-First_House,180,Moon,4,Conflict Resolution,Interaction,,
 First_House,180,Moon,4,Adaptability,Commitment,,
 First_House,180,Moon,4,Acceptance,Respect,,
 First_House,0,Mercury,2,Engaging Conversations,Interaction,,
 First_House,0,Mercury,2,Shared Interests,Intellectual_Connection,,
 First_House,0,Mercury,2,Sense of Humor,Intellectual_Connection,,
 First_House,0,Mercury,2,Effective Communication,Interaction,,
-First_House,0,Mercury,2,,,Fragility,Commitment
-First_House,60,Mercury,2,Time Together,Commitment,,
 First_House,60,Mercury,2,Shared Interests,Intellectual_Connection,,
+First_House,60,Mercury,2,Conflict Resolution,Interaction,,
 First_House,90,Mercury,-2,,,Criticism,Respect
 First_House,90,Mercury,-2,,,Differing Interests,Intellectual_Connection
-First_House,90,Mercury,-2,,,Lack of Support,Emotional_Connection
 First_House,90,Mercury,-2,,,Frequent Disagreements,Interaction
 First_House,90,Mercury,-2,,,Differing Sense of Humor,Intellectual_Connection
-First_House,90,Mercury,-2,Time Together,Commitment,,
 First_House,120,Mercury,2,Openness,Interaction,,
 First_House,120,Mercury,2,Sense of Humor,Intellectual_Connection,,
-First_House,120,Mercury,2,,,Fragility,Commitment
+First_House,120,Mercury,2,Effective Communication,Interaction,,
 First_House,180,Mercury,2,Adaptability,Commitment,,
 First_House,180,Mercury,2,Engaging Conversations,Interaction,,
 First_House,180,Mercury,2,Shared Interests,Intellectual_Connection,,
-First_House,180,Mercury,2,,,Conflict Resolution,Interaction
 First_House,0,Venus,2,Time Together,Commitment,,
 First_House,0,Venus,2,Personality Traits,Interaction,,
+First_House,0,Venus,2,Chemistry,Emotional_Connection,,
 First_House,60,Venus,2,Shared Values,Intellectual_Connection,,
 First_House,60,Venus,2,Time Together,Commitment,,
 First_House,60,Venus,2,Personality Traits,Interaction,,
@@ -103,15 +93,16 @@ First_House,90,Venus,-2,,,Indifference,Emotional_Connection
 First_House,90,Venus,-2,,,Differing Interests,Intellectual_Connection
 First_House,120,Venus,2,Shared Values,Intellectual_Connection,,
 First_House,120,Venus,2,Personality Traits,Interaction,,
-First_House,180,Venus,2,Adaptability,Commitment,,
+First_House,180,Venus,2,Time Together,Commitment,,
 First_House,180,Venus,2,Mutual Respect,Respect,,
 First_House,180,Venus,2,Gratitude,Sincerity,,
+First_House,0,Mars,3,Mutual Support,Emotional_Connection,,
+First_House,0,Mars,3,Resilience,Commitment,,
 First_House,0,Mars,3,Independence,Emotional_Connection,,
 First_House,0,Mars,3,Honesty,Sincerity,,
 First_House,0,Mars,3,,,Ego Clash,Interaction
 First_House,60,Mars,2,Independence,Emotional_Connection,,
 First_House,60,Mars,2,Honesty,Sincerity,,
-First_House,60,Mars,2,,,Unwillingness to Change,Commitment
 First_House,90,Mars,-3,,,Frequent Disagreements,Interaction
 First_House,90,Mars,-3,,,Jealousy and Competition,Sincerity
 First_House,90,Mars,-3,,,Conflict Resolution,Interaction
@@ -128,7 +119,6 @@ First_House,0,Jupiter,2,Adaptability,Commitment,,
 First_House,60,Jupiter,2,Forgiveness,Respect,,
 First_House,60,Jupiter,2,Adaptability,Commitment,,
 First_House,60,Jupiter,2,Openness,Interaction,,
-First_House,90,Jupiter,-1,,,Resentment,Respect
 First_House,90,Jupiter,-1,,,Reserved,Interaction
 First_House,120,Jupiter,2,Forgiveness,Respect,,
 First_House,120,Jupiter,2,Adaptability,Commitment,,
@@ -140,19 +130,17 @@ First_House,0,Saturn,2,Trust,Commitment,,
 First_House,0,Saturn,2,Resilience,Commitment,,
 First_House,0,Saturn,2,Loyalty,Sincerity,,
 First_House,60,Saturn,2,Honesty,Sincerity,,
-First_House,60,Saturn,2,Gratitude,Sincerity,,
-First_House,60,Saturn,2,,,Differing Sense of Humor,Intellectual_Connection
+First_House,60,Saturn,2,Trust,Commitment,,
 First_House,90,Saturn,-3,,,Conflict Resolution,Interaction
 First_House,90,Saturn,-3,,,Lack of Chemistry,Emotional_Connection
 First_House,90,Saturn,-3,,,Criticism,Respect
 First_House,90,Saturn,-3,,,Differing Sense of Humor,Intellectual_Connection
 First_House,90,Saturn,-3,,,Resentment,Respect
 First_House,120,Saturn,2,Honesty,Sincerity,,
-First_House,120,Saturn,2,Gratitude,Sincerity,,
-First_House,120,Saturn,2,,,Differing Sense of Humor,Intellectual_Connection
+First_House,120,Saturn,2,Trust,Commitment,,
 First_House,180,Saturn,2,Resilience,Commitment,,
-First_House,180,Saturn,2,,,Reserved,Interaction
 First_House,0,Uranus,1,Equality,Sincerity,,
+First_House,0,Uranus,1,Shared Values,Intellectual_Connection,,
 First_House,60,Uranus,1,Adaptability,Commitment,,
 First_House,60,Uranus,1,Shared Values,Intellectual_Connection,,
 First_House,90,Uranus,-1,,,Differing Values,Intellectual_Connection
@@ -161,28 +149,26 @@ First_House,90,Uranus,-1,,,Neglect,Commitment
 First_House,120,Uranus,1,Adaptability,Commitment,,
 First_House,120,Uranus,1,Shared Values,Intellectual_Connection,,
 First_House,180,Uranus,1,Adaptability,Commitment,,
-First_House,180,Uranus,1,Shared Values,Intellectual_Connection,,
 First_House,0,Neptune,-1,,,Dishonesty,Sincerity
 First_House,60,Neptune,1,Shared Values,Intellectual_Connection,,
 First_House,60,Neptune,1,Acceptance,Respect,,
 First_House,60,Neptune,1,,,Fragility,Commitment
-First_House,90,Neptune,-3,,,Lack of Trust,Commitment
-First_House,90,Neptune,-3,,,Unresponsive Interactions,Interaction
-First_House,90,Neptune,-3,,,Resentment,Respect
-First_House,90,Neptune,-3,,,Betrayals,Sincerity
-First_House,90,Neptune,-3,,,Dishonesty,Sincerity
-First_House,90,Neptune,-3,,,Differing Values,Intellectual_Connection
+First_House,90,Neptune,-1,,,Lack of Trust,Commitment
+First_House,90,Neptune,-1,,,Unresponsive Interactions,Interaction
+First_House,90,Neptune,-1,,,Resentment,Respect
+First_House,90,Neptune,-1,,,Betrayals,Sincerity
+First_House,90,Neptune,-1,,,Dishonesty,Sincerity
+First_House,90,Neptune,-1,,,Differing Values,Intellectual_Connection
 First_House,120,Neptune,1,Shared Values,Intellectual_Connection,,
 First_House,120,Neptune,1,Acceptance,Respect,,
-First_House,120,Neptune,1,,,Fragility,Commitment
 First_House,180,Neptune,1,Adaptability,Commitment,,
-First_House,90,Pluto,-4,,,Betrayals,Sincerity
-First_House,90,Pluto,-4,,,Resentment,Respect
-First_House,90,Pluto,-4,,,Disregard for Boundaries,Respect
-First_House,90,Pluto,-4,,,Dishonesty,Sincerity
-First_House,90,Pluto,-4,,,Jealousy and Competition,Sincerity
-First_House,90,Pluto,-4,,,Lack for Consideration,Respect
-First_House,90,Pluto,-4,,,Manipulation and Control,Sincerity
+First_House,90,Pluto,-3,,,Betrayals,Sincerity
+First_House,90,Pluto,-3,,,Resentment,Respect
+First_House,90,Pluto,-3,,,Disregard for Boundaries,Respect
+First_House,90,Pluto,-3,,,Dishonesty,Sincerity
+First_House,90,Pluto,-3,,,Jealousy and Competition,Sincerity
+First_House,90,Pluto,-3,,,Lack for Consideration,Respect
+First_House,90,Pluto,-3,,,Manipulation and Control,Sincerity
 First_House,180,Pluto,-2,,,Resentment,Respect
 First_House,180,Pluto,-2,,,Disregard for Boundaries,Respect
 First_House,180,Pluto,-2,,,Jealousy and Competition,Sincerity
@@ -190,28 +176,23 @@ First_House,180,Pluto,-2,,,Lack for Consideration,Respect
 First_House,180,Pluto,-2,,,Manipulation and Control,Sincerity
 Sun,0,First_House,3,Acceptance,Respect,,
 Sun,0,First_House,3,Mutual Respect,Respect,,
-Sun,0,First_House,3,Resilience,Commitment,,
-Sun,0,First_House,3,Loyalty,Sincerity,,
 Sun,0,First_House,3,Honesty,Sincerity,,
 Sun,0,First_House,3,Personality Traits,Interaction,,
-Sun,60,First_House,3,Effective Communication,Interaction,,
-Sun,60,First_House,3,Shared Values,Intellectual_Connection,,
-Sun,60,First_House,3,Boundaries,Respect,,
-Sun,60,First_House,3,,,Lack for Consideration,Respect
-Sun,90,First_House,-3,,,Unwillingness to Change,Commitment
-Sun,90,First_House,-3,,,Ego Clash,Interaction
-Sun,90,First_House,-3,,,Differing Interests,Intellectual_Connection
-Sun,90,First_House,-3,,,Differing Goals,Intellectual_Connection
-Sun,90,First_House,-3,,,Differing Values,Intellectual_Connection
-Sun,90,First_House,-3,,,Frequent Disagreements,Interaction
-Sun,90,First_House,-3,Independence,Emotional_Connection,,
+Sun,60,First_House,2,Effective Communication,Interaction,,
+Sun,60,First_House,2,Shared Values,Intellectual_Connection,,
+Sun,90,First_House,-2,,,Unwillingness to Change,Commitment
+Sun,90,First_House,-2,,,Ego Clash,Interaction
+Sun,90,First_House,-2,,,Differing Interests,Intellectual_Connection
+Sun,90,First_House,-2,,,Differing Goals,Intellectual_Connection
+Sun,90,First_House,-2,,,Differing Values,Intellectual_Connection
+Sun,90,First_House,-2,,,Frequent Disagreements,Interaction
+Sun,90,First_House,-2,Independence,Emotional_Connection,,
 Sun,120,First_House,3,Time Together,Commitment,,
 Sun,120,First_House,3,Mutual Respect,Respect,,
 Sun,120,First_House,3,Gratitude,Sincerity,,
 Sun,120,First_House,3,Personality Traits,Interaction,,
 Sun,120,First_House,3,Trust,Commitment,,
 Sun,120,First_House,3,Shared Values,Intellectual_Connection,,
-Sun,120,First_House,3,,,Disregard for Boundaries,Respect
 Sun,180,First_House,4,Forgiveness,Respect,,
 Sun,180,First_House,4,Acceptance,Respect,,
 Sun,180,First_House,4,Time Together,Commitment,,
@@ -239,13 +220,13 @@ Sun,120,Sun,3,Mutual Support,Emotional_Connection,,
 Sun,120,Sun,3,Sense of Humor,Intellectual_Connection,,
 Sun,120,Sun,3,Personality Traits,Interaction,,
 Sun,120,Sun,3,Mutual Respect,Respect,,
-Sun,180,Sun,2,Mutual Respect,Respect,,
-Sun,180,Sun,2,Loyalty,Sincerity,,
-Sun,180,Sun,2,,,Differing Interests,Intellectual_Connection
-Sun,180,Sun,2,,,Differing Goals,Intellectual_Connection
-Sun,180,Sun,2,,,Differing Sense of Humor,Intellectual_Connection
-Sun,180,Sun,2,,,Ego Clash,Interaction
-Sun,180,Sun,2,,,Unwillingness to Change,Commitment
+Sun,180,Sun,1,Mutual Respect,Respect,,
+Sun,180,Sun,1,Loyalty,Sincerity,,
+Sun,180,Sun,1,,,Differing Interests,Intellectual_Connection
+Sun,180,Sun,1,,,Differing Goals,Intellectual_Connection
+Sun,180,Sun,1,,,Differing Sense of Humor,Intellectual_Connection
+Sun,180,Sun,1,,,Ego Clash,Interaction
+Sun,180,Sun,1,,,Unwillingness to Change,Commitment
 Sun,0,Moon,4,Loyalty,Sincerity,,
 Sun,0,Moon,4,Gratitude,Sincerity,,
 Sun,0,Moon,4,Time Together,Commitment,,
@@ -260,34 +241,37 @@ Sun,60,Moon,3,Gratitude,Sincerity,,
 Sun,60,Moon,3,Forgiveness,Respect,,
 Sun,60,Moon,3,Trust,Commitment,,
 Sun,60,Moon,3,,,Codependency,Emotional_Connection
-Sun,90,Moon,-3,,,Differing Values,Intellectual_Connection
-Sun,90,Moon,-3,,,Ego Clash,Interaction
-Sun,90,Moon,-3,,,Unresponsive Interactions,Interaction
-Sun,90,Moon,-3,,,Codependency,Emotional_Connection
-Sun,90,Moon,-3,,,Resentment,Respect
-Sun,90,Moon,-3,,,Fragility,Commitment
-Sun,120,Moon,4,Loyalty,Sincerity,,
-Sun,120,Moon,4,Time Together,Commitment,,
-Sun,120,Moon,4,Empathy,Emotional_Connection,,
-Sun,120,Moon,4,Gratitude,Sincerity,,
-Sun,120,Moon,4,Forgiveness,Respect,,
-Sun,120,Moon,4,Trust,Commitment,,
-Sun,120,Moon,4,,,Codependency,Emotional_Connection
-Sun,180,Moon,-1,,,Codependency,Emotional_Connection
-Sun,180,Moon,-1,,,Differing Values,Intellectual_Connection
+Sun,90,Moon,-1,,,Differing Values,Intellectual_Connection
+Sun,90,Moon,-1,,,Ego Clash,Interaction
+Sun,90,Moon,-1,,,Unresponsive Interactions,Interaction
+Sun,90,Moon,-1,,,Codependency,Emotional_Connection
+Sun,90,Moon,-1,,,Fragility,Commitment
+Sun,120,Moon,3,Loyalty,Sincerity,,
+Sun,120,Moon,3,Time Together,Commitment,,
+Sun,120,Moon,3,Empathy,Emotional_Connection,,
+Sun,120,Moon,3,Gratitude,Sincerity,,
+Sun,120,Moon,3,Forgiveness,Respect,,
+Sun,120,Moon,3,Trust,Commitment,,
+Sun,120,Moon,3,,,Codependency,Emotional_Connection
+Sun,180,Moon,-2,,,Codependency,Emotional_Connection
+Sun,180,Moon,-2,,,Differing Values,Intellectual_Connection
+Sun,180,Moon,-2,,,Lack of Chemistry,Emotional_Connection
 Sun,0,Mercury,3,Shared Interests,Intellectual_Connection,,
 Sun,0,Mercury,3,Effective Communication,Interaction,,
 Sun,0,Mercury,3,Engaging Conversations,Interaction,,
 Sun,60,Mercury,2,Adaptability,Commitment,,
+Sun,60,Mercury,2,Effective Communication,Interaction,,
 Sun,90,Mercury,-2,,,Unresponsive Interactions,Interaction
+Sun,90,Mercury,-2,,,Frequent Disagreements,Interaction
 Sun,120,Mercury,3,Shared Goals,Intellectual_Connection,,
 Sun,120,Mercury,3,Sense of Humor,Intellectual_Connection,,
 Sun,120,Mercury,3,Engaging Conversations,Interaction,,
 Sun,180,Mercury,-2,,,Frequent Disagreements,Interaction
 Sun,180,Mercury,-2,,,Conflict Resolution,Interaction
-Sun,0,Mars,-2,,,Ego Clash,Interaction
-Sun,0,Mars,-2,,,Disregard for Boundaries,Respect
-Sun,0,Mars,-2,Resilience,Commitment,,
+Sun,0,Mars,1,Mutual Support,Emotional_Connection,,
+Sun,0,Mars,1,Resilience,Commitment,,
+Sun,0,Mars,1,Independence,Emotional_Connection,,
+Sun,0,Mars,1,,,Ego Clash,Interaction
 Sun,60,Mars,2,Resilience,Commitment,,
 Sun,60,Mars,2,Independence,Emotional_Connection,,
 Sun,60,Mars,2,,,Unwillingness to Change,Commitment
@@ -298,7 +282,7 @@ Sun,90,Mars,-3,,,Frequent Disagreements,Interaction
 Sun,90,Mars,-3,Independence,Emotional_Connection,,
 Sun,120,Mars,2,Personality Traits,Interaction,,
 Sun,120,Mars,2,Mutual Respect,Respect,,
-Sun,120,Mars,2,Shared Interests,Intellectual_Connection,,
+Sun,120,Mars,2,Mutual Support,Emotional_Connection,,
 Sun,120,Mars,2,,,Unwillingness to Change,Commitment
 Sun,180,Mars,-2,,,Differing Goals,Intellectual_Connection
 Sun,180,Mars,-2,,,Jealousy and Competition,Sincerity
@@ -318,24 +302,22 @@ Sun,120,Venus,2,Loyalty,Sincerity,,
 Sun,120,Venus,2,,,Codependency,Emotional_Connection
 Sun,180,Venus,-1,,,Differing Interests,Intellectual_Connection
 Sun,0,Jupiter,3,Sense of Humor,Intellectual_Connection,,
+Sun,0,Jupiter,3,Openness,Interaction,,
+Sun,0,Jupiter,3,Shared Goals,Intellectual_Connection,,
 Sun,0,Jupiter,3,Personality Traits,Interaction,,
 Sun,60,Jupiter,2,Trust,Commitment,,
 Sun,60,Jupiter,2,Time Together,Commitment,,
 Sun,90,Jupiter,-2,,,Differing Values,Intellectual_Connection
 Sun,90,Jupiter,-2,,,Reserved,Interaction
 Sun,90,Jupiter,-2,,,Differing Goals,Intellectual_Connection
-Sun,90,Jupiter,-2,Trust,Commitment,,
-Sun,120,Jupiter,3,Shared Values,Intellectual_Connection,,
 Sun,120,Jupiter,3,Mutual Respect,Respect,,
+Sun,120,Jupiter,3,Shared Goals,Intellectual_Connection,,
 Sun,120,Jupiter,3,Honesty,Sincerity,,
-Sun,120,Jupiter,3,,,Lack for Consideration,Respect
 Sun,180,Jupiter,-2,,,Differing Goals,Intellectual_Connection
 Sun,180,Jupiter,-2,,,Differing Values,Intellectual_Connection
-Sun,180,Jupiter,-2,,,Criticism,Respect
 Sun,0,Saturn,2,Trust,Commitment,,
 Sun,0,Saturn,2,Loyalty,Sincerity,,
 Sun,0,Saturn,2,Independence,Emotional_Connection,,
-Sun,0,Saturn,2,,,Criticism,Respect
 Sun,60,Saturn,2,Mutual Respect,Respect,,
 Sun,60,Saturn,2,Honesty,Sincerity,,
 Sun,60,Saturn,2,Independence,Emotional_Connection,,
@@ -349,7 +331,6 @@ Sun,120,Saturn,3,Trust,Commitment,,
 Sun,120,Saturn,3,Independence,Emotional_Connection,,
 Sun,180,Saturn,-2,,,Differing Values,Intellectual_Connection
 Sun,180,Saturn,-2,,,Conflict Resolution,Interaction
-Sun,180,Saturn,-2,Trust,Commitment,,
 Sun,0,Uranus,2,Equality,Sincerity,,
 Sun,0,Uranus,2,Independence,Emotional_Connection,,
 Sun,60,Uranus,2,Shared Interests,Intellectual_Connection,,
@@ -366,32 +347,27 @@ Sun,180,Uranus,-2,,,Differing Goals,Intellectual_Connection
 Sun,180,Uranus,-2,,,Differing Values,Intellectual_Connection
 Sun,180,Uranus,-2,Equality,Sincerity,,
 Sun,0,Neptune,-1,,,Codependency,Emotional_Connection
-Sun,60,Neptune,2,Empathy,Emotional_Connection,,
-Sun,60,Neptune,2,,,Resentment,Respect
+Sun,0,Neptune,-1,,,Disregard for Boundaries,Respect
+Sun,60,Neptune,1,Empathy,Emotional_Connection,,
 Sun,90,Neptune,-2,,,Dishonesty,Sincerity
 Sun,90,Neptune,-2,,,Betrayals,Sincerity
-Sun,90,Neptune,-2,,,Conflict Resolution,Interaction
 Sun,90,Neptune,-2,,,Fragility,Commitment
 Sun,120,Neptune,2,Forgiveness,Respect,,
 Sun,120,Neptune,2,Acceptance,Respect,,
-Sun,120,Neptune,2,,,Disregard for Boundaries,Respect
 Sun,180,Neptune,-1,,,Dishonesty,Sincerity
 Sun,180,Neptune,-1,,,Differing Values,Intellectual_Connection
 Sun,0,Pluto,-1,,,Manipulation and Control,Sincerity
 Sun,60,Pluto,1,Resilience,Commitment,,
 Sun,60,Pluto,1,,,Reserved,Interaction
-Sun,90,Pluto,-4,,,Manipulation and Control,Sincerity
-Sun,90,Pluto,-4,,,Betrayals,Sincerity
-Sun,90,Pluto,-4,,,Dishonesty,Sincerity
-Sun,90,Pluto,-4,,,Jealousy and Competition,Sincerity
-Sun,90,Pluto,-4,,,Lack for Consideration,Respect
-Sun,90,Pluto,-4,,,Unwillingness to Change,Commitment
+Sun,90,Pluto,-3,,,Manipulation and Control,Sincerity
+Sun,90,Pluto,-3,,,Betrayals,Sincerity
+Sun,90,Pluto,-3,,,Dishonesty,Sincerity
+Sun,90,Pluto,-3,,,Jealousy and Competition,Sincerity
+Sun,90,Pluto,-3,,,Unwillingness to Change,Commitment
 Sun,120,Pluto,1,Resilience,Commitment,,
-Sun,120,Pluto,1,,,Lack for Consideration,Respect
 Sun,180,Pluto,-2,,,Differing Goals,Intellectual_Connection
 Sun,180,Pluto,-2,,,Ego Clash,Interaction
 Sun,180,Pluto,-2,,,Unwillingness to Change,Commitment
-Moon,0,First_House,4,Engaging Conversations,Interaction,,
 Moon,0,First_House,4,Loyalty,Sincerity,,
 Moon,0,First_House,4,Gratitude,Sincerity,,
 Moon,0,First_House,4,Empathy,Emotional_Connection,,
@@ -400,24 +376,21 @@ Moon,0,First_House,4,Acceptance,Respect,,
 Moon,0,First_House,4,Mutual Support,Emotional_Connection,,
 Moon,60,First_House,2,Trust,Commitment,,
 Moon,60,First_House,2,Forgiveness,Respect,,
-Moon,60,First_House,2,,,Codependency,Emotional_Connection
-Moon,90,First_House,-3,,,Codependency,Emotional_Connection
-Moon,90,First_House,-3,,,Differing Values,Intellectual_Connection
-Moon,90,First_House,-3,,,Frequent Disagreements,Interaction
-Moon,90,First_House,-3,,,Indifference,Emotional_Connection
-Moon,90,First_House,-3,,,Fragility,Commitment
-Moon,90,First_House,-3,,,Reserved,Interaction
-Moon,90,First_House,-3,Chemistry,Emotional_Connection,,
+Moon,90,First_House,-1,,,Codependency,Emotional_Connection
+Moon,90,First_House,-1,,,Differing Values,Intellectual_Connection
+Moon,90,First_House,-1,,,Indifference,Emotional_Connection
+Moon,90,First_House,-1,,,Fragility,Commitment
+Moon,90,First_House,-1,,,Reserved,Interaction
 Moon,120,First_House,3,Time Together,Commitment,,
 Moon,120,First_House,3,Trust,Commitment,,
 Moon,120,First_House,3,Forgiveness,Respect,,
+Moon,120,First_House,3,Chemistry,Emotional_Connection,,
 Moon,120,First_House,3,,,Codependency,Emotional_Connection
 Moon,180,First_House,4,Time Together,Commitment,,
 Moon,180,First_House,4,Loyalty,Sincerity,,
 Moon,180,First_House,4,Honesty,Sincerity,,
 Moon,180,First_House,4,Gratitude,Sincerity,,
 Moon,180,First_House,4,Chemistry,Emotional_Connection,,
-Moon,180,First_House,4,Conflict Resolution,Interaction,,
 Moon,180,First_House,4,Adaptability,Commitment,,
 Moon,180,First_House,4,Acceptance,Respect,,
 Moon,0,Sun,4,Loyalty,Sincerity,,
@@ -434,29 +407,27 @@ Moon,60,Sun,3,Gratitude,Sincerity,,
 Moon,60,Sun,3,Forgiveness,Respect,,
 Moon,60,Sun,3,Trust,Commitment,,
 Moon,60,Sun,3,,,Codependency,Emotional_Connection
-Moon,90,Sun,-3,,,Differing Values,Intellectual_Connection
-Moon,90,Sun,-3,,,Ego Clash,Interaction
-Moon,90,Sun,-3,,,Unresponsive Interactions,Interaction
-Moon,90,Sun,-3,,,Codependency,Emotional_Connection
-Moon,90,Sun,-3,,,Resentment,Respect
-Moon,90,Sun,-3,,,Fragility,Commitment
-Moon,120,Sun,4,Loyalty,Sincerity,,
-Moon,120,Sun,4,Time Together,Commitment,,
-Moon,120,Sun,4,Empathy,Emotional_Connection,,
-Moon,120,Sun,4,Gratitude,Sincerity,,
-Moon,120,Sun,4,Forgiveness,Respect,,
-Moon,120,Sun,4,Trust,Commitment,,
-Moon,120,Sun,4,,,Codependency,Emotional_Connection
-Moon,180,Sun,-1,,,Codependency,Emotional_Connection
-Moon,180,Sun,-1,,,Differing Values,Intellectual_Connection
+Moon,90,Sun,-1,,,Differing Values,Intellectual_Connection
+Moon,90,Sun,-1,,,Ego Clash,Interaction
+Moon,90,Sun,-1,,,Unresponsive Interactions,Interaction
+Moon,90,Sun,-1,,,Codependency,Emotional_Connection
+Moon,90,Sun,-1,,,Fragility,Commitment
+Moon,120,Sun,3,Loyalty,Sincerity,,
+Moon,120,Sun,3,Time Together,Commitment,,
+Moon,120,Sun,3,Empathy,Emotional_Connection,,
+Moon,120,Sun,3,Gratitude,Sincerity,,
+Moon,120,Sun,3,Forgiveness,Respect,,
+Moon,120,Sun,3,Trust,Commitment,,
+Moon,120,Sun,3,,,Codependency,Emotional_Connection
+Moon,180,Sun,-2,,,Codependency,Emotional_Connection
+Moon,180,Sun,-2,,,Differing Values,Intellectual_Connection
+Moon,180,Sun,-2,,,Lack of Chemistry,Emotional_Connection
 Moon,0,Moon,2,Empathy,Emotional_Connection,,
 Moon,0,Moon,2,Shared Values,Intellectual_Connection,,
-Moon,0,Moon,2,Shared Interests,Intellectual_Connection,,
 Moon,0,Moon,2,Trust,Commitment,,
 Moon,0,Moon,2,Chemistry,Emotional_Connection,,
 Moon,60,Moon,2,Empathy,Emotional_Connection,,
 Moon,60,Moon,2,Shared Values,Intellectual_Connection,,
-Moon,60,Moon,2,Shared Interests,Intellectual_Connection,,
 Moon,60,Moon,2,Trust,Commitment,,
 Moon,90,Moon,-2,,,Lack of Trust,Commitment
 Moon,90,Moon,-2,,,Differing Interests,Intellectual_Connection
@@ -464,32 +435,28 @@ Moon,90,Moon,-2,,,Differing Values,Intellectual_Connection
 Moon,90,Moon,-2,,,Neglect,Commitment
 Moon,120,Moon,2,Empathy,Emotional_Connection,,
 Moon,120,Moon,2,Shared Values,Intellectual_Connection,,
-Moon,120,Moon,2,Shared Interests,Intellectual_Connection,,
 Moon,120,Moon,2,Trust,Commitment,,
-Moon,180,Moon,-3,,,Lack of Trust,Commitment
-Moon,180,Moon,-3,,,Differing Interests,Intellectual_Connection
-Moon,180,Moon,-3,,,Differing Values,Intellectual_Connection
-Moon,180,Moon,-3,,,Codependency,Emotional_Connection
-Moon,180,Moon,-3,,,Resentment,Respect
-Moon,180,Moon,-3,,,Lack for Consideration,Respect
-Moon,180,Moon,-3,,,Disregard for Boundaries,Respect
-Moon,180,Moon,-3,,,Neglect,Commitment
-Moon,0,Mercury,2,Mutual Support,Emotional_Connection,,
-Moon,0,Mercury,2,Engaging Conversations,Interaction,,
+Moon,180,Moon,-1,,,Lack of Trust,Commitment
+Moon,180,Moon,-1,,,Differing Interests,Intellectual_Connection
+Moon,180,Moon,-1,,,Differing Values,Intellectual_Connection
+Moon,180,Moon,-1,,,Codependency,Emotional_Connection
+Moon,180,Moon,-1,,,Resentment,Respect
+Moon,180,Moon,-1,,,Lack for Consideration,Respect
+Moon,180,Moon,-1,,,Disregard for Boundaries,Respect
+Moon,180,Moon,-1,,,Neglect,Commitment
+Moon,0,Mercury,2,Empathy,Emotional_Connection,,
+Moon,0,Mercury,2,Gratitude,Sincerity,,
 Moon,0,Mercury,2,Acceptance,Respect,,
-Moon,0,Mercury,2,,,Fragility,Commitment
 Moon,60,Mercury,2,Shared Interests,Intellectual_Connection,,
 Moon,60,Mercury,2,Empathy,Emotional_Connection,,
 Moon,60,Mercury,2,Chemistry,Emotional_Connection,,
-Moon,60,Mercury,2,,,Fragility,Commitment
-Moon,60,Mercury,2,,,Reserved,Interaction
 Moon,90,Mercury,-2,,,Indifference,Emotional_Connection
 Moon,90,Mercury,-2,,,Criticism,Respect
 Moon,90,Mercury,-2,,,Resentment,Respect
 Moon,90,Mercury,-2,Chemistry,Emotional_Connection,,
 Moon,120,Mercury,2,Empathy,Emotional_Connection,,
-Moon,120,Mercury,2,Shared Interests,Intellectual_Connection,,
-Moon,120,Mercury,2,Sense of Humor,Intellectual_Connection,,
+Moon,120,Mercury,2,Gratitude,Sincerity,,
+Moon,120,Mercury,2,Acceptance,Respect,,
 Moon,180,Mercury,-2,,,Differing Goals,Intellectual_Connection
 Moon,180,Mercury,-2,,,Frequent Disagreements,Interaction
 Moon,180,Mercury,-2,,,Unresponsive Interactions,Interaction
@@ -524,12 +491,10 @@ Moon,120,Venus,2,Shared Values,Intellectual_Connection,,
 Moon,120,Venus,2,Forgiveness,Respect,,
 Moon,120,Venus,2,Acceptance,Respect,,
 Moon,180,Venus,-1,,,Unresponsive Interactions,Interaction
-Moon,0,Jupiter,3,Trust,Commitment,,
 Moon,0,Jupiter,3,Honesty,Sincerity,,
 Moon,0,Jupiter,3,Empathy,Emotional_Connection,,
 Moon,0,Jupiter,3,Openness,Interaction,,
 Moon,0,Jupiter,3,Conflict Resolution,Interaction,,
-Moon,0,Jupiter,3,Engaging Conversations,Interaction,,
 Moon,0,Jupiter,3,Equality,Sincerity,,
 Moon,60,Jupiter,2,Engaging Conversations,Interaction,,
 Moon,60,Jupiter,2,Equality,Sincerity,,
@@ -540,20 +505,18 @@ Moon,90,Jupiter,-1,,,Reserved,Interaction
 Moon,120,Jupiter,2,Engaging Conversations,Interaction,,
 Moon,120,Jupiter,2,Equality,Sincerity,,
 Moon,120,Jupiter,2,Conflict Resolution,Interaction,,
-Moon,180,Jupiter,-1,Trust,Commitment,,
 Moon,0,Saturn,1,Trust,Commitment,,
 Moon,60,Saturn,2,Trust,Commitment,,
-Moon,60,Saturn,2,Forgiveness,Respect,,
+Moon,60,Saturn,2,Empathy,Emotional_Connection,,
 Moon,60,Saturn,2,Boundaries,Respect,,
 Moon,90,Saturn,-4,,,Betrayals,Sincerity
-Moon,90,Saturn,-4,,,Ego Clash,Interaction
 Moon,90,Saturn,-4,,,Criticism,Respect
 Moon,90,Saturn,-4,,,Differing Interests,Intellectual_Connection
 Moon,90,Saturn,-4,,,Fragility,Commitment
 Moon,90,Saturn,-4,,,Unwillingness to Change,Commitment
 Moon,90,Saturn,-4,,,Differing Values,Intellectual_Connection
 Moon,120,Saturn,2,Trust,Commitment,,
-Moon,120,Saturn,2,Forgiveness,Respect,,
+Moon,120,Saturn,2,Empathy,Emotional_Connection,,
 Moon,120,Saturn,2,Boundaries,Respect,,
 Moon,180,Saturn,-3,,,Differing Values,Intellectual_Connection
 Moon,180,Saturn,-3,,,Conflict Resolution,Interaction
@@ -595,65 +558,59 @@ Moon,60,Pluto,1,Time Together,Commitment,,
 Moon,90,Pluto,-3,,,Manipulation and Control,Sincerity
 Moon,90,Pluto,-3,,,Dishonesty,Sincerity
 Moon,90,Pluto,-3,,,Lack for Consideration,Respect
-Moon,90,Pluto,-3,,,Unresponsive Interactions,Interaction
 Moon,90,Pluto,-3,,,Indifference,Emotional_Connection
 Moon,90,Pluto,-3,,,Resentment,Respect
 Moon,90,Pluto,-3,,,Betrayals,Sincerity
 Moon,120,Pluto,1,Time Together,Commitment,,
-Moon,180,Pluto,-3,,,Manipulation and Control,Sincerity
-Moon,180,Pluto,-3,,,Dishonesty,Sincerity
-Moon,180,Pluto,-3,,,Lack for Consideration,Respect
-Moon,180,Pluto,-3,,,Unresponsive Interactions,Interaction
-Moon,180,Pluto,-3,,,Indifference,Emotional_Connection
-Moon,180,Pluto,-3,,,Resentment,Respect
-Moon,180,Pluto,-3,,,Betrayals,Sincerity
-Moon,180,Pluto,-3,,,Lack of Trust,Commitment
+Moon,180,Pluto,-2,,,Manipulation and Control,Sincerity
+Moon,180,Pluto,-2,,,Dishonesty,Sincerity
+Moon,180,Pluto,-2,,,Lack for Consideration,Respect
+Moon,180,Pluto,-2,,,Unresponsive Interactions,Interaction
+Moon,180,Pluto,-2,,,Indifference,Emotional_Connection
+Moon,180,Pluto,-2,,,Resentment,Respect
+Moon,180,Pluto,-2,,,Betrayals,Sincerity
+Moon,180,Pluto,-2,,,Lack of Trust,Commitment
 Mercury,0,First_House,2,Engaging Conversations,Interaction,,
 Mercury,0,First_House,2,Shared Interests,Intellectual_Connection,,
 Mercury,0,First_House,2,Sense of Humor,Intellectual_Connection,,
 Mercury,0,First_House,2,Effective Communication,Interaction,,
-Mercury,0,First_House,2,,,Fragility,Commitment
-Mercury,60,First_House,2,Time Together,Commitment,,
 Mercury,60,First_House,2,Shared Interests,Intellectual_Connection,,
+Mercury,60,First_House,2,Conflict Resolution,Interaction,,
 Mercury,90,First_House,-2,,,Criticism,Respect
 Mercury,90,First_House,-2,,,Differing Interests,Intellectual_Connection
-Mercury,90,First_House,-2,,,Lack of Support,Emotional_Connection
 Mercury,90,First_House,-2,,,Frequent Disagreements,Interaction
 Mercury,90,First_House,-2,,,Differing Sense of Humor,Intellectual_Connection
-Mercury,90,First_House,-2,Time Together,Commitment,,
 Mercury,120,First_House,2,Openness,Interaction,,
 Mercury,120,First_House,2,Sense of Humor,Intellectual_Connection,,
-Mercury,120,First_House,2,,,Fragility,Commitment
+Mercury,120,First_House,2,Effective Communication,Interaction,,
 Mercury,180,First_House,2,Adaptability,Commitment,,
 Mercury,180,First_House,2,Engaging Conversations,Interaction,,
 Mercury,180,First_House,2,Shared Interests,Intellectual_Connection,,
-Mercury,180,First_House,2,,,Conflict Resolution,Interaction
 Mercury,0,Sun,3,Shared Interests,Intellectual_Connection,,
 Mercury,0,Sun,3,Effective Communication,Interaction,,
 Mercury,0,Sun,3,Engaging Conversations,Interaction,,
 Mercury,60,Sun,2,Adaptability,Commitment,,
+Mercury,60,Sun,2,Effective Communication,Interaction,,
 Mercury,90,Sun,-2,,,Unresponsive Interactions,Interaction
+Mercury,90,Sun,-2,,,Frequent Disagreements,Interaction
 Mercury,120,Sun,3,Shared Goals,Intellectual_Connection,,
 Mercury,120,Sun,3,Sense of Humor,Intellectual_Connection,,
 Mercury,120,Sun,3,Engaging Conversations,Interaction,,
 Mercury,180,Sun,-2,,,Frequent Disagreements,Interaction
 Mercury,180,Sun,-2,,,Conflict Resolution,Interaction
-Mercury,0,Moon,2,Mutual Support,Emotional_Connection,,
-Mercury,0,Moon,2,Engaging Conversations,Interaction,,
+Mercury,0,Moon,2,Empathy,Emotional_Connection,,
+Mercury,0,Moon,2,Gratitude,Sincerity,,
 Mercury,0,Moon,2,Acceptance,Respect,,
-Mercury,0,Moon,2,,,Fragility,Commitment
 Mercury,60,Moon,2,Shared Interests,Intellectual_Connection,,
 Mercury,60,Moon,2,Empathy,Emotional_Connection,,
 Mercury,60,Moon,2,Chemistry,Emotional_Connection,,
-Mercury,60,Moon,2,,,Fragility,Commitment
-Mercury,60,Moon,2,,,Reserved,Interaction
 Mercury,90,Moon,-2,,,Indifference,Emotional_Connection
 Mercury,90,Moon,-2,,,Criticism,Respect
 Mercury,90,Moon,-2,,,Resentment,Respect
 Mercury,90,Moon,-2,Chemistry,Emotional_Connection,,
 Mercury,120,Moon,2,Empathy,Emotional_Connection,,
-Mercury,120,Moon,2,Shared Interests,Intellectual_Connection,,
-Mercury,120,Moon,2,Sense of Humor,Intellectual_Connection,,
+Mercury,120,Moon,2,Gratitude,Sincerity,,
+Mercury,120,Moon,2,Acceptance,Respect,,
 Mercury,180,Moon,-2,,,Differing Goals,Intellectual_Connection
 Mercury,180,Moon,-2,,,Frequent Disagreements,Interaction
 Mercury,180,Moon,-2,,,Unresponsive Interactions,Interaction
@@ -661,26 +618,22 @@ Mercury,0,Mercury,3,Equality,Sincerity,,
 Mercury,0,Mercury,3,Effective Communication,Interaction,,
 Mercury,0,Mercury,3,Shared Interests,Intellectual_Connection,,
 Mercury,0,Mercury,3,Sense of Humor,Intellectual_Connection,,
-Mercury,0,Mercury,3,Engaging Conversations,Interaction,,
 Mercury,0,Mercury,3,,,Indifference,Emotional_Connection
-Mercury,60,Mercury,2,Equality,Sincerity,,
-Mercury,60,Mercury,2,Effective Communication,Interaction,,
-Mercury,60,Mercury,2,Shared Interests,Intellectual_Connection,,
-Mercury,60,Mercury,2,Sense of Humor,Intellectual_Connection,,
-Mercury,60,Mercury,2,Engaging Conversations,Interaction,,
-Mercury,60,Mercury,2,,,Indifference,Emotional_Connection
-Mercury,90,Mercury,-4,,,Indifference,Emotional_Connection
-Mercury,90,Mercury,-4,,,Differing Interests,Intellectual_Connection
-Mercury,90,Mercury,-4,,,Differing Sense of Humor,Intellectual_Connection
-Mercury,90,Mercury,-4,,,Frequent Disagreements,Interaction
-Mercury,90,Mercury,-4,,,Ego Clash,Interaction
-Mercury,90,Mercury,-4,,,Conflict Resolution,Interaction
-Mercury,90,Mercury,-4,,,Resentment,Respect
+Mercury,60,Mercury,3,Equality,Sincerity,,
+Mercury,60,Mercury,3,Effective Communication,Interaction,,
+Mercury,60,Mercury,3,Shared Interests,Intellectual_Connection,,
+Mercury,60,Mercury,3,Sense of Humor,Intellectual_Connection,,
+Mercury,90,Mercury,-3,,,Indifference,Emotional_Connection
+Mercury,90,Mercury,-3,,,Differing Interests,Intellectual_Connection
+Mercury,90,Mercury,-3,,,Differing Sense of Humor,Intellectual_Connection
+Mercury,90,Mercury,-3,,,Frequent Disagreements,Interaction
+Mercury,90,Mercury,-3,,,Ego Clash,Interaction
+Mercury,90,Mercury,-3,,,Conflict Resolution,Interaction
+Mercury,90,Mercury,-3,,,Resentment,Respect
 Mercury,120,Mercury,3,Equality,Sincerity,,
 Mercury,120,Mercury,3,Effective Communication,Interaction,,
 Mercury,120,Mercury,3,Shared Interests,Intellectual_Connection,,
 Mercury,120,Mercury,3,Sense of Humor,Intellectual_Connection,,
-Mercury,120,Mercury,3,Engaging Conversations,Interaction,,
 Mercury,180,Mercury,-2,,,Frequent Disagreements,Interaction
 Mercury,180,Mercury,-2,,,Ego Clash,Interaction
 Mercury,180,Mercury,-2,,,Conflict Resolution,Interaction
@@ -706,9 +659,7 @@ Mercury,0,Venus,2,Chemistry,Emotional_Connection,,
 Mercury,0,Venus,2,Engaging Conversations,Interaction,,
 Mercury,0,Venus,2,,,Fragility,Commitment
 Mercury,60,Venus,2,Shared Interests,Intellectual_Connection,,
-Mercury,60,Venus,2,Time Together,Commitment,,
 Mercury,60,Venus,2,Shared Values,Intellectual_Connection,,
-Mercury,60,Venus,2,,,Fragility,Commitment
 Mercury,90,Venus,-1,,,Indifference,Emotional_Connection
 Mercury,120,Venus,2,Shared Interests,Intellectual_Connection,,
 Mercury,120,Venus,2,Time Together,Commitment,,
@@ -737,13 +688,11 @@ Mercury,180,Jupiter,-1,,,Differing Sense of Humor,Intellectual_Connection
 Mercury,0,Saturn,-2,,,Criticism,Respect
 Mercury,0,Saturn,-2,,,Lack of Chemistry,Emotional_Connection
 Mercury,0,Saturn,-2,,,Differing Interests,Intellectual_Connection
-Mercury,60,Saturn,2,Shared Values,Intellectual_Connection,,
 Mercury,60,Saturn,2,Trust,Commitment,,
 Mercury,60,Saturn,2,Mutual Respect,Respect,,
 Mercury,90,Saturn,-2,,,Unresponsive Interactions,Interaction
 Mercury,90,Saturn,-2,,,Criticism,Respect
 Mercury,90,Saturn,-2,,,Differing Interests,Intellectual_Connection
-Mercury,120,Saturn,2,Shared Values,Intellectual_Connection,,
 Mercury,120,Saturn,2,Trust,Commitment,,
 Mercury,120,Saturn,2,Mutual Respect,Respect,,
 Mercury,120,Saturn,2,Mutual Support,Emotional_Connection,,
@@ -756,12 +705,9 @@ Mercury,60,Uranus,2,Honesty,Sincerity,,
 Mercury,60,Uranus,2,Engaging Conversations,Interaction,,
 Mercury,60,Uranus,2,,,Indifference,Emotional_Connection
 Mercury,90,Uranus,-2,,,Ego Clash,Interaction
-Mercury,90,Uranus,-2,,,Frequent Disagreements,Interaction
 Mercury,90,Uranus,-2,,,Indifference,Emotional_Connection
 Mercury,120,Uranus,2,Equality,Sincerity,,
 Mercury,120,Uranus,2,Honesty,Sincerity,,
-Mercury,120,Uranus,2,Engaging Conversations,Interaction,,
-Mercury,120,Uranus,2,,,Indifference,Emotional_Connection
 Mercury,180,Uranus,1,Honesty,Sincerity,,
 Mercury,180,Uranus,1,Equality,Sincerity,,
 Mercury,180,Uranus,1,,,Indifference,Emotional_Connection
@@ -788,16 +734,16 @@ Mercury,90,Pluto,-3,,,Manipulation and Control,Sincerity
 Mercury,90,Pluto,-3,,,Unwillingness to Change,Commitment
 Mercury,90,Pluto,-3,,,Disregard for Boundaries,Respect
 Mercury,120,Pluto,1,Openness,Interaction,,
-Mercury,120,Pluto,1,,,Disregard for Boundaries,Respect
 Mercury,180,Pluto,-2,,,Manipulation and Control,Sincerity
 Mercury,180,Pluto,-2,,,Differing Goals,Intellectual_Connection
 Mercury,180,Pluto,-2,Independence,Emotional_Connection,,
+Mars,0,First_House,3,Mutual Support,Emotional_Connection,,
+Mars,0,First_House,3,Resilience,Commitment,,
 Mars,0,First_House,3,Independence,Emotional_Connection,,
 Mars,0,First_House,3,Honesty,Sincerity,,
 Mars,0,First_House,3,,,Ego Clash,Interaction
 Mars,60,First_House,2,Independence,Emotional_Connection,,
 Mars,60,First_House,2,Honesty,Sincerity,,
-Mars,60,First_House,2,,,Unwillingness to Change,Commitment
 Mars,90,First_House,-3,,,Frequent Disagreements,Interaction
 Mars,90,First_House,-3,,,Jealousy and Competition,Sincerity
 Mars,90,First_House,-3,,,Conflict Resolution,Interaction
@@ -808,9 +754,10 @@ Mars,120,First_House,2,Honesty,Sincerity,,
 Mars,180,First_House,2,Honesty,Sincerity,,
 Mars,180,First_House,2,Independence,Emotional_Connection,,
 Mars,180,First_House,2,Resilience,Commitment,,
-Mars,0,Sun,-2,,,Ego Clash,Interaction
-Mars,0,Sun,-2,,,Disregard for Boundaries,Respect
-Mars,0,Sun,-2,Resilience,Commitment,,
+Mars,0,Sun,1,Mutual Support,Emotional_Connection,,
+Mars,0,Sun,1,Resilience,Commitment,,
+Mars,0,Sun,1,Independence,Emotional_Connection,,
+Mars,0,Sun,1,,,Ego Clash,Interaction
 Mars,60,Sun,2,Resilience,Commitment,,
 Mars,60,Sun,2,Independence,Emotional_Connection,,
 Mars,60,Sun,2,,,Unwillingness to Change,Commitment
@@ -821,7 +768,7 @@ Mars,90,Sun,-3,,,Frequent Disagreements,Interaction
 Mars,90,Sun,-3,Independence,Emotional_Connection,,
 Mars,120,Sun,2,Personality Traits,Interaction,,
 Mars,120,Sun,2,Mutual Respect,Respect,,
-Mars,120,Sun,2,Shared Interests,Intellectual_Connection,,
+Mars,120,Sun,2,Mutual Support,Emotional_Connection,,
 Mars,120,Sun,2,,,Unwillingness to Change,Commitment
 Mars,180,Sun,-2,,,Differing Goals,Intellectual_Connection
 Mars,180,Sun,-2,,,Jealousy and Competition,Sincerity
@@ -899,21 +846,17 @@ Mars,0,Jupiter,1,Mutual Support,Emotional_Connection,,
 Mars,60,Jupiter,2,Gratitude,Sincerity,,
 Mars,60,Jupiter,2,Shared Interests,Intellectual_Connection,,
 Mars,60,Jupiter,2,Engaging Conversations,Interaction,,
-Mars,60,Jupiter,2,,,Lack for Consideration,Respect
 Mars,90,Jupiter,-2,,,Differing Values,Intellectual_Connection
 Mars,90,Jupiter,-2,,,Indifference,Emotional_Connection
 Mars,90,Jupiter,-2,,,Unresponsive Interactions,Interaction
 Mars,120,Jupiter,2,Mutual Support,Emotional_Connection,,
 Mars,120,Jupiter,2,Mutual Respect,Respect,,
 Mars,120,Jupiter,2,Loyalty,Sincerity,,
-Mars,120,Jupiter,2,,,Disregard for Boundaries,Respect
 Mars,180,Jupiter,-2,,,Differing Values,Intellectual_Connection
 Mars,0,Saturn,-2,,,Indifference,Emotional_Connection
 Mars,0,Saturn,-2,,,Unwillingness to Change,Commitment
 Mars,60,Saturn,2,Trust,Commitment,,
-Mars,60,Saturn,2,Time Together,Commitment,,
 Mars,60,Saturn,2,Mutual Support,Emotional_Connection,,
-Mars,60,Saturn,2,,,Lack for Consideration,Respect
 Mars,90,Saturn,-3,,,Lack of Support,Emotional_Connection
 Mars,90,Saturn,-3,,,Differing Sense of Humor,Intellectual_Connection
 Mars,90,Saturn,-3,,,Frequent Disagreements,Interaction
@@ -925,17 +868,15 @@ Mars,120,Saturn,2,Boundaries,Respect,,
 Mars,120,Saturn,2,Mutual Support,Emotional_Connection,,
 Mars,180,Saturn,1,Resilience,Commitment,,
 Mars,0,Uranus,1,Openness,Interaction,,
-Mars,60,Uranus,2,Shared Interests,Intellectual_Connection,,
-Mars,60,Uranus,2,Mutual Support,Emotional_Connection,,
-Mars,60,Uranus,2,,,Unwillingness to Change,Commitment
-Mars,90,Uranus,-3,,,Lack of Trust,Commitment
-Mars,90,Uranus,-3,,,Lack of Chemistry,Emotional_Connection
-Mars,90,Uranus,-3,,,Differing Sense of Humor,Intellectual_Connection
-Mars,90,Uranus,-3,,,Lack of Chemistry,Emotional_Connection
-Mars,90,Uranus,-3,,,Unresponsive Interactions,Interaction
-Mars,90,Uranus,-3,,,Conflict Resolution,Interaction
-Mars,120,Uranus,2,Acceptance,Respect,,
-Mars,120,Uranus,2,Equality,Sincerity,,
+Mars,60,Uranus,1,Mutual Support,Emotional_Connection,,
+Mars,90,Uranus,-1,,,Lack of Trust,Commitment
+Mars,90,Uranus,-1,,,Lack of Chemistry,Emotional_Connection
+Mars,90,Uranus,-1,,,Differing Sense of Humor,Intellectual_Connection
+Mars,90,Uranus,-1,,,Lack of Chemistry,Emotional_Connection
+Mars,90,Uranus,-1,,,Unresponsive Interactions,Interaction
+Mars,90,Uranus,-1,,,Conflict Resolution,Interaction
+Mars,120,Uranus,1,Acceptance,Respect,,
+Mars,120,Uranus,1,Equality,Sincerity,,
 Mars,180,Uranus,-1,,,Lack of Chemistry,Emotional_Connection
 Mars,180,Uranus,-1,,,Differing Goals,Intellectual_Connection
 Mars,0,Neptune,-2,,,Differing Sense of Humor,Intellectual_Connection
@@ -944,11 +885,11 @@ Mars,0,Neptune,-2,,,Disregard for Boundaries,Respect
 Mars,60,Neptune,1,Adaptability,Commitment,,
 Mars,60,Neptune,1,Conflict Resolution,Interaction,,
 Mars,60,Neptune,1,,,Neglect,Commitment
-Mars,90,Neptune,-3,,,Lack of Trust,Commitment
-Mars,90,Neptune,-3,,,Neglect,Commitment
-Mars,90,Neptune,-3,,,Lack of Support,Emotional_Connection
-Mars,90,Neptune,-3,,,Differing Values,Intellectual_Connection
-Mars,90,Neptune,-3,,,Differing Goals,Intellectual_Connection
+Mars,90,Neptune,-1,,,Lack of Trust,Commitment
+Mars,90,Neptune,-1,,,Neglect,Commitment
+Mars,90,Neptune,-1,,,Lack of Support,Emotional_Connection
+Mars,90,Neptune,-1,,,Differing Values,Intellectual_Connection
+Mars,90,Neptune,-1,,,Differing Goals,Intellectual_Connection
 Mars,120,Neptune,1,Forgiveness,Respect,,
 Mars,120,Neptune,1,Adaptability,Commitment,,
 Mars,120,Neptune,1,Conflict Resolution,Interaction,,
@@ -967,13 +908,14 @@ Mars,90,Pluto,-4,,,Jealousy and Competition,Sincerity
 Mars,90,Pluto,-4,,,Lack of Support,Emotional_Connection
 Mars,90,Pluto,-4,,,Lack of Trust,Commitment
 Mars,90,Pluto,-4,,,Neglect,Commitment
-Mars,120,Pluto,2,Resilience,Commitment,,
+Mars,120,Pluto,2,,,Jealousy and Competition,Sincerity
 Mars,120,Pluto,2,Independence,Emotional_Connection,,
 Mars,180,Pluto,-3,,,Unresponsive Interactions,Interaction
 Mars,180,Pluto,-3,,,Differing Interests,Intellectual_Connection
 Mars,180,Pluto,-3,,,Neglect,Commitment
 Venus,0,First_House,2,Time Together,Commitment,,
 Venus,0,First_House,2,Personality Traits,Interaction,,
+Venus,0,First_House,2,Chemistry,Emotional_Connection,,
 Venus,60,First_House,2,Shared Values,Intellectual_Connection,,
 Venus,60,First_House,2,Time Together,Commitment,,
 Venus,60,First_House,2,Personality Traits,Interaction,,
@@ -982,7 +924,7 @@ Venus,90,First_House,-2,,,Indifference,Emotional_Connection
 Venus,90,First_House,-2,,,Differing Interests,Intellectual_Connection
 Venus,120,First_House,2,Shared Values,Intellectual_Connection,,
 Venus,120,First_House,2,Personality Traits,Interaction,,
-Venus,180,First_House,2,Adaptability,Commitment,,
+Venus,180,First_House,2,Time Together,Commitment,,
 Venus,180,First_House,2,Mutual Respect,Respect,,
 Venus,180,First_House,2,Gratitude,Sincerity,,
 Venus,0,Sun,2,Time Together,Commitment,,
@@ -1016,9 +958,7 @@ Venus,0,Mercury,2,Chemistry,Emotional_Connection,,
 Venus,0,Mercury,2,Engaging Conversations,Interaction,,
 Venus,0,Mercury,2,,,Fragility,Commitment
 Venus,60,Mercury,2,Shared Interests,Intellectual_Connection,,
-Venus,60,Mercury,2,Time Together,Commitment,,
 Venus,60,Mercury,2,Shared Values,Intellectual_Connection,,
-Venus,60,Mercury,2,,,Fragility,Commitment
 Venus,90,Mercury,-1,,,Indifference,Emotional_Connection
 Venus,120,Mercury,2,Shared Interests,Intellectual_Connection,,
 Venus,120,Mercury,2,Time Together,Commitment,,
@@ -1042,12 +982,12 @@ Venus,0,Venus,2,Personality Traits,Interaction,,
 Venus,60,Venus,2,Shared Goals,Intellectual_Connection,,
 Venus,60,Venus,2,Sense of Humor,Intellectual_Connection,,
 Venus,60,Venus,2,Personality Traits,Interaction,,
-Venus,90,Venus,-3,,,Resentment,Respect
-Venus,90,Venus,-3,,,Reserved,Interaction
-Venus,90,Venus,-3,,,Lack of Support,Emotional_Connection
-Venus,90,Venus,-3,,,Differing Sense of Humor,Intellectual_Connection
-Venus,90,Venus,-3,,,Differing Values,Intellectual_Connection
-Venus,90,Venus,-3,Chemistry,Emotional_Connection,,
+Venus,90,Venus,-2,,,Resentment,Respect
+Venus,90,Venus,-2,,,Reserved,Interaction
+Venus,90,Venus,-2,,,Lack of Support,Emotional_Connection
+Venus,90,Venus,-2,,,Differing Sense of Humor,Intellectual_Connection
+Venus,90,Venus,-2,,,Differing Values,Intellectual_Connection
+Venus,90,Venus,-2,Chemistry,Emotional_Connection,,
 Venus,120,Venus,3,Shared Goals,Intellectual_Connection,,
 Venus,120,Venus,3,Sense of Humor,Intellectual_Connection,,
 Venus,120,Venus,3,Personality Traits,Interaction,,
@@ -1070,19 +1010,15 @@ Venus,120,Jupiter,2,Gratitude,Sincerity,,
 Venus,120,Jupiter,2,Loyalty,Sincerity,,
 Venus,120,Jupiter,2,Honesty,Sincerity,,
 Venus,180,Jupiter,1,Chemistry,Emotional_Connection,,
-Venus,0,Saturn,-1,,,Lack for Consideration,Respect
 Venus,0,Saturn,-1,,,Criticism,Respect
 Venus,60,Saturn,1,Time Together,Commitment,,
 Venus,60,Saturn,1,Boundaries,Respect,,
 Venus,90,Saturn,-3,,,Differing Sense of Humor,Intellectual_Connection
 Venus,90,Saturn,-3,,,Lack of Support,Emotional_Connection
-Venus,90,Saturn,-3,,,Reserved,Interaction
+Venus,90,Saturn,-3,,,Lack of Trust,Commitment
 Venus,90,Saturn,-3,,,Indifference,Emotional_Connection
-Venus,90,Saturn,-3,Chemistry,Emotional_Connection,,
-Venus,120,Saturn,1,Empathy,Emotional_Connection,,
-Venus,120,Saturn,1,Conflict Resolution,Interaction,,
+Venus,120,Saturn,1,Trust,Commitment,,
 Venus,120,Saturn,1,Gratitude,Sincerity,,
-Venus,120,Saturn,1,,,Lack for Consideration,Respect
 Venus,180,Saturn,-1,,,Criticism,Respect
 Venus,0,Uranus,-1,,,Differing Interests,Intellectual_Connection
 Venus,60,Uranus,1,Sense of Humor,Intellectual_Connection,,
@@ -1094,13 +1030,11 @@ Venus,120,Uranus,1,Shared Goals,Intellectual_Connection,,
 Venus,180,Uranus,-1,,,Lack of Trust,Commitment
 Venus,180,Uranus,-1,,,Neglect,Commitment
 Venus,180,Uranus,-1,,,Indifference,Emotional_Connection
-Venus,0,Neptune,1,Engaging Conversations,Interaction,,
-Venus,0,Neptune,1,Mutual Support,Emotional_Connection,,
-Venus,0,Neptune,1,,,Codependency,Emotional_Connection
+Venus,0,Neptune,-1,Mutual Support,Emotional_Connection,,
+Venus,0,Neptune,-1,,,Codependency,Emotional_Connection
 Venus,60,Neptune,1,Shared Interests,Intellectual_Connection,,
 Venus,60,Neptune,1,Engaging Conversations,Interaction,,
 Venus,90,Neptune,-2,,,Lack of Trust,Commitment
-Venus,90,Neptune,-2,,,Resentment,Respect
 Venus,90,Neptune,-2,,,Betrayals,Sincerity
 Venus,90,Neptune,-2,,,Reserved,Interaction
 Venus,90,Neptune,-2,,,Fragility,Commitment
@@ -1112,7 +1046,6 @@ Venus,120,Neptune,1,,,Unwillingness to Change,Commitment
 Venus,180,Neptune,-2,,,Conflict Resolution,Interaction
 Venus,180,Neptune,-2,,,Reserved,Interaction
 Venus,180,Neptune,-2,,,Lack of Trust,Commitment
-Venus,180,Neptune,-2,Shared Values,Intellectual_Connection,,
 Venus,0,Pluto,-2,,,Manipulation and Control,Sincerity
 Venus,0,Pluto,-2,,,Resentment,Respect
 Venus,0,Pluto,-2,,,Lack of Support,Emotional_Connection
@@ -1130,7 +1063,6 @@ Jupiter,0,First_House,2,Adaptability,Commitment,,
 Jupiter,60,First_House,2,Forgiveness,Respect,,
 Jupiter,60,First_House,2,Adaptability,Commitment,,
 Jupiter,60,First_House,2,Openness,Interaction,,
-Jupiter,90,First_House,-1,,,Resentment,Respect
 Jupiter,90,First_House,-1,,,Reserved,Interaction
 Jupiter,120,First_House,2,Forgiveness,Respect,,
 Jupiter,120,First_House,2,Adaptability,Commitment,,
@@ -1139,26 +1071,23 @@ Jupiter,180,First_House,2,Forgiveness,Respect,,
 Jupiter,180,First_House,2,Adaptability,Commitment,,
 Jupiter,180,First_House,2,Openness,Interaction,,
 Jupiter,0,Sun,3,Sense of Humor,Intellectual_Connection,,
+Jupiter,0,Sun,3,Openness,Interaction,,
+Jupiter,0,Sun,3,Shared Goals,Intellectual_Connection,,
 Jupiter,0,Sun,3,Personality Traits,Interaction,,
 Jupiter,60,Sun,2,Trust,Commitment,,
 Jupiter,60,Sun,2,Time Together,Commitment,,
 Jupiter,90,Sun,-2,,,Differing Values,Intellectual_Connection
 Jupiter,90,Sun,-2,,,Reserved,Interaction
 Jupiter,90,Sun,-2,,,Differing Goals,Intellectual_Connection
-Jupiter,90,Sun,-2,Trust,Commitment,,
-Jupiter,120,Sun,3,Shared Values,Intellectual_Connection,,
 Jupiter,120,Sun,3,Mutual Respect,Respect,,
+Jupiter,120,Sun,3,Shared Goals,Intellectual_Connection,,
 Jupiter,120,Sun,3,Honesty,Sincerity,,
-Jupiter,120,Sun,3,,,Lack for Consideration,Respect
 Jupiter,180,Sun,-2,,,Differing Goals,Intellectual_Connection
 Jupiter,180,Sun,-2,,,Differing Values,Intellectual_Connection
-Jupiter,180,Sun,-2,,,Criticism,Respect
-Jupiter,0,Moon,3,Trust,Commitment,,
 Jupiter,0,Moon,3,Honesty,Sincerity,,
 Jupiter,0,Moon,3,Empathy,Emotional_Connection,,
 Jupiter,0,Moon,3,Openness,Interaction,,
 Jupiter,0,Moon,3,Conflict Resolution,Interaction,,
-Jupiter,0,Moon,3,Engaging Conversations,Interaction,,
 Jupiter,0,Moon,3,Equality,Sincerity,,
 Jupiter,60,Moon,2,Engaging Conversations,Interaction,,
 Jupiter,60,Moon,2,Equality,Sincerity,,
@@ -1169,7 +1098,6 @@ Jupiter,90,Moon,-1,,,Reserved,Interaction
 Jupiter,120,Moon,2,Engaging Conversations,Interaction,,
 Jupiter,120,Moon,2,Equality,Sincerity,,
 Jupiter,120,Moon,2,Conflict Resolution,Interaction,,
-Jupiter,180,Moon,-1,Trust,Commitment,,
 Jupiter,0,Mercury,3,Boundaries,Respect,,
 Jupiter,0,Mercury,3,Shared Interests,Intellectual_Connection,,
 Jupiter,0,Mercury,3,Sense of Humor,Intellectual_Connection,,
@@ -1194,14 +1122,12 @@ Jupiter,0,Mars,1,Mutual Support,Emotional_Connection,,
 Jupiter,60,Mars,2,Gratitude,Sincerity,,
 Jupiter,60,Mars,2,Shared Interests,Intellectual_Connection,,
 Jupiter,60,Mars,2,Engaging Conversations,Interaction,,
-Jupiter,60,Mars,2,,,Lack for Consideration,Respect
 Jupiter,90,Mars,-2,,,Differing Values,Intellectual_Connection
 Jupiter,90,Mars,-2,,,Indifference,Emotional_Connection
 Jupiter,90,Mars,-2,,,Unresponsive Interactions,Interaction
 Jupiter,120,Mars,2,Mutual Support,Emotional_Connection,,
 Jupiter,120,Mars,2,Mutual Respect,Respect,,
 Jupiter,120,Mars,2,Loyalty,Sincerity,,
-Jupiter,120,Mars,2,,,Disregard for Boundaries,Respect
 Jupiter,180,Mars,-2,,,Differing Values,Intellectual_Connection
 Jupiter,0,Venus,2,Personality Traits,Interaction,,
 Jupiter,0,Venus,2,Openness,Interaction,,
@@ -1221,29 +1147,23 @@ Jupiter,120,Venus,2,Gratitude,Sincerity,,
 Jupiter,120,Venus,2,Loyalty,Sincerity,,
 Jupiter,120,Venus,2,Honesty,Sincerity,,
 Jupiter,180,Venus,1,Chemistry,Emotional_Connection,,
-Jupiter,0,Jupiter,3,Conflict Resolution,Interaction,,
 Jupiter,0,Jupiter,3,Shared Goals,Intellectual_Connection,,
 Jupiter,0,Jupiter,3,Forgiveness,Respect,,
 Jupiter,0,Jupiter,3,Openness,Interaction,,
 Jupiter,0,Jupiter,3,Adaptability,Commitment,,
 Jupiter,0,Jupiter,3,Sense of Humor,Intellectual_Connection,,
-Jupiter,0,Jupiter,3,Time Together,Commitment,,
-Jupiter,60,Jupiter,3,Conflict Resolution,Interaction,,
 Jupiter,60,Jupiter,3,Shared Goals,Intellectual_Connection,,
 Jupiter,60,Jupiter,3,Forgiveness,Respect,,
 Jupiter,60,Jupiter,3,Openness,Interaction,,
 Jupiter,60,Jupiter,3,Adaptability,Commitment,,
 Jupiter,60,Jupiter,3,Sense of Humor,Intellectual_Connection,,
-Jupiter,60,Jupiter,3,Time Together,Commitment,,
-Jupiter,90,Jupiter,-1,,,Disregard for Boundaries,Respect
-Jupiter,120,Jupiter,3,Conflict Resolution,Interaction,,
+Jupiter,90,Jupiter,-1,,,Differing Values,Intellectual_Connection
 Jupiter,120,Jupiter,3,Shared Goals,Intellectual_Connection,,
 Jupiter,120,Jupiter,3,Forgiveness,Respect,,
 Jupiter,120,Jupiter,3,Openness,Interaction,,
 Jupiter,120,Jupiter,3,Adaptability,Commitment,,
 Jupiter,120,Jupiter,3,Sense of Humor,Intellectual_Connection,,
-Jupiter,120,Jupiter,3,Time Together,Commitment,,
-Jupiter,180,Jupiter,-1,,,Disregard for Boundaries,Respect
+Jupiter,180,Jupiter,-1,,,Differing Values,Intellectual_Connection
 Jupiter,0,Saturn,-1,,,Lack of Support,Emotional_Connection
 Jupiter,60,Saturn,1,Conflict Resolution,Interaction,,
 Jupiter,90,Saturn,-1,,,Lack of Support,Emotional_Connection
@@ -1254,7 +1174,7 @@ Saturn,0,First_House,2,Trust,Commitment,,
 Saturn,0,First_House,2,Resilience,Commitment,,
 Saturn,0,First_House,2,Loyalty,Sincerity,,
 Saturn,60,First_House,2,Honesty,Sincerity,,
-Saturn,60,First_House,2,Gratitude,Sincerity,,
+Saturn,60,First_House,2,Trust,Commitment,,
 Saturn,60,First_House,2,,,Differing Sense of Humor,Intellectual_Connection
 Saturn,90,First_House,-3,,,Conflict Resolution,Interaction
 Saturn,90,First_House,-3,,,Lack of Chemistry,Emotional_Connection
@@ -1262,14 +1182,11 @@ Saturn,90,First_House,-3,,,Criticism,Respect
 Saturn,90,First_House,-3,,,Differing Sense of Humor,Intellectual_Connection
 Saturn,90,First_House,-3,,,Resentment,Respect
 Saturn,120,First_House,2,Honesty,Sincerity,,
-Saturn,120,First_House,2,Gratitude,Sincerity,,
-Saturn,120,First_House,2,,,Differing Sense of Humor,Intellectual_Connection
+Saturn,120,First_House,2,Trust,Commitment,,
 Saturn,180,First_House,2,Resilience,Commitment,,
-Saturn,180,First_House,2,,,Reserved,Interaction
 Saturn,0,Sun,2,Trust,Commitment,,
 Saturn,0,Sun,2,Loyalty,Sincerity,,
 Saturn,0,Sun,2,Independence,Emotional_Connection,,
-Saturn,0,Sun,2,,,Criticism,Respect
 Saturn,60,Sun,2,Shared Interests,Intellectual_Connection,,
 Saturn,60,Sun,2,Honesty,Sincerity,,
 Saturn,60,Sun,2,Independence,Emotional_Connection,,
@@ -1283,36 +1200,31 @@ Saturn,120,Sun,3,Trust,Commitment,,
 Saturn,120,Sun,3,Independence,Emotional_Connection,,
 Saturn,180,Sun,-2,,,Differing Values,Intellectual_Connection
 Saturn,180,Sun,-2,,,Conflict Resolution,Interaction
-Saturn,180,Sun,-2,Trust,Commitment,,
 Saturn,0,Moon,1,Trust,Commitment,,
 Saturn,60,Moon,2,Trust,Commitment,,
-Saturn,60,Moon,2,Forgiveness,Respect,,
+Saturn,60,Moon,2,Empathy,Emotional_Connection,,
 Saturn,60,Moon,2,Boundaries,Respect,,
 Saturn,90,Moon,-4,,,Betrayals,Sincerity
-Saturn,90,Moon,-4,,,Ego Clash,Interaction
 Saturn,90,Moon,-4,,,Criticism,Respect
 Saturn,90,Moon,-4,,,Differing Interests,Intellectual_Connection
 Saturn,90,Moon,-4,,,Fragility,Commitment
 Saturn,90,Moon,-4,,,Unwillingness to Change,Commitment
 Saturn,90,Moon,-4,,,Differing Values,Intellectual_Connection
 Saturn,120,Moon,2,Trust,Commitment,,
-Saturn,120,Moon,2,Forgiveness,Respect,,
+Saturn,120,Moon,2,Empathy,Emotional_Connection,,
 Saturn,120,Moon,2,Boundaries,Respect,,
 Saturn,180,Moon,-3,,,Differing Values,Intellectual_Connection
-Saturn,180,Moon,-3,,,Conflict Resolution,Interaction
 Saturn,180,Moon,-3,,,Unwillingness to Change,Commitment
 Saturn,180,Moon,-3,,,Criticism,Respect
 Saturn,180,Moon,-3,,,Differing Interests,Intellectual_Connection
 Saturn,0,Mercury,-2,,,Criticism,Respect
 Saturn,0,Mercury,-2,,,Lack of Chemistry,Emotional_Connection
 Saturn,0,Mercury,-2,,,Differing Interests,Intellectual_Connection
-Saturn,60,Mercury,2,Shared Values,Intellectual_Connection,,
 Saturn,60,Mercury,2,Trust,Commitment,,
 Saturn,60,Mercury,2,Mutual Respect,Respect,,
 Saturn,90,Mercury,-2,,,Unresponsive Interactions,Interaction
 Saturn,90,Mercury,-2,,,Criticism,Respect
 Saturn,90,Mercury,-2,,,Differing Interests,Intellectual_Connection
-Saturn,120,Mercury,2,Shared Values,Intellectual_Connection,,
 Saturn,120,Mercury,2,Trust,Commitment,,
 Saturn,120,Mercury,2,Mutual Respect,Respect,,
 Saturn,120,Mercury,2,Mutual Support,Emotional_Connection,,
@@ -1322,9 +1234,7 @@ Saturn,180,Mercury,-2,,,Differing Interests,Intellectual_Connection
 Saturn,0,Mars,-2,,,Indifference,Emotional_Connection
 Saturn,0,Mars,-2,,,Unwillingness to Change,Commitment
 Saturn,60,Mars,2,Trust,Commitment,,
-Saturn,60,Mars,2,Time Together,Commitment,,
 Saturn,60,Mars,2,Mutual Support,Emotional_Connection,,
-Saturn,60,Mars,2,,,Lack for Consideration,Respect
 Saturn,90,Mars,-3,,,Lack of Support,Emotional_Connection
 Saturn,90,Mars,-3,,,Differing Sense of Humor,Intellectual_Connection
 Saturn,90,Mars,-3,,,Frequent Disagreements,Interaction
@@ -1335,19 +1245,15 @@ Saturn,120,Mars,2,Mutual Respect,Respect,,
 Saturn,120,Mars,2,Boundaries,Respect,,
 Saturn,120,Mars,2,Mutual Support,Emotional_Connection,,
 Saturn,180,Mars,1,Resilience,Commitment,,
-Saturn,0,Venus,-1,,,Lack for Consideration,Respect
 Saturn,0,Venus,-1,,,Criticism,Respect
 Saturn,60,Venus,1,Time Together,Commitment,,
 Saturn,60,Venus,1,Boundaries,Respect,,
 Saturn,90,Venus,-3,,,Differing Sense of Humor,Intellectual_Connection
 Saturn,90,Venus,-3,,,Lack of Support,Emotional_Connection
-Saturn,90,Venus,-3,,,Reserved,Interaction
+Saturn,90,Venus,-3,,,Lack of Trust,Commitment
 Saturn,90,Venus,-3,,,Indifference,Emotional_Connection
-Saturn,90,Venus,-3,Chemistry,Emotional_Connection,,
-Saturn,120,Venus,1,Empathy,Emotional_Connection,,
-Saturn,120,Venus,1,Conflict Resolution,Interaction,,
+Saturn,120,Venus,1,Trust,Commitment,,
 Saturn,120,Venus,1,Gratitude,Sincerity,,
-Saturn,120,Venus,1,,,Lack for Consideration,Respect
 Saturn,180,Venus,-1,,,Criticism,Respect
 Saturn,0,Jupiter,-1,,,Lack of Support,Emotional_Connection
 Saturn,60,Jupiter,1,Conflict Resolution,Interaction,,
@@ -1355,22 +1261,21 @@ Saturn,90,Jupiter,-1,,,Lack of Support,Emotional_Connection
 Saturn,120,Jupiter,1,Time Together,Commitment,,
 Saturn,120,Jupiter,1,Mutual Support,Emotional_Connection,,
 Saturn,180,Jupiter,-1,,,Lack of Support,Emotional_Connection
-Saturn,0,Saturn,2,Mutual Respect,Respect,,
+Saturn,0,Saturn,2,Loyalty,Sincerity,,
 Saturn,0,Saturn,2,Resilience,Commitment,,
-Saturn,0,Saturn,2,Independence,Emotional_Connection,,
-Saturn,0,Saturn,2,,,Neglect,Commitment
-Saturn,60,Saturn,1,Shared Goals,Intellectual_Connection,,
+Saturn,0,Saturn,2,Honesty,Sincerity,,
+Saturn,60,Saturn,1,Loyalty,Sincerity,,
 Saturn,60,Saturn,1,Resilience,Commitment,,
 Saturn,90,Saturn,-2,,,Criticism,Respect
 Saturn,90,Saturn,-2,,,Lack of Trust,Commitment
 Saturn,90,Saturn,-2,,,Neglect,Commitment
 Saturn,90,Saturn,-2,,,Unwillingness to Change,Commitment
-Saturn,90,Saturn,-2,,,Ego Clash,Interaction
-Saturn,120,Saturn,2,Shared Goals,Intellectual_Connection,,
+Saturn,120,Saturn,2,Loyalty,Sincerity,,
 Saturn,120,Saturn,2,Resilience,Commitment,,
-Saturn,120,Saturn,2,Mutual Support,Emotional_Connection,,
-Saturn,180,Saturn,-1,,,Criticism,Respect
+Saturn,120,Saturn,2,Gratitude,Sincerity,,
+Saturn,180,Saturn,-1,,,Unwillingness to Change,Commitment
 Uranus,0,First_House,1,Equality,Sincerity,,
+Uranus,0,First_House,1,Shared Values,Intellectual_Connection,,
 Uranus,60,First_House,1,Adaptability,Commitment,,
 Uranus,60,First_House,1,Shared Values,Intellectual_Connection,,
 Uranus,90,First_House,-1,,,Differing Values,Intellectual_Connection
@@ -1379,7 +1284,6 @@ Uranus,90,First_House,-1,,,Neglect,Commitment
 Uranus,120,First_House,1,Adaptability,Commitment,,
 Uranus,120,First_House,1,Shared Values,Intellectual_Connection,,
 Uranus,180,First_House,1,Adaptability,Commitment,,
-Uranus,180,First_House,1,Shared Values,Intellectual_Connection,,
 Uranus,0,Sun,2,Equality,Sincerity,,
 Uranus,0,Sun,2,Independence,Emotional_Connection,,
 Uranus,60,Sun,2,Shared Interests,Intellectual_Connection,,
@@ -1414,27 +1318,22 @@ Uranus,60,Mercury,2,Honesty,Sincerity,,
 Uranus,60,Mercury,2,Engaging Conversations,Interaction,,
 Uranus,60,Mercury,2,,,Indifference,Emotional_Connection
 Uranus,90,Mercury,-2,,,Ego Clash,Interaction
-Uranus,90,Mercury,-2,,,Frequent Disagreements,Interaction
 Uranus,90,Mercury,-2,,,Indifference,Emotional_Connection
 Uranus,120,Mercury,2,Equality,Sincerity,,
 Uranus,120,Mercury,2,Honesty,Sincerity,,
-Uranus,120,Mercury,2,Engaging Conversations,Interaction,,
-Uranus,120,Mercury,2,,,Indifference,Emotional_Connection
 Uranus,180,Mercury,1,Honesty,Sincerity,,
 Uranus,180,Mercury,1,Equality,Sincerity,,
 Uranus,180,Mercury,1,,,Indifference,Emotional_Connection
 Uranus,0,Mars,1,Openness,Interaction,,
-Uranus,60,Mars,2,Shared Interests,Intellectual_Connection,,
-Uranus,60,Mars,2,Mutual Support,Emotional_Connection,,
-Uranus,60,Mars,2,,,Unwillingness to Change,Commitment
-Uranus,90,Mars,-3,,,Lack of Trust,Commitment
-Uranus,90,Mars,-3,,,Lack of Chemistry,Emotional_Connection
-Uranus,90,Mars,-3,,,Differing Sense of Humor,Intellectual_Connection
-Uranus,90,Mars,-3,,,Lack of Chemistry,Emotional_Connection
-Uranus,90,Mars,-3,,,Unresponsive Interactions,Interaction
-Uranus,90,Mars,-3,,,Conflict Resolution,Interaction
-Uranus,120,Mars,2,Acceptance,Respect,,
-Uranus,120,Mars,2,Equality,Sincerity,,
+Uranus,60,Mars,1,Mutual Support,Emotional_Connection,,
+Uranus,90,Mars,-1,,,Lack of Trust,Commitment
+Uranus,90,Mars,-1,,,Lack of Chemistry,Emotional_Connection
+Uranus,90,Mars,-1,,,Differing Sense of Humor,Intellectual_Connection
+Uranus,90,Mars,-1,,,Lack of Chemistry,Emotional_Connection
+Uranus,90,Mars,-1,,,Unresponsive Interactions,Interaction
+Uranus,90,Mars,-1,,,Conflict Resolution,Interaction
+Uranus,120,Mars,1,Acceptance,Respect,,
+Uranus,120,Mars,1,Equality,Sincerity,,
 Uranus,180,Mars,-1,,,Lack of Chemistry,Emotional_Connection
 Uranus,180,Mars,-1,,,Differing Goals,Intellectual_Connection
 Uranus,0,Venus,-1,,,Differing Interests,Intellectual_Connection
@@ -1451,26 +1350,23 @@ Neptune,0,First_House,-1,,,Dishonesty,Sincerity
 Neptune,60,First_House,1,Shared Values,Intellectual_Connection,,
 Neptune,60,First_House,1,Acceptance,Respect,,
 Neptune,60,First_House,1,,,Fragility,Commitment
-Neptune,90,First_House,-3,,,Lack of Trust,Commitment
-Neptune,90,First_House,-3,,,Unresponsive Interactions,Interaction
-Neptune,90,First_House,-3,,,Resentment,Respect
-Neptune,90,First_House,-3,,,Betrayals,Sincerity
-Neptune,90,First_House,-3,,,Dishonesty,Sincerity
-Neptune,90,First_House,-3,,,Differing Values,Intellectual_Connection
+Neptune,90,First_House,-1,,,Lack of Trust,Commitment
+Neptune,90,First_House,-1,,,Unresponsive Interactions,Interaction
+Neptune,90,First_House,-1,,,Resentment,Respect
+Neptune,90,First_House,-1,,,Betrayals,Sincerity
+Neptune,90,First_House,-1,,,Dishonesty,Sincerity
+Neptune,90,First_House,-1,,,Differing Values,Intellectual_Connection
 Neptune,120,First_House,1,Shared Values,Intellectual_Connection,,
 Neptune,120,First_House,1,Acceptance,Respect,,
-Neptune,120,First_House,1,,,Fragility,Commitment
 Neptune,180,First_House,1,Adaptability,Commitment,,
 Neptune,0,Sun,-1,,,Codependency,Emotional_Connection
-Neptune,60,Sun,2,Empathy,Emotional_Connection,,
-Neptune,60,Sun,2,,,Resentment,Respect
+Neptune,0,Sun,-1,,,Disregard for Boundaries,Respect
+Neptune,60,Sun,1,Empathy,Emotional_Connection,,
 Neptune,90,Sun,-2,,,Dishonesty,Sincerity
 Neptune,90,Sun,-2,,,Betrayals,Sincerity
-Neptune,90,Sun,-2,,,Conflict Resolution,Interaction
 Neptune,90,Sun,-2,,,Fragility,Commitment
 Neptune,120,Sun,2,Forgiveness,Respect,,
 Neptune,120,Sun,2,Acceptance,Respect,,
-Neptune,120,Sun,2,,,Disregard for Boundaries,Respect
 Neptune,180,Sun,-1,,,Dishonesty,Sincerity
 Neptune,180,Sun,-1,,,Differing Values,Intellectual_Connection
 Neptune,0,Moon,1,Empathy,Emotional_Connection,,
@@ -1509,24 +1405,22 @@ Neptune,0,Mars,-2,,,Disregard for Boundaries,Respect
 Neptune,60,Mars,1,Adaptability,Commitment,,
 Neptune,60,Mars,1,Conflict Resolution,Interaction,,
 Neptune,60,Mars,1,,,Neglect,Commitment
-Neptune,90,Mars,-3,,,Lack of Trust,Commitment
-Neptune,90,Mars,-3,,,Neglect,Commitment
-Neptune,90,Mars,-3,,,Lack of Support,Emotional_Connection
-Neptune,90,Mars,-3,,,Differing Values,Intellectual_Connection
-Neptune,90,Mars,-3,,,Differing Goals,Intellectual_Connection
+Neptune,90,Mars,-1,,,Lack of Trust,Commitment
+Neptune,90,Mars,-1,,,Neglect,Commitment
+Neptune,90,Mars,-1,,,Lack of Support,Emotional_Connection
+Neptune,90,Mars,-1,,,Differing Values,Intellectual_Connection
+Neptune,90,Mars,-1,,,Differing Goals,Intellectual_Connection
 Neptune,120,Mars,1,Forgiveness,Respect,,
 Neptune,120,Mars,1,Adaptability,Commitment,,
 Neptune,120,Mars,1,Conflict Resolution,Interaction,,
 Neptune,120,Mars,1,,,Unresponsive Interactions,Interaction
 Neptune,180,Mars,-1,,,Reserved,Interaction
 Neptune,180,Mars,-1,,,Resentment,Respect
-Neptune,0,Venus,1,Engaging Conversations,Interaction,,
-Neptune,0,Venus,1,Mutual Support,Emotional_Connection,,
-Neptune,0,Venus,1,,,Codependency,Emotional_Connection
+Neptune,0,Venus,-1,Mutual Support,Emotional_Connection,,
+Neptune,0,Venus,-1,,,Codependency,Emotional_Connection
 Neptune,60,Venus,1,Shared Interests,Intellectual_Connection,,
 Neptune,60,Venus,1,Engaging Conversations,Interaction,,
 Neptune,90,Venus,-2,,,Lack of Trust,Commitment
-Neptune,90,Venus,-2,,,Resentment,Respect
 Neptune,90,Venus,-2,,,Betrayals,Sincerity
 Neptune,90,Venus,-2,,,Reserved,Interaction
 Neptune,90,Venus,-2,,,Fragility,Commitment
@@ -1538,14 +1432,13 @@ Neptune,120,Venus,1,,,Unwillingness to Change,Commitment
 Neptune,180,Venus,-2,,,Conflict Resolution,Interaction
 Neptune,180,Venus,-2,,,Reserved,Interaction
 Neptune,180,Venus,-2,,,Lack of Trust,Commitment
-Neptune,180,Venus,-2,Shared Values,Intellectual_Connection,,
-Pluto,90,First_House,-4,,,Betrayals,Sincerity
-Pluto,90,First_House,-4,,,Resentment,Respect
-Pluto,90,First_House,-4,,,Disregard for Boundaries,Respect
-Pluto,90,First_House,-4,,,Dishonesty,Sincerity
-Pluto,90,First_House,-4,,,Jealousy and Competition,Sincerity
-Pluto,90,First_House,-4,,,Lack for Consideration,Respect
-Pluto,90,First_House,-4,,,Manipulation and Control,Sincerity
+Pluto,90,First_House,-3,,,Betrayals,Sincerity
+Pluto,90,First_House,-3,,,Resentment,Respect
+Pluto,90,First_House,-3,,,Disregard for Boundaries,Respect
+Pluto,90,First_House,-3,,,Dishonesty,Sincerity
+Pluto,90,First_House,-3,,,Jealousy and Competition,Sincerity
+Pluto,90,First_House,-3,,,Lack for Consideration,Respect
+Pluto,90,First_House,-3,,,Manipulation and Control,Sincerity
 Pluto,180,First_House,-2,,,Resentment,Respect
 Pluto,180,First_House,-2,,,Disregard for Boundaries,Respect
 Pluto,180,First_House,-2,,,Jealousy and Competition,Sincerity
@@ -1554,14 +1447,12 @@ Pluto,180,First_House,-2,,,Manipulation and Control,Sincerity
 Pluto,0,Sun,-1,,,Manipulation and Control,Sincerity
 Pluto,60,Sun,1,Resilience,Commitment,,
 Pluto,60,Sun,1,,,Reserved,Interaction
-Pluto,90,Sun,-4,,,Manipulation and Control,Sincerity
-Pluto,90,Sun,-4,,,Betrayals,Sincerity
-Pluto,90,Sun,-4,,,Dishonesty,Sincerity
-Pluto,90,Sun,-4,,,Jealousy and Competition,Sincerity
-Pluto,90,Sun,-4,,,Lack for Consideration,Respect
-Pluto,90,Sun,-4,,,Unwillingness to Change,Commitment
-Pluto,120,Sun,1,Shared Values,Intellectual_Connection,,
-Pluto,120,Sun,1,,,Lack for Consideration,Respect
+Pluto,90,Sun,-3,,,Manipulation and Control,Sincerity
+Pluto,90,Sun,-3,,,Betrayals,Sincerity
+Pluto,90,Sun,-3,,,Dishonesty,Sincerity
+Pluto,90,Sun,-3,,,Jealousy and Competition,Sincerity
+Pluto,90,Sun,-3,,,Unwillingness to Change,Commitment
+Pluto,120,Sun,1,Resilience,Commitment,,
 Pluto,180,Sun,-2,,,Differing Goals,Intellectual_Connection
 Pluto,180,Sun,-2,,,Ego Clash,Interaction
 Pluto,180,Sun,-2,,,Unwillingness to Change,Commitment
@@ -1573,19 +1464,18 @@ Pluto,60,Moon,1,Time Together,Commitment,,
 Pluto,90,Moon,-3,,,Manipulation and Control,Sincerity
 Pluto,90,Moon,-3,,,Dishonesty,Sincerity
 Pluto,90,Moon,-3,,,Lack for Consideration,Respect
-Pluto,90,Moon,-3,,,Unresponsive Interactions,Interaction
 Pluto,90,Moon,-3,,,Indifference,Emotional_Connection
 Pluto,90,Moon,-3,,,Resentment,Respect
 Pluto,90,Moon,-3,,,Betrayals,Sincerity
 Pluto,120,Moon,1,Time Together,Commitment,,
-Pluto,180,Moon,-3,,,Manipulation and Control,Sincerity
-Pluto,180,Moon,-3,,,Dishonesty,Sincerity
-Pluto,180,Moon,-3,,,Lack for Consideration,Respect
-Pluto,180,Moon,-3,,,Unresponsive Interactions,Interaction
-Pluto,180,Moon,-3,,,Indifference,Emotional_Connection
-Pluto,180,Moon,-3,,,Resentment,Respect
-Pluto,180,Moon,-3,,,Betrayals,Sincerity
-Pluto,180,Moon,-3,,,Lack of Trust,Commitment
+Pluto,180,Moon,-2,,,Manipulation and Control,Sincerity
+Pluto,180,Moon,-2,,,Dishonesty,Sincerity
+Pluto,180,Moon,-2,,,Lack for Consideration,Respect
+Pluto,180,Moon,-2,,,Unresponsive Interactions,Interaction
+Pluto,180,Moon,-2,,,Indifference,Emotional_Connection
+Pluto,180,Moon,-2,,,Resentment,Respect
+Pluto,180,Moon,-2,,,Betrayals,Sincerity
+Pluto,180,Moon,-2,,,Lack of Trust,Commitment
 Pluto,0,Mercury,-1,,,Manipulation and Control,Sincerity
 Pluto,60,Mercury,1,Independence,Emotional_Connection,,
 Pluto,60,Mercury,1,,,Manipulation and Control,Sincerity
@@ -1593,7 +1483,6 @@ Pluto,90,Mercury,-3,,,Manipulation and Control,Sincerity
 Pluto,90,Mercury,-3,,,Unwillingness to Change,Commitment
 Pluto,90,Mercury,-3,,,Disregard for Boundaries,Respect
 Pluto,120,Mercury,1,Openness,Interaction,,
-Pluto,120,Mercury,1,,,Disregard for Boundaries,Respect
 Pluto,180,Mercury,-2,,,Manipulation and Control,Sincerity
 Pluto,180,Mercury,-2,,,Differing Goals,Intellectual_Connection
 Pluto,180,Mercury,-2,Independence,Emotional_Connection,,
@@ -1609,7 +1498,7 @@ Pluto,90,Mars,-4,,,Jealousy and Competition,Sincerity
 Pluto,90,Mars,-4,,,Lack of Support,Emotional_Connection
 Pluto,90,Mars,-4,,,Lack of Trust,Commitment
 Pluto,90,Mars,-4,,,Neglect,Commitment
-Pluto,120,Mars,2,Resilience,Commitment,,
+Pluto,120,Mars,2,,,Jealousy and Competition,Sincerity
 Pluto,120,Mars,2,Independence,Emotional_Connection,,
 Pluto,180,Mars,-3,,,Unresponsive Interactions,Interaction
 Pluto,180,Mars,-3,,,Differing Interests,Intellectual_Connection
