@@ -551,6 +551,7 @@ class Destiny:
 
     def cal_house_harmony(self):
         harmonies = {}
+        challenges = {}
         compas = {
             "Commitment": 0,
             "Communication": 0,
@@ -559,6 +560,7 @@ class Destiny:
             "Lifestyle": 0,
             "Physical": 0,
         }
+        incompas = compas.copy()
 
         for h in self.house_has_planets:
             for hh in self.house_harmony:
@@ -567,10 +569,16 @@ class Destiny:
                         harmonies[hh["harmony"]] = harmonies.get(hh["harmony"], 0) + 1
                     if hh["compa"] != "":
                         compas[hh["compa"]] = compas.get(hh["compa"], 0) + 1
+                    if hh["challenge"] != "":
+                        challenges[hh["challenge"]] = challenges.get(hh["challenge"], 0) + 1
+                    if hh["incompa"] != "":
+                        incompas[hh["incompa"]] = incompas.get(hh["incompa"], 0) + 1
         
         return {
             "harmonies": harmonies,
             "compas": compas,
+            "challenges": challenges,
+            "incompas": incompas
         }
 
     def cal_planet_score(self):
@@ -605,6 +613,7 @@ class Destiny:
 
     def cal_planet_harmony(self):
         harmonies = {}
+        challenges = {}
         compas = {
             "Commitment": 0,
             "Communication": 0,
@@ -614,6 +623,8 @@ class Destiny:
             "Physical": 0,
         }
 
+        incompas = compas.copy()
+
         for p in self.planet_in_houses:
             for ph in self.planet_harmony:
                 if p == ph["planet_in_house"]:
@@ -621,10 +632,16 @@ class Destiny:
                         harmonies[ph["harmony"]] = harmonies.get(ph["harmony"], 0) + 1
                     if ph["compa"] != "":
                         compas[ph["compa"]] = compas.get(ph["compa"], 0) + 1
+                    if ph["challenge"] != "":
+                        challenges[ph["challenge"]] = challenges.get(ph["challenge"], 0) + 1
+                    if ph["incompa"] != "":
+                        incompas[ph["incompa"]] = incompas.get(ph["incompa"], 0) + 1
         
         return {
             "harmonies": harmonies,
             "compas": compas,
+            "challenges": challenges,
+            "incompas": incompas
         }
 
     def cal_message(self, report):
@@ -667,6 +684,8 @@ class Destiny:
                     "score": int(row["Score"]),
                     "harmony": row["Harmonious Keyword"],
                     "compa": row["Compatibility Category"],
+                    "challenge": row["Challenges Keyword"],
+                    "incompa": row["Incompatibility Category"],
                 })
         return phs
 
@@ -691,6 +710,8 @@ class Destiny:
                     "score": int(row["Score"]),
                     "harmony": row["Harmonious Keyword"],
                     "compa": row["Compatibility Category"],
+                    "challenge": row["Challenges Keyword"],
+                    "incompa": row["Incompatibility Category"],
                 })
         return hps
 
@@ -736,6 +757,15 @@ class Destiny:
 
             aspect_data["aspect_harmonies"][key] = value
         
+        for key, value in aspect_data["aspect_challenges"].items():
+            if key in house_data["challenges"].keys():
+                value += house_data["challenges"][key]
+            
+            if key in planet_data["challenges"].keys():
+                value += planet_data["challenges"][key]
+
+            aspect_data["aspect_challenges"][key] = value
+        
         for key, value in aspect_data["aspect_compas"].items():
             if key in house_data["compas"].keys():
                 value += house_data["compas"][key]
@@ -744,6 +774,15 @@ class Destiny:
                 value += planet_data["compas"][key]
 
             aspect_data["aspect_compas"][key] = value
+        
+        for key, value in aspect_data["aspect_incompas"].items():
+            if key in house_data["incompas"].keys():
+                value += house_data["incompas"][key]
+            
+            if key in planet_data["incompas"].keys():
+                value += planet_data["incompas"][key]
+
+            aspect_data["aspect_incompas"][key] = value
 
 
         harmonies = sorted(aspect_data["aspect_harmonies"].items(), key=lambda x:x[1], reverse=True)

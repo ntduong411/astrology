@@ -92,6 +92,15 @@
           "Physical": 0,
           "Interaction": 3,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -110,6 +119,15 @@
           "Emotional_Connection": 1,
           "Respect": 1,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -375,6 +393,20 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Codependency": 1,
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -397,6 +429,15 @@
           "Emotional_Connection": 1,
           "Respect": 1,
           "Interaction": 2
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -520,6 +561,10 @@
         3
       ],
       [
+        "Codependency",
+        3
+      ],
+      [
         "Conflict Resolution",
         3
       ],
@@ -532,7 +577,7 @@
         2
       ],
       [
-        "Codependency",
+        "Dishonesty",
         2
       ],
       [
@@ -549,10 +594,6 @@
       ],
       [
         "Indifference",
-        1
-      ],
-      [
-        "Dishonesty",
         1
       ],
       [
@@ -591,9 +632,9 @@
     "incompas": {
       "Interaction": 14,
       "Commitment": 9,
-      "Sincerity": 7,
+      "Sincerity": 8,
+      "Emotional_Connection": 5,
       "Respect": 5,
-      "Emotional_Connection": 4,
       "Intellectual_Connection": 4
     },
     "message": null
@@ -693,6 +734,15 @@
           "Physical": 0,
           "Interaction": 3,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -711,6 +761,18 @@
           "Physical": 0,
           "Emotional_Connection": 2,
           "Interaction": 2
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -880,7 +942,7 @@
       "Interaction": 5,
       "Respect": 5,
       "Intellectual_Connection": 4,
-      "Sincerity": 2
+      "Sincerity": 3
     },
     "message": null
   },
@@ -983,11 +1045,29 @@
           "Physical": 0,
           "Emotional_Connection": 2,
           "Interaction": 2
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -1266,6 +1346,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -1280,6 +1369,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -1532,6 +1630,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -1545,6 +1655,19 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       }
     },
@@ -1664,6 +1787,10 @@
         3
       ],
       [
+        "Manipulation and Control",
+        3
+      ],
+      [
         "Unwillingness to Change",
         2
       ],
@@ -1700,11 +1827,11 @@
         2
       ],
       [
-        "Manipulation and Control",
+        "Lack of Chemistry",
         2
       ],
       [
-        "Lack of Chemistry",
+        "Jealousy and Competition",
         2
       ],
       [
@@ -1717,10 +1844,6 @@
       ],
       [
         "Disregard for Boundaries",
-        1
-      ],
-      [
-        "Jealousy and Competition",
         1
       ],
       [
@@ -1742,7 +1865,7 @@
       "Intellectual_Connection": 9,
       "Respect": 7,
       "Commitment": 6,
-      "Sincerity": 3
+      "Sincerity": 6
     },
     "message": "If forever does exist, please let it be you"
   },
@@ -1847,6 +1970,18 @@
           "Emotional_Connection": 2,
           "Respect": 2,
           "Interaction": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -1865,6 +2000,18 @@
           "Emotional_Connection": 1,
           "Respect": 1,
           "Interaction": 1
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -1964,6 +2111,10 @@
         3
       ],
       [
+        "Jealousy and Competition",
+        3
+      ],
+      [
         "Differing Goals",
         2
       ],
@@ -1973,10 +2124,6 @@
       ],
       [
         "Frequent Disagreements",
-        2
-      ],
-      [
-        "Jealousy and Competition",
         2
       ],
       [
@@ -2038,11 +2185,11 @@
     },
     "incompas": {
       "Interaction": 7,
+      "Sincerity": 6,
       "Intellectual_Connection": 5,
-      "Sincerity": 5,
       "Commitment": 3,
       "Respect": 3,
-      "Emotional_Connection": 1
+      "Emotional_Connection": 2
     },
     "message": null
   },
@@ -2145,6 +2292,15 @@
           "Physical": 0,
           "Intellectual Connection": 3,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -2158,6 +2314,20 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Jealousy and Competition": 1,
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -2265,15 +2435,19 @@
         4
       ],
       [
+        "Jealousy and Competition",
+        3
+      ],
+      [
         "Differing Sense of Humor",
         3
       ],
       [
-        "Differing Goals",
-        2
+        "Codependency",
+        3
       ],
       [
-        "Jealousy and Competition",
+        "Differing Goals",
         2
       ],
       [
@@ -2290,10 +2464,6 @@
       ],
       [
         "Indifference",
-        2
-      ],
-      [
-        "Codependency",
         2
       ],
       [
@@ -2339,11 +2509,11 @@
     },
     "incompas": {
       "Interaction": 9,
+      "Emotional_Connection": 7,
       "Intellectual_Connection": 7,
-      "Emotional_Connection": 6,
       "Commitment": 3,
-      "Respect": 2,
-      "Sincerity": 2
+      "Sincerity": 3,
+      "Respect": 2
     },
     "message": null
   },
@@ -2445,6 +2615,18 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -2466,6 +2648,18 @@
           "Emotional_Connection": 3,
           "Respect": 2,
           "Interaction": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -2573,6 +2767,10 @@
         3
       ],
       [
+        "Codependency",
+        3
+      ],
+      [
         "Resentment",
         3
       ],
@@ -2611,10 +2809,6 @@
       [
         "Jealousy and Competition",
         2
-      ],
-      [
-        "Codependency",
-        1
       ],
       [
         "Indifference",
@@ -2663,9 +2857,9 @@
     },
     "incompas": {
       "Intellectual_Connection": 10,
+      "Emotional_Connection": 8,
       "Respect": 8,
       "Sincerity": 8,
-      "Emotional_Connection": 6,
       "Interaction": 5,
       "Commitment": 3
     },
@@ -2764,6 +2958,19 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       },
       "planet_harmonies": {
@@ -2783,6 +2990,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 2
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 2
         }
       }
     },
@@ -2882,16 +3101,16 @@
         6
       ],
       [
+        "Codependency",
+        5
+      ],
+      [
         "Unresponsive Interactions",
         4
       ],
       [
         "Frequent Disagreements",
         4
-      ],
-      [
-        "Codependency",
-        3
       ],
       [
         "Reserved",
@@ -2911,6 +3130,14 @@
       ],
       [
         "Conflict Resolution",
+        2
+      ],
+      [
+        "Manipulation and Control",
+        2
+      ],
+      [
+        "Jealousy and Competition",
         2
       ],
       [
@@ -2948,14 +3175,6 @@
       [
         "Disregard for Boundaries",
         1
-      ],
-      [
-        "Manipulation and Control",
-        1
-      ],
-      [
-        "Jealousy and Competition",
-        1
       ]
     ],
     "compas": {
@@ -2968,10 +3187,10 @@
     },
     "incompas": {
       "Interaction": 14,
+      "Emotional_Connection": 11,
       "Intellectual_Connection": 10,
-      "Emotional_Connection": 9,
+      "Sincerity": 5,
       "Respect": 4,
-      "Sincerity": 3,
       "Commitment": 2
     },
     "message": null
@@ -3067,11 +3286,32 @@
           "Interaction": 1,
           "Emotional_Connection": 2,
           "Respect": 1
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -3224,8 +3464,8 @@
     "incompas": {
       "Emotional_Connection": 4,
       "Interaction": 3,
+      "Sincerity": 3,
       "Intellectual_Connection": 2,
-      "Sincerity": 2,
       "Commitment": 1,
       "Respect": 1
     },
@@ -3322,6 +3562,17 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {
+          "Neglect": 1
+        },
+        "incompas": {
+          "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -3330,6 +3581,15 @@
         },
         "compas": {
           "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -3438,6 +3698,10 @@
         4
       ],
       [
+        "Neglect",
+        3
+      ],
+      [
         "Unwillingness to Change",
         2
       ],
@@ -3459,10 +3723,6 @@
       ],
       [
         "Lack of Chemistry",
-        2
-      ],
-      [
-        "Neglect",
         2
       ],
       [
@@ -3499,8 +3759,8 @@
       "Sincerity": 6
     },
     "incompas": {
+      "Commitment": 6,
       "Intellectual_Connection": 6,
-      "Commitment": 5,
       "Sincerity": 5,
       "Interaction": 4,
       "Emotional_Connection": 2,
@@ -3606,6 +3866,18 @@
           "Physical": 0,
           "Emotional_Connection": 2,
           "Interaction": 2
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -3624,6 +3896,15 @@
           "Physical": 0,
           "Intellectual Connection": 3,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -3735,6 +4016,10 @@
         3
       ],
       [
+        "Betrayals",
+        3
+      ],
+      [
         "Dishonesty",
         3
       ],
@@ -3744,10 +4029,6 @@
       ],
       [
         "Manipulation and Control",
-        2
-      ],
-      [
-        "Betrayals",
         2
       ],
       [
@@ -3800,7 +4081,7 @@
       "Emotional_Connection": 9
     },
     "incompas": {
-      "Sincerity": 9,
+      "Sincerity": 10,
       "Commitment": 5,
       "Intellectual_Connection": 5,
       "Interaction": 4,
@@ -3908,6 +4189,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -3926,6 +4216,18 @@
           "Physical": 0,
           "Emotional_Connection": 2,
           "Interaction": 2
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -4073,6 +4375,10 @@
         2
       ],
       [
+        "Betrayals",
+        2
+      ],
+      [
         "Codependency",
         1
       ],
@@ -4101,10 +4407,6 @@
         1
       ],
       [
-        "Betrayals",
-        1
-      ],
-      [
         "Disregard for Boundaries",
         1
       ]
@@ -4119,7 +4421,7 @@
     },
     "incompas": {
       "Respect": 10,
-      "Sincerity": 8,
+      "Sincerity": 9,
       "Emotional_Connection": 7,
       "Interaction": 7,
       "Commitment": 6,
@@ -4225,6 +4527,15 @@
           "Physical": 0,
           "Intellectual Connection": 2,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -4239,6 +4550,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -4521,6 +4841,19 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       },
       "planet_harmonies": {
@@ -4540,6 +4873,15 @@
           "Physical": 0,
           "Interaction": 4,
           "Emotional_Connection": 2
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -4639,15 +4981,15 @@
         4
       ],
       [
+        "Jealousy and Competition",
+        4
+      ],
+      [
         "Resentment",
         4
       ],
       [
         "Differing Goals",
-        3
-      ],
-      [
-        "Jealousy and Competition",
         3
       ],
       [
@@ -4671,12 +5013,12 @@
         2
       ],
       [
-        "Lack of Chemistry",
+        "Manipulation and Control",
         2
       ],
       [
-        "Manipulation and Control",
-        1
+        "Lack of Chemistry",
+        2
       ],
       [
         "Betrayals",
@@ -4726,9 +5068,9 @@
     "incompas": {
       "Interaction": 15,
       "Intellectual_Connection": 8,
+      "Sincerity": 7,
       "Emotional_Connection": 6,
       "Respect": 6,
-      "Sincerity": 5,
       "Commitment": 3
     },
     "message": null
@@ -4830,6 +5172,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -4844,6 +5195,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -4959,15 +5322,15 @@
         3
       ],
       [
+        "Dishonesty",
+        3
+      ],
+      [
         "Manipulation and Control",
         2
       ],
       [
         "Betrayals",
-        2
-      ],
-      [
-        "Dishonesty",
         2
       ],
       [
@@ -5035,7 +5398,7 @@
       "Interaction": 10,
       "Emotional_Connection": 9,
       "Intellectual_Connection": 9,
-      "Sincerity": 8,
+      "Sincerity": 9,
       "Respect": 6,
       "Commitment": 3
     },
@@ -5129,6 +5492,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -5144,6 +5516,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -5412,6 +5793,15 @@
           "Physical": 0,
           "Interaction": 1,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -5427,6 +5817,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -5705,6 +6104,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -5720,6 +6131,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -5827,12 +6247,12 @@
         3
       ],
       [
-        "Indifference",
+        "Codependency",
         3
       ],
       [
-        "Codependency",
-        2
+        "Indifference",
+        3
       ],
       [
         "Differing Interests",
@@ -5892,7 +6312,7 @@
       "Emotional_Connection": 8
     },
     "incompas": {
-      "Emotional_Connection": 7,
+      "Emotional_Connection": 8,
       "Intellectual_Connection": 6,
       "Sincerity": 6,
       "Interaction": 5,
@@ -5994,6 +6414,15 @@
           "Physical": 0,
           "Interaction": 3,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -6012,6 +6441,15 @@
           "Emotional_Connection": 1,
           "Respect": 1,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -6280,6 +6718,15 @@
           "Physical": 0,
           "Interaction": 2,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -6296,6 +6743,15 @@
           "Physical": 0,
           "Interaction": 1,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -6598,6 +7054,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -6609,6 +7074,20 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Neglect": 1,
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       }
     },
@@ -6732,6 +7211,10 @@
         2
       ],
       [
+        "Neglect",
+        2
+      ],
+      [
         "Dishonesty",
         2
       ],
@@ -6764,10 +7247,6 @@
         1
       ],
       [
-        "Neglect",
-        1
-      ],
-      [
         "Lack for Consideration",
         1
       ],
@@ -6786,11 +7265,11 @@
     },
     "incompas": {
       "Interaction": 8,
+      "Commitment": 6,
       "Respect": 6,
-      "Commitment": 5,
+      "Sincerity": 5,
       "Emotional_Connection": 3,
-      "Intellectual_Connection": 3,
-      "Sincerity": 3
+      "Intellectual_Connection": 3
     },
     "message": "If forever does exist, please let it be you"
   },
@@ -6885,12 +7364,37 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Neglect": 1,
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
           "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {
+          "Neglect": 1
+        },
+        "incompas": {
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -7003,6 +7507,10 @@
         3
       ],
       [
+        "Neglect",
+        3
+      ],
+      [
         "Codependency",
         2
       ],
@@ -7043,10 +7551,6 @@
         1
       ],
       [
-        "Neglect",
-        1
-      ],
-      [
         "Reserved",
         1
       ],
@@ -7072,12 +7576,12 @@
       "Interaction": 8
     },
     "incompas": {
+      "Commitment": 7,
       "Interaction": 7,
       "Respect": 6,
-      "Commitment": 5,
+      "Sincerity": 5,
       "Emotional_Connection": 4,
-      "Intellectual_Connection": 3,
-      "Sincerity": 3
+      "Intellectual_Connection": 3
     },
     "message": null
   },
@@ -7173,6 +7677,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -7188,6 +7701,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -7460,11 +7982,29 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -7757,6 +8297,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -7771,6 +8323,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -7878,6 +8439,10 @@
         3
       ],
       [
+        "Betrayals",
+        3
+      ],
+      [
         "Differing Goals",
         2
       ],
@@ -7895,10 +8460,6 @@
       ],
       [
         "Resentment",
-        2
-      ],
-      [
-        "Betrayals",
         2
       ],
       [
@@ -7960,7 +8521,7 @@
     },
     "incompas": {
       "Respect": 11,
-      "Sincerity": 9,
+      "Sincerity": 10,
       "Intellectual_Connection": 7,
       "Interaction": 6,
       "Emotional_Connection": 5,
@@ -8047,6 +8608,19 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Jealousy and Competition": 2,
+          "Manipulation and Control": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 3
         }
       },
       "planet_harmonies": {
@@ -8062,6 +8636,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -8141,11 +8727,11 @@
     ],
     "challenges": [
       [
-        "Codependency",
-        3
+        "Dishonesty",
+        4
       ],
       [
-        "Dishonesty",
+        "Codependency",
         3
       ],
       [
@@ -8154,6 +8740,10 @@
       ],
       [
         "Betrayals",
+        2
+      ],
+      [
+        "Manipulation and Control",
         2
       ],
       [
@@ -8166,10 +8756,6 @@
       ],
       [
         "Lack of Trust",
-        1
-      ],
-      [
-        "Manipulation and Control",
         1
       ],
       [
@@ -8190,7 +8776,7 @@
       "Sincerity": 2
     },
     "incompas": {
-      "Sincerity": 6,
+      "Sincerity": 10,
       "Emotional_Connection": 5,
       "Commitment": 2,
       "Respect": 2,
@@ -8289,6 +8875,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -8304,6 +8899,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -8583,6 +9187,15 @@
           "Physical": 0,
           "Interaction": 1,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -8598,6 +9211,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -8893,6 +9515,18 @@
           "Emotional_Connection": 3,
           "Respect": 3,
           "Interaction": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -8906,6 +9540,18 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -9087,7 +9733,7 @@
       "Intellectual_Connection": 7,
       "Respect": 5,
       "Commitment": 4,
-      "Emotional_Connection": 1
+      "Emotional_Connection": 3
     },
     "message": null
   },
@@ -9196,6 +9842,15 @@
           "Respect": 1,
           "Interaction": 2,
           "Intellectual Connection": 2
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -9215,6 +9870,15 @@
           "Interaction": 2,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -9506,11 +10170,29 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -9787,6 +10469,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -9802,6 +10493,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -10078,6 +10778,15 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -10096,6 +10805,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -10227,6 +10948,10 @@
         2
       ],
       [
+        "Codependency",
+        2
+      ],
+      [
         "Indifference",
         2
       ],
@@ -10248,10 +10973,6 @@
       ],
       [
         "Neglect",
-        1
-      ],
-      [
-        "Codependency",
         1
       ],
       [
@@ -10283,7 +11004,7 @@
       "Sincerity": 13,
       "Interaction": 10,
       "Respect": 9,
-      "Emotional_Connection": 4,
+      "Emotional_Connection": 5,
       "Intellectual_Connection": 4,
       "Commitment": 3
     },
@@ -10381,6 +11102,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -10394,6 +11124,18 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -10567,7 +11309,7 @@
       "Sincerity": 4,
       "Intellectual_Connection": 3,
       "Respect": 3,
-      "Emotional_Connection": 1
+      "Emotional_Connection": 2
     },
     "message": null
   },
@@ -10666,6 +11408,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -10683,6 +11434,15 @@
           "Physical": 0,
           "Intellectual Connection": 2,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -10966,6 +11726,19 @@
           "Emotional_Connection": 2,
           "Respect": 1,
           "Interaction": 1
+        },
+        "challenges": {
+          "Betrayals": 1,
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       },
       "planet_harmonies": {
@@ -10984,6 +11757,15 @@
           "Physical": 0,
           "Intellectual Connection": 3,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -11083,11 +11865,19 @@
         2
       ],
       [
+        "Betrayals",
+        2
+      ],
+      [
         "Resentment",
         2
       ],
       [
         "Disregard for Boundaries",
+        2
+      ],
+      [
+        "Dishonesty",
         2
       ],
       [
@@ -11123,14 +11913,6 @@
         1
       ],
       [
-        "Betrayals",
-        1
-      ],
-      [
-        "Dishonesty",
-        1
-      ],
-      [
         "Lack of Chemistry",
         1
       ]
@@ -11145,8 +11927,8 @@
     },
     "incompas": {
       "Interaction": 10,
+      "Sincerity": 9,
       "Intellectual_Connection": 7,
-      "Sincerity": 7,
       "Respect": 6,
       "Commitment": 5,
       "Emotional_Connection": 1
@@ -11238,6 +12020,18 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -11253,6 +12047,20 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {
+          "Codependency": 1,
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1,
+          "Sincerity": 1
         }
       }
     },
@@ -11324,6 +12132,10 @@
     ],
     "challenges": [
       [
+        "Codependency",
+        3
+      ],
+      [
         "Differing Goals",
         2
       ],
@@ -11332,7 +12144,7 @@
         2
       ],
       [
-        "Codependency",
+        "Dishonesty",
         2
       ],
       [
@@ -11345,10 +12157,6 @@
       ],
       [
         "Manipulation and Control",
-        1
-      ],
-      [
-        "Dishonesty",
         1
       ],
       [
@@ -11385,10 +12193,10 @@
       "Intellectual_Connection": 4
     },
     "incompas": {
+      "Sincerity": 5,
+      "Emotional_Connection": 4,
       "Interaction": 4,
-      "Emotional_Connection": 3,
       "Intellectual_Connection": 3,
-      "Sincerity": 3,
       "Respect": 2,
       "Commitment": 1
     },
@@ -11490,6 +12298,15 @@
           "Physical": 0,
           "Interaction": 3,
           "Emotional_Connection": 2
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -11505,6 +12322,17 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Neglect": 1
+        },
+        "incompas": {
+          "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -11628,6 +12456,10 @@
         2
       ],
       [
+        "Neglect",
+        2
+      ],
+      [
         "Frequent Disagreements",
         1
       ],
@@ -11658,10 +12490,6 @@
       [
         "Ego Clash",
         1
-      ],
-      [
-        "Neglect",
-        1
       ]
     ],
     "compas": {
@@ -11674,7 +12502,7 @@
     },
     "incompas": {
       "Interaction": 7,
-      "Commitment": 4,
+      "Commitment": 5,
       "Intellectual_Connection": 4,
       "Emotional_Connection": 3,
       "Respect": 2,
@@ -11773,6 +12601,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -11787,6 +12627,19 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Betrayals": 1,
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       }
     },
@@ -11950,9 +12803,9 @@
       "Interaction": 13,
       "Intellectual_Connection": 10,
       "Emotional_Connection": 4,
+      "Sincerity": 4,
       "Commitment": 3,
-      "Respect": 3,
-      "Sincerity": 1
+      "Respect": 3
     },
     "message": null
   },
@@ -12053,6 +12906,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 2,
           "Respect": 2
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -12066,6 +12931,19 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       }
     },
@@ -12162,14 +13040,18 @@
     "challenges": [
       [
         "Codependency",
-        3
+        4
+      ],
+      [
+        "Manipulation and Control",
+        4
       ],
       [
         "Differing Values",
         3
       ],
       [
-        "Manipulation and Control",
+        "Jealousy and Competition",
         3
       ],
       [
@@ -12194,10 +13076,6 @@
       ],
       [
         "Resentment",
-        2
-      ],
-      [
-        "Jealousy and Competition",
         2
       ],
       [
@@ -12240,9 +13118,9 @@
     "incompas": {
       "Interaction": 7,
       "Respect": 7,
+      "Sincerity": 7,
       "Intellectual_Connection": 6,
-      "Sincerity": 5,
-      "Emotional_Connection": 4,
+      "Emotional_Connection": 5,
       "Commitment": 1
     },
     "message": null
@@ -12339,11 +13217,32 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -12523,10 +13422,10 @@
     },
     "incompas": {
       "Sincerity": 8,
+      "Emotional_Connection": 5,
       "Intellectual_Connection": 5,
       "Interaction": 5,
       "Respect": 5,
-      "Emotional_Connection": 4,
       "Commitment": 2
     },
     "message": null
@@ -12623,6 +13522,17 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {
+          "Neglect": 1
+        },
+        "incompas": {
+          "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -12641,6 +13551,18 @@
           "Physical": 0,
           "Emotional_Connection": 2,
           "Interaction": 2
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -12724,6 +13646,10 @@
         5
       ],
       [
+        "Neglect",
+        4
+      ],
+      [
         "Unresponsive Interactions",
         4
       ],
@@ -12733,10 +13659,6 @@
       ],
       [
         "Lack for Consideration",
-        3
-      ],
-      [
-        "Neglect",
         3
       ],
       [
@@ -12760,6 +13682,10 @@
         2
       ],
       [
+        "Betrayals",
+        2
+      ],
+      [
         "Lack of Support",
         2
       ],
@@ -12777,10 +13703,6 @@
       ],
       [
         "Disregard for Boundaries",
-        1
-      ],
-      [
-        "Betrayals",
         1
       ],
       [
@@ -12809,8 +13731,8 @@
       "Respect": 9,
       "Interaction": 8,
       "Emotional_Connection": 7,
-      "Commitment": 5,
-      "Sincerity": 2
+      "Commitment": 6,
+      "Sincerity": 3
     },
     "message": "You could have had anyone in this world, but you chose me. Thank You"
   },
@@ -12914,6 +13836,15 @@
           "Physical": 0,
           "Interaction": 2,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -12930,6 +13861,18 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -13073,6 +14016,10 @@
         2
       ],
       [
+        "Jealousy and Competition",
+        2
+      ],
+      [
         "Ego Clash",
         1
       ],
@@ -13101,10 +14048,6 @@
         1
       ],
       [
-        "Jealousy and Competition",
-        1
-      ],
-      [
         "Lack of Chemistry",
         1
       ]
@@ -13122,7 +14065,7 @@
       "Intellectual_Connection": 8,
       "Interaction": 8,
       "Respect": 8,
-      "Sincerity": 5,
+      "Sincerity": 6,
       "Commitment": 4
     },
     "message": null
@@ -13217,6 +14160,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -13232,6 +14184,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -13501,6 +14462,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -13519,6 +14492,15 @@
           "Physical": 0,
           "Intellectual Connection": 2,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -13670,7 +14652,7 @@
       "Interaction": 9,
       "Emotional_Connection": 3,
       "Intellectual_Connection": 3,
-      "Sincerity": 2,
+      "Sincerity": 3,
       "Commitment": 1,
       "Respect": 1
     },
@@ -13778,6 +14760,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -13796,6 +14790,21 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1,
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1,
+          "Sincerity": 2
         }
       }
     },
@@ -13935,6 +14944,10 @@
         2
       ],
       [
+        "Jealousy and Competition",
+        2
+      ],
+      [
         "Differing Goals",
         1
       ],
@@ -13973,10 +14986,6 @@
       [
         "Dishonesty",
         1
-      ],
-      [
-        "Jealousy and Competition",
-        1
       ]
     ],
     "compas": {
@@ -13991,9 +15000,9 @@
       "Commitment": 13,
       "Interaction": 9,
       "Respect": 6,
+      "Emotional_Connection": 5,
       "Intellectual_Connection": 5,
-      "Emotional_Connection": 3,
-      "Sincerity": 3
+      "Sincerity": 5
     },
     "message": null
   },
@@ -14101,6 +15110,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -14119,6 +15140,15 @@
           "Physical": 0,
           "Intellectual Connection": 3,
           "Interaction": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -14230,6 +15260,10 @@
         4
       ],
       [
+        "Codependency",
+        3
+      ],
+      [
         "Unresponsive Interactions",
         3
       ],
@@ -14248,10 +15282,6 @@
       [
         "Criticism",
         3
-      ],
-      [
-        "Codependency",
-        2
       ],
       [
         "Frequent Disagreements",
@@ -14319,7 +15349,7 @@
       "Commitment": 8,
       "Intellectual_Connection": 7,
       "Interaction": 7,
-      "Emotional_Connection": 5,
+      "Emotional_Connection": 6,
       "Sincerity": 3
     },
     "message": null
@@ -14418,6 +15448,19 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Betrayals": 1,
+          "Neglect": 1
+        },
+        "incompas": {
+          "Commitment": 1,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -14436,6 +15479,15 @@
           "Physical": 0,
           "Interaction": 3,
           "Emotional_Connection": 2
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -14555,6 +15607,10 @@
         3
       ],
       [
+        "Neglect",
+        3
+      ],
+      [
         "Indifference",
         2
       ],
@@ -14563,11 +15619,11 @@
         2
       ],
       [
-        "Neglect",
+        "Lack of Support",
         2
       ],
       [
-        "Lack of Support",
+        "Betrayals",
         2
       ],
       [
@@ -14591,10 +15647,6 @@
         1
       ],
       [
-        "Betrayals",
-        1
-      ],
-      [
         "Jealousy and Competition",
         1
       ],
@@ -14615,9 +15667,9 @@
       "Interaction": 17,
       "Intellectual_Connection": 12,
       "Emotional_Connection": 9,
-      "Commitment": 7,
+      "Commitment": 8,
       "Respect": 4,
-      "Sincerity": 2
+      "Sincerity": 3
     },
     "message": "Unless commitment is made, there are only promises and hopes"
   },
@@ -14714,6 +15766,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -14732,6 +15793,15 @@
           "Physical": 0,
           "Interaction": 2,
           "Emotional_Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -15010,11 +16080,32 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -15190,7 +16281,7 @@
       "Interaction": 5,
       "Commitment": 2,
       "Respect": 2,
-      "Sincerity": 0
+      "Sincerity": 1
     },
     "message": null
   },
@@ -15296,12 +16387,36 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Emotional_Connection": 1
+        },
+        "challenges": {
+          "Betrayals": 1,
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 2
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
           "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {
+          "Neglect": 1
+        },
+        "incompas": {
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -15434,6 +16549,10 @@
         3
       ],
       [
+        "Betrayals",
+        3
+      ],
+      [
         "Unwillingness to Change",
         2
       ],
@@ -15443,6 +16562,10 @@
       ],
       [
         "Unresponsive Interactions",
+        2
+      ],
+      [
+        "Dishonesty",
         2
       ],
       [
@@ -15462,7 +16585,7 @@
         2
       ],
       [
-        "Betrayals",
+        "Neglect",
         2
       ],
       [
@@ -15474,15 +16597,7 @@
         2
       ],
       [
-        "Dishonesty",
-        1
-      ],
-      [
         "Lack of Trust",
-        1
-      ],
-      [
-        "Neglect",
         1
       ],
       [
@@ -15517,9 +16632,9 @@
     "incompas": {
       "Emotional_Connection": 11,
       "Respect": 11,
+      "Sincerity": 11,
       "Interaction": 10,
-      "Sincerity": 9,
-      "Commitment": 5,
+      "Commitment": 6,
       "Intellectual_Connection": 5
     },
     "message": null
@@ -15628,6 +16743,18 @@
           "Emotional_Connection": 3,
           "Respect": 1,
           "Interaction": 3
+        },
+        "challenges": {
+          "Betrayals": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -15646,6 +16773,18 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -15765,6 +16904,10 @@
         2
       ],
       [
+        "Codependency",
+        2
+      ],
+      [
         "Disregard for Boundaries",
         2
       ],
@@ -15778,6 +16921,10 @@
       ],
       [
         "Lack for Consideration",
+        2
+      ],
+      [
+        "Betrayals",
         2
       ],
       [
@@ -15809,19 +16956,11 @@
         1
       ],
       [
-        "Codependency",
-        1
-      ],
-      [
         "Lack of Support",
         1
       ],
       [
         "Lack of Trust",
-        1
-      ],
-      [
-        "Betrayals",
         1
       ],
       [
@@ -15840,9 +16979,9 @@
     "incompas": {
       "Interaction": 9,
       "Respect": 8,
-      "Sincerity": 7,
+      "Sincerity": 8,
+      "Emotional_Connection": 5,
       "Commitment": 4,
-      "Emotional_Connection": 4,
       "Intellectual_Connection": 4
     },
     "message": null
@@ -15939,11 +17078,29 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -16230,6 +17387,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -16244,6 +17410,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
@@ -16513,6 +17688,18 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Interaction": 1
+        },
+        "challenges": {
+          "Dishonesty": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
@@ -16526,6 +17713,20 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Jealousy and Competition": 1,
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1,
+          "Emotional_Connection": 1
         }
       }
     },
@@ -16629,6 +17830,10 @@
         4
       ],
       [
+        "Codependency",
+        2
+      ],
+      [
         "Resentment",
         2
       ],
@@ -16649,12 +17854,16 @@
         2
       ],
       [
+        "Dishonesty",
+        2
+      ],
+      [
         "Lack for Consideration",
         2
       ],
       [
-        "Codependency",
-        1
+        "Jealousy and Competition",
+        2
       ],
       [
         "Neglect",
@@ -16669,19 +17878,11 @@
         1
       ],
       [
-        "Dishonesty",
-        1
-      ],
-      [
         "Lack of Trust",
         1
       ],
       [
         "Betrayals",
-        1
-      ],
-      [
-        "Jealousy and Competition",
         1
       ]
     ],
@@ -16695,8 +17896,8 @@
     },
     "incompas": {
       "Interaction": 10,
-      "Emotional_Connection": 5,
-      "Sincerity": 5,
+      "Sincerity": 7,
+      "Emotional_Connection": 6,
       "Commitment": 4,
       "Respect": 4,
       "Intellectual_Connection": 1
@@ -16800,6 +18001,18 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Codependency": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1
         }
       },
       "planet_harmonies": {
@@ -16818,6 +18031,21 @@
           "Sincerity": 1,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Codependency": 1,
+          "Manipulation and Control": 1,
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Emotional_Connection": 1,
+          "Sincerity": 2
         }
       }
     },
@@ -16925,6 +18153,10 @@
     ],
     "challenges": [
       [
+        "Codependency",
+        3
+      ],
+      [
         "Fragility",
         3
       ],
@@ -16965,8 +18197,8 @@
         2
       ],
       [
-        "Codependency",
-        1
+        "Manipulation and Control",
+        2
       ],
       [
         "Lack for Consideration",
@@ -16995,10 +18227,6 @@
       [
         "Criticism",
         1
-      ],
-      [
-        "Manipulation and Control",
-        1
       ]
     ],
     "compas": {
@@ -17012,8 +18240,8 @@
     "incompas": {
       "Interaction": 8,
       "Commitment": 7,
-      "Sincerity": 5,
-      "Emotional_Connection": 4,
+      "Sincerity": 7,
+      "Emotional_Connection": 6,
       "Intellectual_Connection": 4,
       "Respect": 3
     },
@@ -17113,11 +18341,32 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       },
       "planet_harmonies": {
         "harmonies": {},
         "compas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
@@ -17224,7 +18473,7 @@
     "challenges": [
       [
         "Jealousy and Competition",
-        3
+        4
       ],
       [
         "Resentment",
@@ -17293,7 +18542,7 @@
     },
     "incompas": {
       "Commitment": 8,
-      "Sincerity": 7,
+      "Sincerity": 8,
       "Emotional_Connection": 3,
       "Interaction": 3,
       "Respect": 3,
@@ -17396,6 +18645,19 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Jealousy and Competition": 2,
+          "Manipulation and Control": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 3
         }
       },
       "planet_harmonies": {
@@ -17407,6 +18669,18 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {
+          "Jealousy and Competition": 1
+        },
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0,
+          "Sincerity": 1
         }
       }
     },
@@ -17518,6 +18792,14 @@
         4
       ],
       [
+        "Manipulation and Control",
+        4
+      ],
+      [
+        "Jealousy and Competition",
+        4
+      ],
+      [
         "Dishonesty",
         3
       ],
@@ -17531,10 +18813,6 @@
       ],
       [
         "Reserved",
-        3
-      ],
-      [
-        "Manipulation and Control",
         3
       ],
       [
@@ -17584,10 +18862,6 @@
       [
         "Disregard for Boundaries",
         1
-      ],
-      [
-        "Jealousy and Competition",
-        1
       ]
     ],
     "compas": {
@@ -17599,8 +18873,8 @@
       "Emotional_Connection": 6
     },
     "incompas": {
+      "Sincerity": 14,
       "Interaction": 12,
-      "Sincerity": 10,
       "Respect": 9,
       "Commitment": 6,
       "Emotional_Connection": 6,
@@ -17698,6 +18972,15 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       },
       "planet_harmonies": {
@@ -17713,6 +18996,15 @@
           "Lifestyle": 0,
           "Physical": 0,
           "Intellectual Connection": 1
+        },
+        "challenges": {},
+        "incompas": {
+          "Commitment": 0,
+          "Communication": 0,
+          "Emotional": 0,
+          "Intellectual": 0,
+          "Lifestyle": 0,
+          "Physical": 0
         }
       }
     },
