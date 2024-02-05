@@ -33,7 +33,7 @@ class Planet_House_Rel:
         if isinstance(self.planet, str):
             if self.planet == "Sun": self.planet = SUN
             elif self.planet == "Moon": self.planet = MOON
-            elif self.planet == "Mecury": self.planet = MERCURY
+            elif self.planet == "Mercury": self.planet = MERCURY
             elif self.planet == "Venus": self.planet = VENUS
             elif self.planet == "Mars": self.planet = MARS
             elif self.planet == "Jupiter": self.planet = JUPITER
