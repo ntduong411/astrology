@@ -646,8 +646,18 @@ class Destiny:
 
     def cal_message(self, report):
         destiny_score = round(report["destiny_score"] * 100)
-        major_compa = report["compas"][0][0]
-        
+        major_compa = ''
+        _max = 0
+        compa_dict = {}
+        incompa_dict = {}
+        for category in report["compas"]:
+            compa_dict[category[0]] = category[1]
+        for category in report["incompas"]:
+            incompa_dict[category[0]] = category[1]
+        for category in compa_dict:
+            if compa_dict[category] + incompa_dict[category] > _max:
+                _max = compa_dict[category] + incompa_dict[category]
+                major_compa = category
         for msg in self.msgs:
             if destiny_score > msg["destiny_score_min"] and destiny_score <= msg["destiny_score_max"] and major_compa == msg["compa"]:
                 return msg["message_en"]

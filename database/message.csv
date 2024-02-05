@@ -1,31 +1,35 @@
-Destiny Score Min,Destiny Score Max,Compatibility,Message (Eng),Message (Viet)
-80,100,Commitment,"You are my one and only",
-60,80,Commitment,"If forever does exist, please let it be you",
-40,60,Commitment,"You could have had anyone in this world, but you chose me. Thank You",
-20,40,Commitment,"Unless commitment is made, there are only promises and hopes",
-0,20,Commitment,"I would appreciate it if you could tell me the truth",
-80,100,Communication,"You will always be special because I know that I won?t find anyone like you again",
-60,80,Communication,"I lose all concept of time when I am with you",
-40,60,Communication,"I recall the day you came into my life and gave me a reason to smile",
-20,40,Communication,"I don't agree, but I will try",
-0,20,Communication,"You dont want to listen",
-80,100,Emotional,"I want to do with you what spring does with the cherry trees",
-60,80,Emotional,"The best feeling is when I look at you, and you are already smiling at me",
-40,60,Emotional,"I have found the one whom my soul loves",
-20,40,Emotional,"I hope you understand how much I care about you",
-0,20,Emotional,"We don't know anything about each other",
-80,100,Intellectual,"You are my favorite person in this world",
-60,80,Intellectual,"I love that you know me so well",
-40,60,Intellectual,"I never thought we?d be this close when we first met",
-20,40,Intellectual,"I try to understand you, but you don't let me",
-0,20,Intellectual,"You don't want to sit down and talk to me",
-80,100,Lifestyle,"I'm my best self when I'm with you",
-60,80,Lifestyle,"When you are around, life seems so beautiful and blessed",
-40,60,Lifestyle,"I hope you know how special you are to me",
-20,40,Lifestyle,"You elevate every experience I have with you",
-0,20,Lifestyle,"We are too different to be together",
-80,100,Physical,"Every cell in my body loves you",
-60,80,Physical,"Sometimes I just look at you and wonder how I got to be so goddamn lucky",
-40,60,Physical,"The first time ever I saw your face, I thought the sun rose in your eyes",
-20,40,Physical,"Try to love my soul, don't just love my body",
-0,20,Physical,"I don't want to be with you",
+,Destiny Score Min,Destiny Score Max,Compatibility,Message (Eng),Message (Viet)
+0,80,100,Commitment,We are as close as family,Chúng ta gần gũi như người thân trong gia đình
+1,60,79,Commitment,"No matter what happens, I'll always stay by your side","Dù có ra sao, tôi sẽ luôn bên bạn"
+2,40,59,Commitment,Spending time with you brings peace to my mind,Mỗi khoảnh khắc cạnh bạn mang bình yên đến cho tâm trí tôi
+3,20,39,Commitment,I want to be closer to you,Tôi muốn gần gũi hơn với bạn
+4,0,19,Commitment,"Can we even call each other ""friend""?","Mối quan hệ này có thật sự được gọi là ""bạn bè""?"
+5,80,100,Intellectual_Connection,It only take one look for us to understand each other,Chỉ cần một ánh nhìn để chúng ta hiểu ý nhau
+6,60,79,Intellectual_Connection,No one gets me like you do,Không ai hiểu tôi như bạn
+7,40,59,Intellectual_Connection,I love that you know me so well,"Tâm đầu ý hợp, tâm linh tương thông"
+8,20,39,Intellectual_Connection,"I try to understand you,
+but you won't let me","Tôi cố gắng hiểu bạn,
+nhưng bạn không muốn"
+9,0,19,Intellectual_Connection,We can't really sit down and have a proper conversation,"Chúng ta không thể yên bình
+nói chuyện với nhau"
+10,80,100,Emotional_Connection,You are my platonic soulmate,Bạn là người bạn tâm giao của tôi
+11,60,79,Emotional_Connection,Being with you makes me feel at peace,Ở cạnh bạn khiến tôi cảm thấy bình yên
+12,40,59,Emotional_Connection,I hope I can be a shoulder for you to lean on,Mong rằng tôi có thể là bờ vai để bạn dựa vào
+13,20,39,Emotional_Connection,"I hope you understand
+how much I care about you",Chỉ mong bạn hiểu lòng tôi
+14,0,19,Emotional_Connection,We don't know anything about each other,Chúng ta không hiểu nhau
+15,80,100,Interaction,I'm happy to know that I can tell you anything,Tôi rất vui khi có thể nói cho bạn mọi thứ
+16,60,79,Interaction,How come we didn't meet sooner?,Sao mình không gặp nhau sớm hơn ta?
+17,40,59,Interaction,"Whatever that is on your mind, I'm here to listen",Mỗi cuộc trò chuyện của chúng ta đều ngập tràn tiếng cười
+18,20,39,Interaction,"I don’t agree, but I’ll try…","Tôi không đồng ý, nhưng tôi sẽ cố gắng"
+19,0,19,Interaction,You won't listen,Bạn đâu lắng nghe tôi
+20,80,100,Sincerity,Nothing can come between our friendship,Không gì có thể chen vào giữa tình bạn của chúng ta
+21,60,79,Sincerity,Your existence adds colours to my life,Sự tồn tại của bạn tô điểm thêm cho cuộc sống của tôi
+22,40,59,Sincerity,I'll never betray your trust,Tôi sẽ không bao giờ phản bội lòng tin của bạn
+23,20,39,Sincerity,Thank you for being honest with me,Cảm ơn bạn vì đã thành thật với tôi
+24,0,19,Sincerity,Sometimes I wonder if you truly are my friend,Đôi khi tôi tự hỏi liệu chúng ta có thật sự là bạn
+25,80,100,Respect,"In your presence, I feel free to be my authentic self",Tôi được là chính mình khi ở cạnh bạn
+26,60,79,Respect,I believe our differences bring us closer together,Tôi tin sự khác biệt đã mang chúng ta đến gần nhau hơn
+27,40,59,Respect,"Whatever you decide, I'll respect it",Tôi tôn trọng mọi quyết định của bạn
+28,20,39,Respect,I'd never want to make you feel uncomfortable,Tôi chẳng muốn làm bạn thấy buồn bực
+29,0,19,Respect,The things you do sometimes make me feel unappreciated,Những điều bạn làm khiến tôi cảm thấy không được trân trọng

@@ -291,11 +291,11 @@
       "Commitment": 1,
       "Interaction": 0
     },
-    "message": null
+    "message": "Being with you makes me feel at peace"
   },
   {
     "aspect": {
-      "pos_score": 61,
+      "pos_score": 62,
       "neg_score": -25,
       "num_score_p1": 8,
       "num_score_p2": 14,
@@ -306,7 +306,7 @@
       "num_score_n3": 5,
       "num_score_n4": 0,
       "matching_score": 0.75,
-      "pos_house_score": 3,
+      "pos_house_score": 4,
       "neg_house_score": -1,
       "pos_planet_score": 4,
       "neg_planet_score": 0
@@ -383,7 +383,9 @@
         "harmonies": {
           "Mutual Support": 1,
           "Time Together": 1,
-          "Trust": 1
+          "Trust": 1,
+          "Openness": 1,
+          "Effective Communication": 1
         },
         "compas": {
           "Commitment": 2,
@@ -392,7 +394,8 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Emotional_Connection": 1
+          "Emotional_Connection": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 1,
@@ -455,11 +458,11 @@
         8
       ],
       [
-        "Mutual Support",
-        6
+        "Openness",
+        7
       ],
       [
-        "Openness",
+        "Mutual Support",
         6
       ],
       [
@@ -487,6 +490,10 @@
         4
       ],
       [
+        "Effective Communication",
+        4
+      ],
+      [
         "Adaptability",
         4
       ],
@@ -504,10 +511,6 @@
       ],
       [
         "Boundaries",
-        3
-      ],
-      [
-        "Effective Communication",
         3
       ],
       [
@@ -623,8 +626,8 @@
     ],
     "compas": {
       "Intellectual_Connection": 25,
+      "Interaction": 22,
       "Commitment": 20,
-      "Interaction": 20,
       "Emotional_Connection": 13,
       "Respect": 12,
       "Sincerity": 6
@@ -637,7 +640,7 @@
       "Respect": 5,
       "Intellectual_Connection": 4
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -944,7 +947,7 @@
       "Intellectual_Connection": 4,
       "Sincerity": 3
     },
-    "message": null
+    "message": "Being with you makes me feel at peace"
   },
   {
     "aspect": {
@@ -1261,7 +1264,7 @@
       "Emotional_Connection": 4,
       "Intellectual_Connection": 2
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -1529,7 +1532,7 @@
       "Interaction": 2,
       "Sincerity": 1
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "No matter what happens, I'll always stay by your side"
   },
   {
     "aspect": {
@@ -1867,11 +1870,11 @@
       "Commitment": 6,
       "Sincerity": 6
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "Being with you makes me feel at peace"
   },
   {
     "aspect": {
-      "pos_score": 39,
+      "pos_score": 41,
       "neg_score": -14,
       "num_score_p1": 6,
       "num_score_p2": 9,
@@ -1884,7 +1887,7 @@
       "matching_score": 0.68,
       "pos_house_score": 4,
       "neg_house_score": 0,
-      "pos_planet_score": 2,
+      "pos_planet_score": 4,
       "neg_planet_score": -1
     },
     "destiny_score": 0.68,
@@ -1988,10 +1991,12 @@
         "harmonies": {
           "Empathy": 1,
           "Forgiveness": 1,
-          "Engaging Conversations": 1
+          "Engaging Conversations": 2,
+          "Effective Communication": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -1999,7 +2004,7 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1,
-          "Interaction": 1
+          "Interaction": 3
         },
         "challenges": {
           "Jealousy and Competition": 1
@@ -2018,7 +2023,7 @@
     "harmonies": [
       [
         "Engaging Conversations",
-        6
+        7
       ],
       [
         "Shared Values",
@@ -2053,6 +2058,10 @@
         3
       ],
       [
+        "Time Together",
+        3
+      ],
+      [
         "Gratitude",
         3
       ],
@@ -2069,10 +2078,6 @@
         2
       ],
       [
-        "Time Together",
-        2
-      ],
-      [
         "Personality Traits",
         2
       ],
@@ -2082,6 +2087,10 @@
       ],
       [
         "Honesty",
+        2
+      ],
+      [
+        "Effective Communication",
         2
       ],
       [
@@ -2098,10 +2107,6 @@
       ],
       [
         "Resilience",
-        1
-      ],
-      [
-        "Effective Communication",
         1
       ]
     ],
@@ -2176,12 +2181,12 @@
       ]
     ],
     "compas": {
+      "Interaction": 14,
       "Intellectual_Connection": 12,
-      "Interaction": 12,
       "Respect": 10,
+      "Commitment": 8,
       "Emotional_Connection": 8,
-      "Sincerity": 8,
-      "Commitment": 7
+      "Sincerity": 8
     },
     "incompas": {
       "Interaction": 7,
@@ -2191,11 +2196,11 @@
       "Respect": 3,
       "Emotional_Connection": 2
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
-      "pos_score": 45,
+      "pos_score": 47,
       "neg_score": -18,
       "num_score_p1": 7,
       "num_score_p2": 10,
@@ -2208,7 +2213,7 @@
       "matching_score": 0.76,
       "pos_house_score": 2,
       "neg_house_score": 0,
-      "pos_planet_score": 1,
+      "pos_planet_score": 3,
       "neg_planet_score": -1
     },
     "destiny_score": 0.76,
@@ -2305,15 +2310,19 @@
       },
       "planet_harmonies": {
         "harmonies": {
-          "Trust": 1
+          "Trust": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 1,
+          "Commitment": 2,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {
           "Jealousy and Competition": 1,
@@ -2361,6 +2370,14 @@
         4
       ],
       [
+        "Engaging Conversations",
+        4
+      ],
+      [
+        "Time Together",
+        4
+      ],
+      [
         "Shared Goals",
         3
       ],
@@ -2369,11 +2386,7 @@
         3
       ],
       [
-        "Engaging Conversations",
-        3
-      ],
-      [
-        "Time Together",
+        "Effective Communication",
         3
       ],
       [
@@ -2382,10 +2395,6 @@
       ],
       [
         "Equality",
-        2
-      ],
-      [
-        "Effective Communication",
         2
       ],
       [
@@ -2501,8 +2510,8 @@
     ],
     "compas": {
       "Intellectual_Connection": 18,
-      "Interaction": 15,
-      "Commitment": 11,
+      "Interaction": 17,
+      "Commitment": 12,
       "Respect": 11,
       "Emotional_Connection": 8,
       "Sincerity": 5
@@ -2515,11 +2524,11 @@
       "Sincerity": 3,
       "Respect": 2
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
-      "pos_score": 43,
+      "pos_score": 45,
       "neg_score": -22,
       "num_score_p1": 4,
       "num_score_p2": 8,
@@ -2529,13 +2538,13 @@
       "num_score_n2": 5,
       "num_score_n3": 3,
       "num_score_n4": 0,
-      "matching_score": 0.62,
+      "matching_score": 0.71,
       "pos_house_score": 1,
       "neg_house_score": 0,
-      "pos_planet_score": 6,
+      "pos_planet_score": 8,
       "neg_planet_score": 0
     },
-    "destiny_score": 0.62,
+    "destiny_score": 0.71,
     "first_person": "Thuy",
     "second_person": "Cbd",
     "harmony_challenge": {
@@ -2634,11 +2643,13 @@
           "Gratitude": 1,
           "Chemistry": 2,
           "Acceptance": 2,
-          "Effective Communication": 1,
-          "Empathy": 1
+          "Effective Communication": 2,
+          "Empathy": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -2647,7 +2658,7 @@
           "Sincerity": 1,
           "Emotional_Connection": 3,
           "Respect": 2,
-          "Interaction": 1
+          "Interaction": 3
         },
         "challenges": {
           "Codependency": 1
@@ -2665,12 +2676,12 @@
     },
     "harmonies": [
       [
-        "Chemistry",
+        "Time Together",
         6
       ],
       [
-        "Time Together",
-        5
+        "Chemistry",
+        6
       ],
       [
         "Trust",
@@ -2693,11 +2704,19 @@
         3
       ],
       [
+        "Effective Communication",
+        3
+      ],
+      [
         "Shared Interests",
         3
       ],
       [
         "Adaptability",
+        3
+      ],
+      [
+        "Engaging Conversations",
         3
       ],
       [
@@ -2722,14 +2741,6 @@
       ],
       [
         "Equality",
-        2
-      ],
-      [
-        "Effective Communication",
-        2
-      ],
-      [
-        "Engaging Conversations",
         2
       ],
       [
@@ -2848,11 +2859,11 @@
       ]
     ],
     "compas": {
-      "Commitment": 13,
+      "Commitment": 14,
       "Emotional_Connection": 13,
       "Intellectual_Connection": 12,
+      "Interaction": 10,
       "Respect": 9,
-      "Interaction": 8,
       "Sincerity": 8
     },
     "incompas": {
@@ -2863,11 +2874,11 @@
       "Interaction": 5,
       "Commitment": 3
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
-      "pos_score": 34,
+      "pos_score": 36,
       "neg_score": -24,
       "num_score_p1": 6,
       "num_score_p2": 7,
@@ -2880,7 +2891,7 @@
       "matching_score": 0.59,
       "pos_house_score": 0,
       "neg_house_score": -1,
-      "pos_planet_score": 3,
+      "pos_planet_score": 5,
       "neg_planet_score": 0
     },
     "destiny_score": 0.59,
@@ -2978,10 +2989,13 @@
           "Gratitude": 1,
           "Chemistry": 1,
           "Acceptance": 1,
-          "Trust": 1
+          "Trust": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 1,
+          "Commitment": 2,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -2989,7 +3003,8 @@
           "Physical": 0,
           "Sincerity": 1,
           "Emotional_Connection": 1,
-          "Respect": 1
+          "Respect": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 2
@@ -3015,11 +3030,11 @@
         5
       ],
       [
-        "Gratitude",
-        3
+        "Time Together",
+        4
       ],
       [
-        "Time Together",
+        "Gratitude",
         3
       ],
       [
@@ -3067,6 +3082,14 @@
         2
       ],
       [
+        "Effective Communication",
+        2
+      ],
+      [
+        "Engaging Conversations",
+        2
+      ],
+      [
         "Shared Goals",
         1
       ],
@@ -3076,14 +3099,6 @@
       ],
       [
         "Mutual Respect",
-        1
-      ],
-      [
-        "Effective Communication",
-        1
-      ],
-      [
-        "Engaging Conversations",
         1
       ],
       [
@@ -3180,10 +3195,10 @@
     "compas": {
       "Emotional_Connection": 10,
       "Intellectual_Connection": 10,
+      "Commitment": 9,
       "Respect": 9,
-      "Commitment": 8,
-      "Sincerity": 7,
-      "Interaction": 6
+      "Interaction": 8,
+      "Sincerity": 7
     },
     "incompas": {
       "Interaction": 14,
@@ -3193,7 +3208,7 @@
       "Respect": 4,
       "Commitment": 2
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -3766,7 +3781,7 @@
       "Emotional_Connection": 2,
       "Respect": 2
     },
-    "message": null
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -4088,7 +4103,7 @@
       "Respect": 3,
       "Emotional_Connection": 2
     },
-    "message": null
+    "message": "Your existence adds colours to my life"
   },
   {
     "aspect": {
@@ -4427,7 +4442,7 @@
       "Commitment": 6,
       "Intellectual_Connection": 3
     },
-    "message": "You could have had anyone in this world, but you chose me. Thank You"
+    "message": "I'll never betray your trust"
   },
   {
     "aspect": {
@@ -4746,7 +4761,7 @@
       "Sincerity": 1,
       "Respect": 0
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -5073,7 +5088,7 @@
       "Respect": 6,
       "Commitment": 3
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -5402,7 +5417,7 @@
       "Respect": 6,
       "Commitment": 3
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -5696,7 +5711,7 @@
       "Intellectual_Connection": 1,
       "Sincerity": 1
     },
-    "message": null
+    "message": "In your presence, I feel free to be my authentic self"
   },
   {
     "aspect": {
@@ -6005,11 +6020,11 @@
       "Emotional_Connection": 3,
       "Respect": 3
     },
-    "message": null
+    "message": "In your presence, I feel free to be my authentic self"
   },
   {
     "aspect": {
-      "pos_score": 43,
+      "pos_score": 45,
       "neg_score": -16,
       "num_score_p1": 4,
       "num_score_p2": 7,
@@ -6019,13 +6034,13 @@
       "num_score_n2": 5,
       "num_score_n3": 0,
       "num_score_n4": 0,
-      "matching_score": 0.68,
-      "pos_house_score": 2,
+      "matching_score": 0.76,
+      "pos_house_score": 4,
       "neg_house_score": 0,
       "pos_planet_score": 1,
       "neg_planet_score": 0
     },
-    "destiny_score": 0.68,
+    "destiny_score": 0.76,
     "first_person": "chiha",
     "second_person": "nyc",
     "harmony_challenge": {
@@ -6092,10 +6107,13 @@
         "harmonies": {
           "Gratitude": 1,
           "Chemistry": 1,
-          "Acceptance": 1
+          "Acceptance": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -6103,7 +6121,8 @@
           "Physical": 0,
           "Sincerity": 1,
           "Emotional_Connection": 1,
-          "Respect": 1
+          "Respect": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 1
@@ -6153,15 +6172,15 @@
         5
       ],
       [
+        "Engaging Conversations",
+        5
+      ],
+      [
         "Shared Goals",
         4
       ],
       [
         "Mutual Support",
-        4
-      ],
-      [
-        "Engaging Conversations",
         4
       ],
       [
@@ -6171,6 +6190,14 @@
       [
         "Adaptability",
         4
+      ],
+      [
+        "Time Together",
+        3
+      ],
+      [
+        "Effective Communication",
+        3
       ],
       [
         "Shared Interests",
@@ -6193,10 +6220,6 @@
         2
       ],
       [
-        "Time Together",
-        2
-      ],
-      [
         "Chemistry",
         2
       ],
@@ -6210,10 +6233,6 @@
       ],
       [
         "Equality",
-        2
-      ],
-      [
-        "Effective Communication",
         2
       ],
       [
@@ -6305,9 +6324,9 @@
     ],
     "compas": {
       "Intellectual_Connection": 14,
-      "Interaction": 12,
+      "Interaction": 14,
+      "Commitment": 10,
       "Sincerity": 10,
-      "Commitment": 9,
       "Respect": 9,
       "Emotional_Connection": 8
     },
@@ -6319,7 +6338,7 @@
       "Commitment": 4,
       "Respect": 2
     },
-    "message": null
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -6613,7 +6632,7 @@
       "Commitment": 1,
       "Interaction": 0
     },
-    "message": null
+    "message": "Being with you makes me feel at peace"
   },
   {
     "aspect": {
@@ -6959,7 +6978,7 @@
       "Emotional_Connection": 7,
       "Commitment": 5
     },
-    "message": null
+    "message": "Thank you for being honest with me"
   },
   {
     "aspect": {
@@ -7271,11 +7290,11 @@
       "Emotional_Connection": 3,
       "Intellectual_Connection": 3
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "No matter what happens, I'll always stay by your side"
   },
   {
     "aspect": {
-      "pos_score": 47,
+      "pos_score": 48,
       "neg_score": -13,
       "num_score_p1": 11,
       "num_score_p2": 13,
@@ -7288,7 +7307,7 @@
       "matching_score": 0.76,
       "pos_house_score": 0,
       "neg_house_score": -2,
-      "pos_planet_score": 0,
+      "pos_planet_score": 1,
       "neg_planet_score": -1
     },
     "destiny_score": 0.76,
@@ -7381,14 +7400,18 @@
         }
       },
       "planet_harmonies": {
-        "harmonies": {},
+        "harmonies": {
+          "Openness": 1,
+          "Effective Communication": 1
+        },
         "compas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {
           "Neglect": 1
@@ -7429,6 +7452,10 @@
         4
       ],
       [
+        "Effective Communication",
+        4
+      ],
+      [
         "Honesty",
         4
       ],
@@ -7449,10 +7476,6 @@
         3
       ],
       [
-        "Effective Communication",
-        3
-      ],
-      [
         "Chemistry",
         3
       ],
@@ -7466,7 +7489,7 @@
       ],
       [
         "Openness",
-        2
+        3
       ],
       [
         "Shared Goals",
@@ -7573,7 +7596,7 @@
       "Sincerity": 14,
       "Commitment": 13,
       "Intellectual_Connection": 12,
-      "Interaction": 8
+      "Interaction": 10
     },
     "incompas": {
       "Commitment": 7,
@@ -7583,7 +7606,7 @@
       "Emotional_Connection": 4,
       "Intellectual_Connection": 3
     },
-    "message": null
+    "message": "I believe our differences bring us closer together"
   },
   {
     "aspect": {
@@ -7885,7 +7908,7 @@
       "Emotional_Connection": 4,
       "Respect": 3
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -8198,11 +8221,11 @@
       "Sincerity": 4,
       "Respect": 2
     },
-    "message": null
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
-      "pos_score": 31,
+      "pos_score": 32,
       "neg_score": -17,
       "num_score_p1": 11,
       "num_score_p2": 8,
@@ -8213,7 +8236,7 @@
       "num_score_n3": 2,
       "num_score_n4": 0,
       "matching_score": 0.54,
-      "pos_house_score": 0,
+      "pos_house_score": 1,
       "neg_house_score": -1,
       "pos_planet_score": 1,
       "neg_planet_score": 0
@@ -8287,7 +8310,9 @@
       },
       "house_harmonies": {
         "harmonies": {
-          "Empathy": 1
+          "Empathy": 1,
+          "Openness": 1,
+          "Effective Communication": 1
         },
         "compas": {
           "Commitment": 0,
@@ -8296,7 +8321,8 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Emotional_Connection": 1
+          "Emotional_Connection": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Betrayals": 1
@@ -8338,7 +8364,7 @@
     "harmonies": [
       [
         "Openness",
-        5
+        6
       ],
       [
         "Mutual Respect",
@@ -8393,6 +8419,10 @@
         2
       ],
       [
+        "Effective Communication",
+        2
+      ],
+      [
         "Sense of Humor",
         2
       ],
@@ -8402,10 +8432,6 @@
       ],
       [
         "Independence",
-        1
-      ],
-      [
-        "Effective Communication",
         1
       ],
       [
@@ -8512,8 +8538,8 @@
       ]
     ],
     "compas": {
+      "Interaction": 12,
       "Commitment": 10,
-      "Interaction": 10,
       "Respect": 9,
       "Emotional_Connection": 7,
       "Sincerity": 7,
@@ -8527,11 +8553,11 @@
       "Emotional_Connection": 5,
       "Commitment": 3
     },
-    "message": "You could have had anyone in this world, but you chose me. Thank You"
+    "message": "Whatever you decide, I'll respect it"
   },
   {
     "aspect": {
-      "pos_score": 34,
+      "pos_score": 37,
       "neg_score": -10,
       "num_score_p1": 4,
       "num_score_p2": 8,
@@ -8542,9 +8568,9 @@
       "num_score_n3": 1,
       "num_score_n4": 0,
       "matching_score": 0.66,
-      "pos_house_score": 0,
+      "pos_house_score": 2,
       "neg_house_score": -2,
-      "pos_planet_score": 2,
+      "pos_planet_score": 3,
       "neg_planet_score": -1
     },
     "destiny_score": 0.66,
@@ -8600,14 +8626,19 @@
         "Sincerity": 6
       },
       "house_harmonies": {
-        "harmonies": {},
+        "harmonies": {
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
+        },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {
           "Jealousy and Competition": 2,
@@ -8626,7 +8657,9 @@
       "planet_harmonies": {
         "harmonies": {
           "Mutual Support": 1,
-          "Time Together": 1
+          "Time Together": 1,
+          "Openness": 1,
+          "Effective Communication": 1
         },
         "compas": {
           "Commitment": 1,
@@ -8635,7 +8668,8 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Emotional_Connection": 1
+          "Emotional_Connection": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Dishonesty": 1
@@ -8653,6 +8687,10 @@
     },
     "harmonies": [
       [
+        "Effective Communication",
+        5
+      ],
+      [
         "Trust",
         5
       ],
@@ -8661,16 +8699,16 @@
         5
       ],
       [
+        "Time Together",
+        4
+      ],
+      [
         "Shared Values",
         4
       ],
       [
-        "Effective Communication",
-        3
-      ],
-      [
-        "Time Together",
-        3
+        "Openness",
+        4
       ],
       [
         "Sense of Humor",
@@ -8681,7 +8719,7 @@
         3
       ],
       [
-        "Openness",
+        "Engaging Conversations",
         3
       ],
       [
@@ -8702,10 +8740,6 @@
       ],
       [
         "Mutual Support",
-        2
-      ],
-      [
-        "Engaging Conversations",
         2
       ],
       [
@@ -8768,10 +8802,10 @@
       ]
     ],
     "compas": {
+      "Interaction": 12,
+      "Commitment": 11,
       "Intellectual_Connection": 11,
-      "Commitment": 10,
       "Respect": 10,
-      "Interaction": 8,
       "Emotional_Connection": 5,
       "Sincerity": 2
     },
@@ -8783,7 +8817,7 @@
       "Intellectual_Connection": 1,
       "Interaction": 0
     },
-    "message": null
+    "message": "No matter what happens, I'll always stay by your side"
   },
   {
     "aspect": {
@@ -9087,7 +9121,7 @@
       "Interaction": 6,
       "Respect": 5
     },
-    "message": null
+    "message": "I love that you know me so well"
   },
   {
     "aspect": {
@@ -9411,7 +9445,7 @@
       "Commitment": 3,
       "Respect": 3
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "No matter what happens, I'll always stay by your side"
   },
   {
     "aspect": {
@@ -9735,11 +9769,11 @@
       "Commitment": 4,
       "Emotional_Connection": 3
     },
-    "message": null
+    "message": "Your existence adds colours to my life"
   },
   {
     "aspect": {
-      "pos_score": 42,
+      "pos_score": 44,
       "neg_score": -15,
       "num_score_p1": 9,
       "num_score_p2": 7,
@@ -9750,7 +9784,7 @@
       "num_score_n3": 2,
       "num_score_n4": 0,
       "matching_score": 0.68,
-      "pos_house_score": 3,
+      "pos_house_score": 5,
       "neg_house_score": 0,
       "pos_planet_score": 3,
       "neg_planet_score": 0
@@ -9827,12 +9861,14 @@
         "harmonies": {
           "Empathy": 1,
           "Forgiveness": 1,
-          "Engaging Conversations": 2,
+          "Engaging Conversations": 3,
+          "Effective Communication": 1,
+          "Time Together": 1,
           "Sense of Humor": 1,
           "Shared Interests": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -9840,7 +9876,7 @@
           "Physical": 0,
           "Emotional_Connection": 1,
           "Respect": 1,
-          "Interaction": 2,
+          "Interaction": 4,
           "Intellectual Connection": 2
         },
         "challenges": {},
@@ -9885,7 +9921,7 @@
     "harmonies": [
       [
         "Time Together",
-        5
+        6
       ],
       [
         "Empathy",
@@ -9920,16 +9956,16 @@
         4
       ],
       [
+        "Effective Communication",
+        3
+      ],
+      [
         "Sense of Humor",
         3
       ],
       [
         "Shared Interests",
         3
-      ],
-      [
-        "Effective Communication",
-        2
       ],
       [
         "Shared Goals",
@@ -10065,9 +10101,9 @@
     "compas": {
       "Respect": 14,
       "Sincerity": 13,
-      "Commitment": 11,
+      "Commitment": 12,
+      "Interaction": 10,
       "Emotional_Connection": 9,
-      "Interaction": 8,
       "Intellectual_Connection": 7
     },
     "incompas": {
@@ -10078,7 +10114,7 @@
       "Commitment": 3,
       "Sincerity": 2
     },
-    "message": null
+    "message": "I believe our differences bring us closer together"
   },
   {
     "aspect": {
@@ -10378,7 +10414,7 @@
       "Respect": 3,
       "Sincerity": 0
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -10677,11 +10713,11 @@
       "Respect": 2,
       "Sincerity": 2
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
-      "pos_score": 41,
+      "pos_score": 45,
       "neg_score": -20,
       "num_score_p1": 6,
       "num_score_p2": 12,
@@ -10691,13 +10727,13 @@
       "num_score_n2": 3,
       "num_score_n3": 4,
       "num_score_n4": 0,
-      "matching_score": 0.62,
-      "pos_house_score": 5,
+      "matching_score": 0.71,
+      "pos_house_score": 7,
       "neg_house_score": 0,
-      "pos_planet_score": 2,
+      "pos_planet_score": 4,
       "neg_planet_score": 0
     },
-    "destiny_score": 0.62,
+    "destiny_score": 0.71,
     "first_person": "LA",
     "second_person": "Hale",
     "harmony_challenge": {
@@ -10765,17 +10801,20 @@
       },
       "house_harmonies": {
         "harmonies": {
-          "Time Together": 1,
+          "Time Together": 2,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
           "Chemistry": 1,
           "Acceptance": 1
         },
         "compas": {
-          "Commitment": 1,
+          "Commitment": 2,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
+          "Interaction": 2,
           "Emotional_Connection": 1,
           "Respect": 1
         },
@@ -10793,10 +10832,13 @@
         "harmonies": {
           "Gratitude": 1,
           "Chemistry": 1,
-          "Acceptance": 1
+          "Acceptance": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -10804,7 +10846,8 @@
           "Physical": 0,
           "Sincerity": 1,
           "Emotional_Connection": 1,
-          "Respect": 1
+          "Respect": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 1
@@ -10822,6 +10865,10 @@
     },
     "harmonies": [
       [
+        "Engaging Conversations",
+        6
+      ],
+      [
         "Acceptance",
         5
       ],
@@ -10830,12 +10877,12 @@
         5
       ],
       [
-        "Loyalty",
+        "Time Together",
         5
       ],
       [
-        "Engaging Conversations",
-        4
+        "Loyalty",
+        5
       ],
       [
         "Shared Interests",
@@ -10855,10 +10902,6 @@
       ],
       [
         "Independence",
-        3
-      ],
-      [
-        "Time Together",
         3
       ],
       [
@@ -10994,10 +11037,10 @@
     ],
     "compas": {
       "Sincerity": 15,
+      "Interaction": 14,
       "Respect": 13,
-      "Interaction": 10,
+      "Commitment": 10,
       "Emotional_Connection": 9,
-      "Commitment": 8,
       "Intellectual_Connection": 7
     },
     "incompas": {
@@ -11008,7 +11051,7 @@
       "Intellectual_Connection": 4,
       "Commitment": 3
     },
-    "message": null
+    "message": "Your existence adds colours to my life"
   },
   {
     "aspect": {
@@ -11630,7 +11673,7 @@
       "Sincerity": 1,
       "Respect": 0
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -11933,7 +11976,7 @@
       "Commitment": 5,
       "Emotional_Connection": 1
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -12204,7 +12247,7 @@
   },
   {
     "aspect": {
-      "pos_score": 36,
+      "pos_score": 37,
       "neg_score": -9,
       "num_score_p1": 6,
       "num_score_p2": 5,
@@ -12215,7 +12258,7 @@
       "num_score_n3": 0,
       "num_score_n4": 0,
       "matching_score": 0.66,
-      "pos_house_score": 3,
+      "pos_house_score": 4,
       "neg_house_score": 0,
       "pos_planet_score": 2,
       "neg_planet_score": -1
@@ -12284,8 +12327,9 @@
       },
       "house_harmonies": {
         "harmonies": {
-          "Effective Communication": 2,
+          "Effective Communication": 3,
           "Empathy": 1,
+          "Openness": 1,
           "Engaging Conversations": 1,
           "Mutual Support": 1
         },
@@ -12296,7 +12340,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Interaction": 3,
+          "Interaction": 5,
           "Emotional_Connection": 2
         },
         "challenges": {},
@@ -12338,6 +12382,10 @@
     },
     "harmonies": [
       [
+        "Effective Communication",
+        5
+      ],
+      [
         "Mutual Support",
         4
       ],
@@ -12347,10 +12395,6 @@
       ],
       [
         "Time Together",
-        4
-      ],
-      [
-        "Effective Communication",
         4
       ],
       [
@@ -12406,6 +12450,10 @@
         2
       ],
       [
+        "Openness",
+        2
+      ],
+      [
         "Acceptance",
         2
       ],
@@ -12419,10 +12467,6 @@
       ],
       [
         "Boundaries",
-        1
-      ],
-      [
-        "Openness",
         1
       ],
       [
@@ -12493,9 +12537,9 @@
       ]
     ],
     "compas": {
+      "Interaction": 13,
       "Commitment": 11,
       "Intellectual_Connection": 11,
-      "Interaction": 11,
       "Emotional_Connection": 10,
       "Respect": 8,
       "Sincerity": 5
@@ -12508,7 +12552,7 @@
       "Respect": 2,
       "Sincerity": 0
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -12807,7 +12851,7 @@
       "Commitment": 3,
       "Respect": 3
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -13123,7 +13167,7 @@
       "Emotional_Connection": 5,
       "Commitment": 1
     },
-    "message": null
+    "message": "Your existence adds colours to my life"
   },
   {
     "aspect": {
@@ -13428,7 +13472,7 @@
       "Respect": 5,
       "Commitment": 2
     },
-    "message": null
+    "message": "I believe our differences bring us closer together"
   },
   {
     "aspect": {
@@ -13734,7 +13778,7 @@
       "Commitment": 6,
       "Sincerity": 3
     },
-    "message": "You could have had anyone in this world, but you chose me. Thank You"
+    "message": "Whatever you decide, I'll respect it"
   },
   {
     "aspect": {
@@ -14068,7 +14112,7 @@
       "Sincerity": 6,
       "Commitment": 4
     },
-    "message": null
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -14372,7 +14416,7 @@
       "Commitment": 2,
       "Sincerity": 2
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -14656,11 +14700,11 @@
       "Commitment": 1,
       "Respect": 1
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
-      "pos_score": 33,
+      "pos_score": 35,
       "neg_score": -18,
       "num_score_p1": 9,
       "num_score_p2": 5,
@@ -14673,7 +14717,7 @@
       "matching_score": 0.63,
       "pos_house_score": 2,
       "neg_house_score": 0,
-      "pos_planet_score": 2,
+      "pos_planet_score": 4,
       "neg_planet_score": -1
     },
     "destiny_score": 0.63,
@@ -14778,10 +14822,13 @@
         "harmonies": {
           "Gratitude": 1,
           "Chemistry": 1,
-          "Acceptance": 1
+          "Acceptance": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -14789,7 +14836,8 @@
           "Physical": 0,
           "Sincerity": 1,
           "Emotional_Connection": 1,
-          "Respect": 1
+          "Respect": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 1,
@@ -14858,11 +14906,19 @@
         2
       ],
       [
+        "Time Together",
+        2
+      ],
+      [
         "Honesty",
         2
       ],
       [
         "Adaptability",
+        2
+      ],
+      [
+        "Effective Communication",
         2
       ],
       [
@@ -14872,14 +14928,6 @@
       [
         "Boundaries",
         2
-      ],
-      [
-        "Time Together",
-        1
-      ],
-      [
-        "Effective Communication",
-        1
       ],
       [
         "Shared Goals",
@@ -14990,11 +15038,11 @@
     ],
     "compas": {
       "Respect": 16,
+      "Interaction": 10,
       "Intellectual_Connection": 9,
       "Emotional_Connection": 8,
-      "Interaction": 8,
       "Sincerity": 7,
-      "Commitment": 5
+      "Commitment": 6
     },
     "incompas": {
       "Commitment": 13,
@@ -15004,7 +15052,7 @@
       "Intellectual_Connection": 5,
       "Sincerity": 5
     },
-    "message": null
+    "message": "I believe our differences bring us closer together"
   },
   {
     "aspect": {
@@ -15352,11 +15400,11 @@
       "Emotional_Connection": 6,
       "Sincerity": 3
     },
-    "message": null
+    "message": "I believe our differences bring us closer together"
   },
   {
     "aspect": {
-      "pos_score": 23,
+      "pos_score": 24,
       "neg_score": -25,
       "num_score_p1": 7,
       "num_score_p2": 5,
@@ -15367,7 +15415,7 @@
       "num_score_n3": 1,
       "num_score_n4": 1,
       "matching_score": 0.38,
-      "pos_house_score": 0,
+      "pos_house_score": 1,
       "neg_house_score": -2,
       "pos_planet_score": 3,
       "neg_planet_score": 0
@@ -15438,7 +15486,9 @@
       },
       "house_harmonies": {
         "harmonies": {
-          "Empathy": 1
+          "Empathy": 1,
+          "Openness": 1,
+          "Effective Communication": 1
         },
         "compas": {
           "Commitment": 0,
@@ -15447,7 +15497,8 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Emotional_Connection": 1
+          "Emotional_Connection": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Betrayals": 1,
@@ -15529,6 +15580,10 @@
         2
       ],
       [
+        "Openness",
+        2
+      ],
+      [
         "Trust",
         2
       ],
@@ -15554,10 +15609,6 @@
       ],
       [
         "Boundaries",
-        1
-      ],
-      [
-        "Openness",
         1
       ],
       [
@@ -15656,9 +15707,9 @@
       ]
     ],
     "compas": {
+      "Interaction": 9,
       "Commitment": 7,
       "Intellectual_Connection": 7,
-      "Interaction": 7,
       "Sincerity": 7,
       "Emotional_Connection": 5,
       "Respect": 3
@@ -15671,7 +15722,7 @@
       "Respect": 4,
       "Sincerity": 3
     },
-    "message": "Unless commitment is made, there are only promises and hopes"
+    "message": "I don\u2019t agree, but I\u2019ll try\u2026"
   },
   {
     "aspect": {
@@ -15985,7 +16036,7 @@
       "Respect": 4,
       "Sincerity": 0
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "No matter what happens, I'll always stay by your side"
   },
   {
     "aspect": {
@@ -16283,11 +16334,11 @@
       "Respect": 2,
       "Sincerity": 1
     },
-    "message": null
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
-      "pos_score": 38,
+      "pos_score": 39,
       "neg_score": -32,
       "num_score_p1": 8,
       "num_score_p2": 10,
@@ -16297,13 +16348,13 @@
       "num_score_n2": 5,
       "num_score_n3": 5,
       "num_score_n4": 0,
-      "matching_score": 0.43,
+      "matching_score": 0.53,
       "pos_house_score": 0,
       "neg_house_score": -2,
-      "pos_planet_score": 0,
+      "pos_planet_score": 1,
       "neg_planet_score": -1
     },
-    "destiny_score": 0.43,
+    "destiny_score": 0.53,
     "first_person": "Ne",
     "second_person": "Thuy",
     "harmony_challenge": {
@@ -16403,14 +16454,18 @@
         }
       },
       "planet_harmonies": {
-        "harmonies": {},
+        "harmonies": {
+          "Openness": 1,
+          "Effective Communication": 1
+        },
         "compas": {
           "Commitment": 0,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {
           "Neglect": 1
@@ -16491,6 +16546,10 @@
         2
       ],
       [
+        "Effective Communication",
+        2
+      ],
+      [
         "Shared Interests",
         2
       ],
@@ -16499,12 +16558,12 @@
         2
       ],
       [
-        "Adaptability",
+        "Openness",
         2
       ],
       [
-        "Effective Communication",
-        1
+        "Adaptability",
+        2
       ],
       [
         "Forgiveness",
@@ -16516,10 +16575,6 @@
       ],
       [
         "Boundaries",
-        1
-      ],
-      [
-        "Openness",
         1
       ]
     ],
@@ -16624,10 +16679,10 @@
     "compas": {
       "Emotional_Connection": 12,
       "Sincerity": 12,
+      "Interaction": 11,
       "Respect": 11,
       "Intellectual_Connection": 10,
-      "Commitment": 9,
-      "Interaction": 9
+      "Commitment": 9
     },
     "incompas": {
       "Emotional_Connection": 11,
@@ -16637,11 +16692,11 @@
       "Commitment": 6,
       "Intellectual_Connection": 5
     },
-    "message": null
+    "message": "I hope I can be a shoulder for you to lean on"
   },
   {
     "aspect": {
-      "pos_score": 41,
+      "pos_score": 43,
       "neg_score": -18,
       "num_score_p1": 4,
       "num_score_p2": 9,
@@ -16654,7 +16709,7 @@
       "matching_score": 0.68,
       "pos_house_score": 4,
       "neg_house_score": -1,
-      "pos_planet_score": 2,
+      "pos_planet_score": 4,
       "neg_planet_score": 0
     },
     "destiny_score": 0.68,
@@ -16761,10 +16816,13 @@
         "harmonies": {
           "Gratitude": 1,
           "Chemistry": 1,
-          "Acceptance": 1
+          "Acceptance": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -16772,7 +16830,8 @@
           "Physical": 0,
           "Sincerity": 1,
           "Emotional_Connection": 1,
-          "Respect": 1
+          "Respect": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 1
@@ -16798,6 +16857,10 @@
         5
       ],
       [
+        "Engaging Conversations",
+        5
+      ],
+      [
         "Shared Values",
         4
       ],
@@ -16807,10 +16870,6 @@
       ],
       [
         "Empathy",
-        4
-      ],
-      [
-        "Engaging Conversations",
         4
       ],
       [
@@ -16846,6 +16905,10 @@
         2
       ],
       [
+        "Time Together",
+        2
+      ],
+      [
         "Chemistry",
         2
       ],
@@ -16863,10 +16926,6 @@
       ],
       [
         "Resilience",
-        1
-      ],
-      [
-        "Time Together",
         1
       ],
       [
@@ -16970,10 +17029,10 @@
     ],
     "compas": {
       "Respect": 16,
-      "Interaction": 12,
+      "Interaction": 14,
       "Emotional_Connection": 11,
       "Intellectual_Connection": 9,
-      "Commitment": 7,
+      "Commitment": 8,
       "Sincerity": 7
     },
     "incompas": {
@@ -16984,7 +17043,7 @@
       "Commitment": 4,
       "Intellectual_Connection": 4
     },
-    "message": null
+    "message": "I believe our differences bring us closer together"
   },
   {
     "aspect": {
@@ -17294,11 +17353,11 @@
       "Interaction": 6,
       "Commitment": 4
     },
-    "message": null
+    "message": "I'll never betray your trust"
   },
   {
     "aspect": {
-      "pos_score": 25,
+      "pos_score": 26,
       "neg_score": -11,
       "num_score_p1": 6,
       "num_score_p2": 7,
@@ -17309,7 +17368,7 @@
       "num_score_n3": 0,
       "num_score_n4": 0,
       "matching_score": 0.51,
-      "pos_house_score": 1,
+      "pos_house_score": 2,
       "neg_house_score": 0,
       "pos_planet_score": 1,
       "neg_planet_score": 0
@@ -17378,7 +17437,9 @@
       },
       "house_harmonies": {
         "harmonies": {
-          "Time Together": 1
+          "Time Together": 1,
+          "Openness": 1,
+          "Effective Communication": 1
         },
         "compas": {
           "Commitment": 1,
@@ -17386,7 +17447,8 @@
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {},
         "incompas": {
@@ -17444,6 +17506,10 @@
         3
       ],
       [
+        "Openness",
+        3
+      ],
+      [
         "Shared Values",
         3
       ],
@@ -17469,10 +17535,6 @@
       ],
       [
         "Conflict Resolution",
-        2
-      ],
-      [
-        "Openness",
         2
       ],
       [
@@ -17580,9 +17642,9 @@
     ],
     "compas": {
       "Respect": 9,
+      "Interaction": 8,
       "Commitment": 7,
       "Sincerity": 7,
-      "Interaction": 6,
       "Emotional_Connection": 5,
       "Intellectual_Connection": 5
     },
@@ -17594,11 +17656,11 @@
       "Respect": 4,
       "Sincerity": 2
     },
-    "message": null
+    "message": "Spending time with you brings peace to my mind"
   },
   {
     "aspect": {
-      "pos_score": 27,
+      "pos_score": 29,
       "neg_score": -22,
       "num_score_p1": 7,
       "num_score_p2": 7,
@@ -17611,7 +17673,7 @@
       "matching_score": 0.5,
       "pos_house_score": 1,
       "neg_house_score": -1,
-      "pos_planet_score": 1,
+      "pos_planet_score": 3,
       "neg_planet_score": -1
     },
     "destiny_score": 0.5,
@@ -17704,15 +17766,19 @@
       },
       "planet_harmonies": {
         "harmonies": {
-          "Trust": 1
+          "Trust": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 1,
+          "Commitment": 2,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {
           "Jealousy and Competition": 1,
@@ -17744,7 +17810,15 @@
         4
       ],
       [
+        "Time Together",
+        3
+      ],
+      [
         "Mutual Support",
+        3
+      ],
+      [
+        "Engaging Conversations",
         3
       ],
       [
@@ -17764,19 +17838,15 @@
         2
       ],
       [
-        "Time Together",
-        2
-      ],
-      [
         "Conflict Resolution",
         2
       ],
       [
-        "Shared Interests",
+        "Effective Communication",
         2
       ],
       [
-        "Engaging Conversations",
+        "Shared Interests",
         2
       ],
       [
@@ -17793,10 +17863,6 @@
       ],
       [
         "Honesty",
-        1
-      ],
-      [
-        "Effective Communication",
         1
       ],
       [
@@ -17888,9 +17954,9 @@
     ],
     "compas": {
       "Respect": 11,
+      "Interaction": 9,
+      "Commitment": 7,
       "Emotional_Connection": 7,
-      "Interaction": 7,
-      "Commitment": 6,
       "Intellectual_Connection": 6,
       "Sincerity": 6
     },
@@ -17902,11 +17968,11 @@
       "Respect": 4,
       "Intellectual_Connection": 1
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
-      "pos_score": 47,
+      "pos_score": 49,
       "neg_score": -20,
       "num_score_p1": 13,
       "num_score_p2": 4,
@@ -17919,7 +17985,7 @@
       "matching_score": 0.71,
       "pos_house_score": 1,
       "neg_house_score": 0,
-      "pos_planet_score": 2,
+      "pos_planet_score": 4,
       "neg_planet_score": -1
     },
     "destiny_score": 0.71,
@@ -18019,10 +18085,13 @@
         "harmonies": {
           "Gratitude": 1,
           "Chemistry": 1,
-          "Acceptance": 1
+          "Acceptance": 1,
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
         },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
@@ -18030,7 +18099,8 @@
           "Physical": 0,
           "Sincerity": 1,
           "Emotional_Connection": 1,
-          "Respect": 1
+          "Respect": 1,
+          "Interaction": 2
         },
         "challenges": {
           "Codependency": 1,
@@ -18051,12 +18121,16 @@
     },
     "harmonies": [
       [
+        "Time Together",
+        7
+      ],
+      [
         "Acceptance",
         7
       ],
       [
-        "Time Together",
-        6
+        "Engaging Conversations",
+        5
       ],
       [
         "Gratitude",
@@ -18064,10 +18138,6 @@
       ],
       [
         "Chemistry",
-        4
-      ],
-      [
-        "Engaging Conversations",
         4
       ],
       [
@@ -18119,6 +18189,10 @@
         2
       ],
       [
+        "Effective Communication",
+        2
+      ],
+      [
         "Shared Interests",
         2
       ],
@@ -18129,10 +18203,6 @@
       [
         "Trust",
         2
-      ],
-      [
-        "Effective Communication",
-        1
       ],
       [
         "Boundaries",
@@ -18230,11 +18300,11 @@
       ]
     ],
     "compas": {
+      "Commitment": 13,
       "Emotional_Connection": 13,
+      "Interaction": 13,
       "Sincerity": 13,
-      "Commitment": 12,
       "Intellectual_Connection": 12,
-      "Interaction": 11,
       "Respect": 11
     },
     "incompas": {
@@ -18245,7 +18315,7 @@
       "Intellectual_Connection": 4,
       "Respect": 3
     },
-    "message": null
+    "message": "How come we didn't meet sooner?"
   },
   {
     "aspect": {
@@ -18548,11 +18618,11 @@
       "Respect": 3,
       "Intellectual_Connection": 0
     },
-    "message": null
+    "message": "No matter what happens, I'll always stay by your side"
   },
   {
     "aspect": {
-      "pos_score": 35,
+      "pos_score": 37,
       "neg_score": -27,
       "num_score_p1": 6,
       "num_score_p2": 10,
@@ -18565,7 +18635,7 @@
       "matching_score": 0.43,
       "pos_house_score": 0,
       "neg_house_score": -2,
-      "pos_planet_score": 0,
+      "pos_planet_score": 2,
       "neg_planet_score": -1
     },
     "destiny_score": 0.43,
@@ -18661,14 +18731,19 @@
         }
       },
       "planet_harmonies": {
-        "harmonies": {},
+        "harmonies": {
+          "Effective Communication": 1,
+          "Engaging Conversations": 1,
+          "Time Together": 1
+        },
         "compas": {
-          "Commitment": 0,
+          "Commitment": 1,
           "Communication": 0,
           "Emotional": 0,
           "Intellectual": 0,
           "Lifestyle": 0,
-          "Physical": 0
+          "Physical": 0,
+          "Interaction": 2
         },
         "challenges": {
           "Jealousy and Competition": 1
@@ -18690,6 +18765,10 @@
         6
       ],
       [
+        "Engaging Conversations",
+        5
+      ],
+      [
         "Shared Values",
         4
       ],
@@ -18698,11 +18777,11 @@
         4
       ],
       [
-        "Gratitude",
+        "Time Together",
         4
       ],
       [
-        "Engaging Conversations",
+        "Gratitude",
         4
       ],
       [
@@ -18711,10 +18790,6 @@
       ],
       [
         "Personality Traits",
-        3
-      ],
-      [
-        "Time Together",
         3
       ],
       [
@@ -18735,6 +18810,10 @@
       ],
       [
         "Empathy",
+        2
+      ],
+      [
+        "Effective Communication",
         2
       ],
       [
@@ -18759,10 +18838,6 @@
       ],
       [
         "Boundaries",
-        1
-      ],
-      [
-        "Effective Communication",
         1
       ],
       [
@@ -18865,9 +18940,9 @@
       ]
     ],
     "compas": {
-      "Interaction": 12,
+      "Interaction": 14,
+      "Commitment": 11,
       "Sincerity": 11,
-      "Commitment": 10,
       "Respect": 9,
       "Intellectual_Connection": 8,
       "Emotional_Connection": 6
@@ -18880,7 +18955,7 @@
       "Emotional_Connection": 6,
       "Intellectual_Connection": 6
     },
-    "message": null
+    "message": "Whatever that is on your mind, I'm here to listen"
   },
   {
     "aspect": {
@@ -19184,6 +19259,6 @@
       "Interaction": 5,
       "Respect": 5
     },
-    "message": "If forever does exist, please let it be you"
+    "message": "Being with you makes me feel at peace"
   }
 ]
