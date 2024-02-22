@@ -428,7 +428,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 3,
+          "Intellectual_Connection": 3,
           "Emotional_Connection": 1,
           "Respect": 1,
           "Interaction": 2
@@ -625,7 +625,7 @@
       ]
     ],
     "compas": {
-      "Intellectual_Connection": 25,
+      "Intellectual_Connection": 28,
       "Interaction": 22,
       "Commitment": 20,
       "Emotional_Connection": 13,
@@ -689,12 +689,12 @@
       },
       "aspect_challenges": {
         "Unresponsive Interactions": 2,
+        "Disregard for Boundaries": 4,
+        "Lack for Consideration": 3,
         "Codependency": 1,
         "Lack of Chemistry": 3,
         "Differing Sense of Humor": 2,
-        "Disregard for Boundaries": 3,
         "Unwillingness to Change": 2,
-        "Lack for Consideration": 2,
         "Lack of Trust": 2,
         "Conflict Resolution": 2,
         "Neglect": 1,
@@ -718,7 +718,7 @@
         "Emotional_Connection": 5,
         "Intellectual_Connection": 4,
         "Interaction": 5,
-        "Respect": 5,
+        "Respect": 7,
         "Sincerity": 2
       },
       "house_harmonies": {
@@ -867,11 +867,15 @@
     ],
     "challenges": [
       [
-        "Lack of Chemistry",
+        "Disregard for Boundaries",
+        4
+      ],
+      [
+        "Lack for Consideration",
         3
       ],
       [
-        "Disregard for Boundaries",
+        "Lack of Chemistry",
         3
       ],
       [
@@ -884,10 +888,6 @@
       ],
       [
         "Unwillingness to Change",
-        2
-      ],
-      [
-        "Lack for Consideration",
         2
       ],
       [
@@ -940,10 +940,10 @@
       "Sincerity": 3
     },
     "incompas": {
+      "Respect": 7,
       "Commitment": 5,
       "Emotional_Connection": 5,
       "Interaction": 5,
-      "Respect": 5,
       "Intellectual_Connection": 4,
       "Sincerity": 3
     },
@@ -1371,7 +1371,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -1521,8 +1521,8 @@
       "Respect": 13,
       "Emotional_Connection": 8,
       "Sincerity": 8,
-      "Interaction": 7,
-      "Intellectual_Connection": 6
+      "Intellectual_Connection": 7,
+      "Interaction": 7
     },
     "incompas": {
       "Intellectual_Connection": 8,
@@ -2295,7 +2295,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 3,
+          "Intellectual_Connection": 3,
           "Interaction": 1
         },
         "challenges": {},
@@ -2509,7 +2509,7 @@
       ]
     ],
     "compas": {
-      "Intellectual_Connection": 18,
+      "Intellectual_Connection": 21,
       "Interaction": 17,
       "Commitment": 12,
       "Respect": 11,
@@ -2524,7 +2524,7 @@
       "Sincerity": 3,
       "Respect": 2
     },
-    "message": "How come we didn't meet sooner?"
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -2590,7 +2590,6 @@
         "Lack of Support": 2,
         "Lack of Chemistry": 2,
         "Jealousy and Competition": 2,
-        "Differing Sense of Humor": 1,
         "Differing Interests": 1,
         "Lack of Trust": 1,
         "Neglect": 1,
@@ -2608,7 +2607,7 @@
       "aspect_incompas": {
         "Commitment": 3,
         "Emotional_Connection": 6,
-        "Intellectual_Connection": 10,
+        "Intellectual_Connection": 9,
         "Interaction": 5,
         "Respect": 8,
         "Sincerity": 8
@@ -2834,10 +2833,6 @@
         1
       ],
       [
-        "Differing Sense of Humor",
-        1
-      ],
-      [
         "Differing Interests",
         1
       ],
@@ -2867,14 +2862,14 @@
       "Sincerity": 8
     },
     "incompas": {
-      "Intellectual_Connection": 10,
+      "Intellectual_Connection": 9,
       "Emotional_Connection": 8,
       "Respect": 8,
       "Sincerity": 8,
       "Interaction": 5,
       "Commitment": 3
     },
-    "message": "No one gets me like you do"
+    "message": "Being with you makes me feel at peace"
   },
   {
     "aspect": {
@@ -3843,9 +3838,10 @@
         "Dishonesty": 3,
         "Jealousy and Competition": 2,
         "Unwillingness to Change": 2,
+        "Disregard for Boundaries": 1,
+        "Lack for Consideration": 2,
         "Indifference": 1,
         "Criticism": 1,
-        "Lack for Consideration": 1,
         "Lack of Trust": 2,
         "Resentment": 1
       },
@@ -3862,7 +3858,7 @@
         "Emotional_Connection": 2,
         "Intellectual_Connection": 5,
         "Interaction": 4,
-        "Respect": 3,
+        "Respect": 5,
         "Sincerity": 9
       },
       "house_harmonies": {
@@ -3909,7 +3905,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 3,
+          "Intellectual_Connection": 3,
           "Interaction": 1
         },
         "challenges": {},
@@ -4055,6 +4051,10 @@
         2
       ],
       [
+        "Lack for Consideration",
+        2
+      ],
+      [
         "Lack of Trust",
         2
       ],
@@ -4071,6 +4071,10 @@
         1
       ],
       [
+        "Disregard for Boundaries",
+        1
+      ],
+      [
         "Indifference",
         1
       ],
@@ -4079,16 +4083,12 @@
         1
       ],
       [
-        "Lack for Consideration",
-        1
-      ],
-      [
         "Resentment",
         1
       ]
     ],
     "compas": {
-      "Intellectual_Connection": 12,
+      "Intellectual_Connection": 15,
       "Interaction": 12,
       "Respect": 12,
       "Sincerity": 11,
@@ -4099,8 +4099,8 @@
       "Sincerity": 10,
       "Commitment": 5,
       "Intellectual_Connection": 5,
+      "Respect": 5,
       "Interaction": 4,
-      "Respect": 3,
       "Emotional_Connection": 2
     },
     "message": "Your existence adds colours to my life"
@@ -4203,7 +4203,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -4430,8 +4430,8 @@
       "Commitment": 12,
       "Sincerity": 12,
       "Emotional_Connection": 10,
+      "Intellectual_Connection": 9,
       "Respect": 9,
-      "Intellectual_Connection": 8,
       "Interaction": 8
     },
     "incompas": {
@@ -4540,7 +4540,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 2,
+          "Intellectual_Connection": 2,
           "Interaction": 1
         },
         "challenges": {},
@@ -4746,8 +4746,8 @@
       ]
     ],
     "compas": {
+      "Intellectual_Connection": 13,
       "Respect": 13,
-      "Intellectual_Connection": 11,
       "Interaction": 11,
       "Commitment": 7,
       "Sincerity": 7,
@@ -5530,7 +5530,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -5699,7 +5699,7 @@
       "Respect": 14,
       "Commitment": 13,
       "Interaction": 12,
-      "Intellectual_Connection": 10,
+      "Intellectual_Connection": 11,
       "Sincerity": 9,
       "Emotional_Connection": 8
     },
@@ -5831,7 +5831,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -6007,8 +6007,8 @@
     "compas": {
       "Respect": 17,
       "Commitment": 16,
+      "Intellectual_Connection": 12,
       "Interaction": 12,
-      "Intellectual_Connection": 11,
       "Sincerity": 10,
       "Emotional_Connection": 6
     },
@@ -6070,7 +6070,7 @@
         "Adaptability": 4
       },
       "aspect_challenges": {
-        "Differing Values": 3,
+        "Differing Values": 2,
         "Differing Sense of Humor": 1,
         "Reserved": 4,
         "Unwillingness to Change": 1,
@@ -6081,6 +6081,7 @@
         "Jealousy and Competition": 2,
         "Betrayals": 2,
         "Dishonesty": 2,
+        "Lack of Chemistry": 1,
         "Indifference": 3,
         "Fragility": 1,
         "Unresponsive Interactions": 1,
@@ -6097,8 +6098,8 @@
       },
       "aspect_incompas": {
         "Commitment": 4,
-        "Emotional_Connection": 7,
-        "Intellectual_Connection": 6,
+        "Emotional_Connection": 8,
+        "Intellectual_Connection": 5,
         "Interaction": 5,
         "Respect": 2,
         "Sincerity": 6
@@ -6149,7 +6150,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -6262,16 +6263,16 @@
         4
       ],
       [
-        "Differing Values",
-        3
-      ],
-      [
         "Codependency",
         3
       ],
       [
         "Indifference",
         3
+      ],
+      [
+        "Differing Values",
+        2
       ],
       [
         "Differing Interests",
@@ -6314,6 +6315,10 @@
         1
       ],
       [
+        "Lack of Chemistry",
+        1
+      ],
+      [
         "Fragility",
         1
       ],
@@ -6323,7 +6328,7 @@
       ]
     ],
     "compas": {
-      "Intellectual_Connection": 14,
+      "Intellectual_Connection": 15,
       "Interaction": 14,
       "Commitment": 10,
       "Sincerity": 10,
@@ -6331,9 +6336,9 @@
       "Emotional_Connection": 8
     },
     "incompas": {
-      "Emotional_Connection": 8,
-      "Intellectual_Connection": 6,
+      "Emotional_Connection": 9,
       "Sincerity": 6,
+      "Intellectual_Connection": 5,
       "Interaction": 5,
       "Commitment": 4,
       "Respect": 2
@@ -7699,7 +7704,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -7723,7 +7728,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -7893,7 +7898,7 @@
       ]
     ],
     "compas": {
-      "Intellectual_Connection": 14,
+      "Intellectual_Connection": 16,
       "Interaction": 14,
       "Commitment": 11,
       "Respect": 9,
@@ -7908,7 +7913,7 @@
       "Emotional_Connection": 4,
       "Respect": 3
     },
-    "message": "How come we didn't meet sooner?"
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -8348,7 +8353,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -8542,8 +8547,8 @@
       "Commitment": 10,
       "Respect": 9,
       "Emotional_Connection": 7,
-      "Sincerity": 7,
-      "Intellectual_Connection": 6
+      "Intellectual_Connection": 7,
+      "Sincerity": 7
     },
     "incompas": {
       "Respect": 11,
@@ -8932,7 +8937,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -9107,8 +9112,8 @@
     ],
     "compas": {
       "Interaction": 10,
+      "Intellectual_Connection": 9,
       "Commitment": 8,
-      "Intellectual_Connection": 8,
       "Sincerity": 8,
       "Respect": 6,
       "Emotional_Connection": 4
@@ -9184,11 +9189,12 @@
         "Resentment": 2,
         "Unwillingness to Change": 1,
         "Lack of Chemistry": 1,
+        "Disregard for Boundaries": 1,
+        "Lack for Consideration": 2,
         "Lack of Trust": 1,
         "Neglect": 1,
         "Manipulation and Control": 1,
         "Dishonesty": 1,
-        "Lack for Consideration": 1,
         "Betrayals": 1
       },
       "aspect_compas": {
@@ -9204,7 +9210,7 @@
         "Emotional_Connection": 6,
         "Intellectual_Connection": 4,
         "Interaction": 6,
-        "Respect": 3,
+        "Respect": 5,
         "Sincerity": 4
       },
       "house_harmonies": {
@@ -9244,7 +9250,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -9381,6 +9387,10 @@
         2
       ],
       [
+        "Lack for Consideration",
+        2
+      ],
+      [
         "Jealousy and Competition",
         1
       ],
@@ -9405,6 +9415,10 @@
         1
       ],
       [
+        "Disregard for Boundaries",
+        1
+      ],
+      [
         "Lack of Trust",
         1
       ],
@@ -9421,10 +9435,6 @@
         1
       ],
       [
-        "Lack for Consideration",
-        1
-      ],
-      [
         "Betrayals",
         1
       ]
@@ -9432,7 +9442,7 @@
     "compas": {
       "Commitment": 14,
       "Respect": 11,
-      "Intellectual_Connection": 9,
+      "Intellectual_Connection": 10,
       "Emotional_Connection": 8,
       "Sincerity": 8,
       "Interaction": 7
@@ -9440,10 +9450,10 @@
     "incompas": {
       "Emotional_Connection": 6,
       "Interaction": 6,
+      "Respect": 5,
       "Intellectual_Connection": 4,
       "Sincerity": 4,
-      "Commitment": 3,
-      "Respect": 3
+      "Commitment": 3
     },
     "message": "No matter what happens, I'll always stay by your side"
   },
@@ -9877,7 +9887,7 @@
           "Emotional_Connection": 1,
           "Respect": 1,
           "Interaction": 4,
-          "Intellectual Connection": 2
+          "Intellectual_Connection": 2
         },
         "challenges": {},
         "incompas": {
@@ -10104,7 +10114,7 @@
       "Commitment": 12,
       "Interaction": 10,
       "Emotional_Connection": 9,
-      "Intellectual_Connection": 7
+      "Intellectual_Connection": 9
     },
     "incompas": {
       "Interaction": 8,
@@ -10471,7 +10481,7 @@
         "Differing Sense of Humor": 1,
         "Reserved": 2,
         "Frequent Disagreements": 1,
-        "Conflict Resolution": 2,
+        "Conflict Resolution": 3,
         "Unwillingness to Change": 2,
         "Criticism": 1,
         "Differing Interests": 1,
@@ -10492,7 +10502,7 @@
         "Commitment": 4,
         "Emotional_Connection": 4,
         "Intellectual_Connection": 5,
-        "Interaction": 9,
+        "Interaction": 10,
         "Respect": 2,
         "Sincerity": 2
       },
@@ -10528,7 +10538,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -10637,15 +10647,15 @@
         3
       ],
       [
+        "Conflict Resolution",
+        3
+      ],
+      [
         "Indifference",
         2
       ],
       [
         "Reserved",
-        2
-      ],
-      [
-        "Conflict Resolution",
         2
       ],
       [
@@ -10700,13 +10710,13 @@
     "compas": {
       "Commitment": 11,
       "Interaction": 10,
+      "Intellectual_Connection": 9,
       "Respect": 9,
-      "Intellectual_Connection": 8,
       "Sincerity": 8,
       "Emotional_Connection": 3
     },
     "incompas": {
-      "Interaction": 9,
+      "Interaction": 10,
       "Intellectual_Connection": 5,
       "Commitment": 4,
       "Emotional_Connection": 4,
@@ -11475,7 +11485,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 2,
+          "Intellectual_Connection": 2,
           "Interaction": 1
         },
         "challenges": {},
@@ -11658,8 +11668,8 @@
       ]
     ],
     "compas": {
+      "Intellectual_Connection": 13,
       "Respect": 13,
-      "Intellectual_Connection": 11,
       "Interaction": 11,
       "Commitment": 7,
       "Sincerity": 7,
@@ -11725,7 +11735,6 @@
         "Conflict Resolution": 1,
         "Reserved": 1,
         "Lack of Trust": 1,
-        "Differing Sense of Humor": 1,
         "Manipulation and Control": 3,
         "Differing Interests": 1,
         "Neglect": 1,
@@ -11748,7 +11757,7 @@
       "aspect_incompas": {
         "Commitment": 5,
         "Emotional_Connection": 1,
-        "Intellectual_Connection": 7,
+        "Intellectual_Connection": 6,
         "Interaction": 10,
         "Respect": 6,
         "Sincerity": 7
@@ -11798,7 +11807,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 3,
+          "Intellectual_Connection": 3,
           "Interaction": 1
         },
         "challenges": {},
@@ -11944,10 +11953,6 @@
         1
       ],
       [
-        "Differing Sense of Humor",
-        1
-      ],
-      [
         "Differing Interests",
         1
       ],
@@ -11961,17 +11966,17 @@
       ]
     ],
     "compas": {
+      "Intellectual_Connection": 10,
       "Interaction": 9,
       "Respect": 9,
       "Emotional_Connection": 8,
-      "Intellectual_Connection": 7,
       "Sincerity": 7,
       "Commitment": 6
     },
     "incompas": {
       "Interaction": 10,
       "Sincerity": 9,
-      "Intellectual_Connection": 7,
+      "Intellectual_Connection": 6,
       "Respect": 6,
       "Commitment": 5,
       "Emotional_Connection": 1
@@ -12599,7 +12604,7 @@
         "Engaging Conversations": 1
       },
       "aspect_challenges": {
-        "Differing Values": 5,
+        "Differing Values": 4,
         "Reserved": 4,
         "Differing Goals": 1,
         "Conflict Resolution": 3,
@@ -12607,6 +12612,7 @@
         "Unresponsive Interactions": 3,
         "Resentment": 2,
         "Codependency": 1,
+        "Lack of Chemistry": 1,
         "Indifference": 3,
         "Fragility": 1,
         "Frequent Disagreements": 2,
@@ -12626,8 +12632,8 @@
       },
       "aspect_incompas": {
         "Commitment": 3,
-        "Emotional_Connection": 4,
-        "Intellectual_Connection": 10,
+        "Emotional_Connection": 5,
+        "Intellectual_Connection": 9,
         "Interaction": 13,
         "Respect": 3,
         "Sincerity": 1
@@ -12772,7 +12778,7 @@
     "challenges": [
       [
         "Differing Values",
-        5
+        4
       ],
       [
         "Reserved",
@@ -12819,6 +12825,10 @@
         1
       ],
       [
+        "Lack of Chemistry",
+        1
+      ],
+      [
         "Fragility",
         1
       ],
@@ -12845,8 +12855,8 @@
     },
     "incompas": {
       "Interaction": 13,
-      "Intellectual_Connection": 10,
-      "Emotional_Connection": 4,
+      "Intellectual_Connection": 9,
+      "Emotional_Connection": 5,
       "Sincerity": 4,
       "Commitment": 3,
       "Respect": 3
@@ -12911,7 +12921,7 @@
         "Lack for Consideration": 2,
         "Disregard for Boundaries": 2,
         "Manipulation and Control": 3,
-        "Conflict Resolution": 1,
+        "Conflict Resolution": 2,
         "Resentment": 2,
         "Unwillingness to Change": 1,
         "Criticism": 1,
@@ -12930,7 +12940,7 @@
         "Commitment": 1,
         "Emotional_Connection": 4,
         "Intellectual_Connection": 6,
-        "Interaction": 7,
+        "Interaction": 8,
         "Respect": 7,
         "Sincerity": 5
       },
@@ -13119,6 +13129,10 @@
         2
       ],
       [
+        "Conflict Resolution",
+        2
+      ],
+      [
         "Resentment",
         2
       ],
@@ -13132,10 +13146,6 @@
       ],
       [
         "Differing Goals",
-        1
-      ],
-      [
-        "Conflict Resolution",
         1
       ],
       [
@@ -13160,7 +13170,7 @@
       "Interaction": 7
     },
     "incompas": {
-      "Interaction": 7,
+      "Interaction": 8,
       "Respect": 7,
       "Sincerity": 7,
       "Intellectual_Connection": 6,
@@ -13565,7 +13575,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {
           "Neglect": 1
@@ -13768,7 +13778,7 @@
       "Respect": 10,
       "Emotional_Connection": 9,
       "Interaction": 5,
-      "Intellectual_Connection": 0
+      "Intellectual_Connection": 1
     },
     "incompas": {
       "Intellectual_Connection": 10,
@@ -14227,7 +14237,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -14401,8 +14411,8 @@
       ]
     ],
     "compas": {
+      "Intellectual_Connection": 16,
       "Commitment": 15,
-      "Intellectual_Connection": 15,
       "Respect": 8,
       "Sincerity": 8,
       "Interaction": 7,
@@ -14534,7 +14544,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 2,
+          "Intellectual_Connection": 2,
           "Interaction": 1
         },
         "challenges": {},
@@ -14685,9 +14695,9 @@
       ]
     ],
     "compas": {
+      "Intellectual_Connection": 11,
       "Interaction": 10,
       "Commitment": 9,
-      "Intellectual_Connection": 9,
       "Respect": 9,
       "Sincerity": 7,
       "Emotional_Connection": 5
@@ -14755,7 +14765,7 @@
         "Ego Clash": 1,
         "Unwillingness to Change": 5,
         "Lack for Consideration": 2,
-        "Conflict Resolution": 3,
+        "Conflict Resolution": 4,
         "Fragility": 2,
         "Resentment": 1,
         "Lack of Support": 1,
@@ -14784,7 +14794,7 @@
         "Commitment": 13,
         "Emotional_Connection": 3,
         "Intellectual_Connection": 5,
-        "Interaction": 9,
+        "Interaction": 10,
         "Respect": 6,
         "Sincerity": 3
       },
@@ -14953,7 +14963,7 @@
       ],
       [
         "Conflict Resolution",
-        3
+        4
       ],
       [
         "Lack of Trust",
@@ -15046,7 +15056,7 @@
     },
     "incompas": {
       "Commitment": 13,
-      "Interaction": 9,
+      "Interaction": 10,
       "Respect": 6,
       "Emotional_Connection": 5,
       "Intellectual_Connection": 5,
@@ -15186,7 +15196,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 3,
+          "Intellectual_Connection": 3,
           "Interaction": 1
         },
         "challenges": {},
@@ -15385,10 +15395,10 @@
       ]
     ],
     "compas": {
+      "Intellectual_Connection": 15,
       "Interaction": 14,
       "Commitment": 13,
       "Respect": 13,
-      "Intellectual_Connection": 12,
       "Sincerity": 12,
       "Emotional_Connection": 7
     },
@@ -15400,7 +15410,7 @@
       "Emotional_Connection": 6,
       "Sincerity": 3
     },
-    "message": "I believe our differences bring us closer together"
+    "message": "No one gets me like you do"
   },
   {
     "aspect": {
@@ -15446,11 +15456,11 @@
         "Honesty": 1
       },
       "aspect_challenges": {
-        "Lack of Chemistry": 1,
+        "Lack of Chemistry": 2,
         "Frequent Disagreements": 4,
         "Differing Interests": 4,
         "Ego Clash": 5,
-        "Differing Values": 6,
+        "Differing Values": 5,
         "Unresponsive Interactions": 3,
         "Codependency": 4,
         "Fragility": 3,
@@ -15478,8 +15488,8 @@
       },
       "aspect_incompas": {
         "Commitment": 7,
-        "Emotional_Connection": 9,
-        "Intellectual_Connection": 12,
+        "Emotional_Connection": 10,
+        "Intellectual_Connection": 11,
         "Interaction": 17,
         "Respect": 4,
         "Sincerity": 2
@@ -15622,11 +15632,11 @@
     ],
     "challenges": [
       [
-        "Differing Values",
-        6
+        "Ego Clash",
+        5
       ],
       [
-        "Ego Clash",
+        "Differing Values",
         5
       ],
       [
@@ -15662,6 +15672,10 @@
         3
       ],
       [
+        "Lack of Chemistry",
+        2
+      ],
+      [
         "Indifference",
         2
       ],
@@ -15676,10 +15690,6 @@
       [
         "Betrayals",
         2
-      ],
-      [
-        "Lack of Chemistry",
-        1
       ],
       [
         "Unwillingness to Change",
@@ -15716,8 +15726,8 @@
     },
     "incompas": {
       "Interaction": 17,
-      "Intellectual_Connection": 12,
-      "Emotional_Connection": 9,
+      "Intellectual_Connection": 11,
+      "Emotional_Connection": 10,
       "Commitment": 8,
       "Respect": 4,
       "Sincerity": 3
@@ -15786,7 +15796,7 @@
         "Unwillingness to Change": 2,
         "Criticism": 1,
         "Lack of Chemistry": 1,
-        "Differing Sense of Humor": 2,
+        "Differing Sense of Humor": 1,
         "Ego Clash": 1,
         "Differing Goals": 1
       },
@@ -15801,7 +15811,7 @@
       "aspect_incompas": {
         "Commitment": 6,
         "Emotional_Connection": 6,
-        "Intellectual_Connection": 9,
+        "Intellectual_Connection": 8,
         "Interaction": 7,
         "Respect": 4,
         "Sincerity": 0
@@ -15984,10 +15994,6 @@
         2
       ],
       [
-        "Differing Sense of Humor",
-        2
-      ],
-      [
         "Indifference",
         1
       ],
@@ -16012,6 +16018,10 @@
         1
       ],
       [
+        "Differing Sense of Humor",
+        1
+      ],
+      [
         "Ego Clash",
         1
       ],
@@ -16029,7 +16039,7 @@
       "Respect": 6
     },
     "incompas": {
-      "Intellectual_Connection": 9,
+      "Intellectual_Connection": 8,
       "Interaction": 7,
       "Commitment": 6,
       "Emotional_Connection": 6,
@@ -16090,13 +16100,13 @@
         "Criticism": 1,
         "Resentment": 1,
         "Codependency": 1,
-        "Differing Values": 4,
+        "Lack of Chemistry": 3,
         "Fragility": 1,
         "Reserved": 3,
+        "Differing Values": 3,
         "Differing Sense of Humor": 2,
         "Differing Interests": 1,
         "Lack of Trust": 1,
-        "Lack of Chemistry": 2,
         "Unresponsive Interactions": 1,
         "Conflict Resolution": 1,
         "Differing Goals": 1
@@ -16111,8 +16121,8 @@
       },
       "aspect_incompas": {
         "Commitment": 2,
-        "Emotional_Connection": 8,
-        "Intellectual_Connection": 8,
+        "Emotional_Connection": 9,
+        "Intellectual_Connection": 7,
         "Interaction": 5,
         "Respect": 2,
         "Sincerity": 0
@@ -16266,19 +16276,19 @@
         5
       ],
       [
-        "Differing Values",
-        4
+        "Lack of Chemistry",
+        3
       ],
       [
         "Reserved",
         3
       ],
       [
-        "Differing Sense of Humor",
-        2
+        "Differing Values",
+        3
       ],
       [
-        "Lack of Chemistry",
+        "Differing Sense of Humor",
         2
       ],
       [
@@ -16327,8 +16337,8 @@
       "Emotional_Connection": 6
     },
     "incompas": {
-      "Emotional_Connection": 8,
-      "Intellectual_Connection": 8,
+      "Emotional_Connection": 9,
+      "Intellectual_Connection": 7,
       "Interaction": 5,
       "Commitment": 2,
       "Respect": 2,
@@ -17471,7 +17481,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -17645,8 +17655,8 @@
       "Interaction": 8,
       "Commitment": 7,
       "Sincerity": 7,
-      "Emotional_Connection": 5,
-      "Intellectual_Connection": 5
+      "Intellectual_Connection": 6,
+      "Emotional_Connection": 5
     },
     "incompas": {
       "Commitment": 11,
@@ -19006,8 +19016,8 @@
         "Codependency": 4,
         "Unwillingness to Change": 1,
         "Differing Goals": 2,
-        "Differing Values": 5,
-        "Lack of Chemistry": 2,
+        "Differing Values": 4,
+        "Lack of Chemistry": 3,
         "Manipulation and Control": 3,
         "Dishonesty": 2,
         "Lack for Consideration": 2,
@@ -19032,8 +19042,8 @@
       },
       "aspect_incompas": {
         "Commitment": 6,
-        "Emotional_Connection": 14,
-        "Intellectual_Connection": 8,
+        "Emotional_Connection": 15,
+        "Intellectual_Connection": 7,
         "Interaction": 5,
         "Respect": 5,
         "Sincerity": 7
@@ -19070,7 +19080,7 @@
           "Intellectual": 0,
           "Lifestyle": 0,
           "Physical": 0,
-          "Intellectual Connection": 1
+          "Intellectual_Connection": 1
         },
         "challenges": {},
         "incompas": {
@@ -19175,12 +19185,16 @@
         7
       ],
       [
-        "Differing Values",
-        5
-      ],
-      [
         "Codependency",
         4
+      ],
+      [
+        "Differing Values",
+        4
+      ],
+      [
+        "Lack of Chemistry",
+        3
       ],
       [
         "Manipulation and Control",
@@ -19200,10 +19214,6 @@
       ],
       [
         "Differing Goals",
-        2
-      ],
-      [
-        "Lack of Chemistry",
         2
       ],
       [
@@ -19245,15 +19255,15 @@
     ],
     "compas": {
       "Commitment": 14,
-      "Intellectual_Connection": 11,
+      "Intellectual_Connection": 12,
       "Sincerity": 10,
       "Emotional_Connection": 7,
       "Interaction": 6,
       "Respect": 4
     },
     "incompas": {
-      "Emotional_Connection": 14,
-      "Intellectual_Connection": 8,
+      "Emotional_Connection": 15,
+      "Intellectual_Connection": 7,
       "Sincerity": 7,
       "Commitment": 6,
       "Interaction": 5,
